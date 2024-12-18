@@ -5,8 +5,6 @@ import { NextResponse } from 'next/server';
 const prisma = new PrismaClient();
 
 export async function GET() {
-  const words = await prisma.word.findMany({
-    select: { text: true }, // Only fetch the word text
-  });
+  const words = await prisma.word.findMany();
   return NextResponse.json(words);
 }

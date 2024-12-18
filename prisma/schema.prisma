@@ -9,12 +9,15 @@ generator client {
 
 model Word {
   id        Int       @id @default(autoincrement())
-  text      String    @unique
-  meaning   String?
+  english   String    
+  partOfSpeech String 
+  chinese   String
   createdAt DateTime  @default(now())
 
   // Relation field
   testRecords UserTestRecord[]
+
+  @@unique([english, partOfSpeech])
 }
 
 model User {
