@@ -1,0 +1,42 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Word {
+  id        Int       @id @default(autoincrement())
+  text      String    @unique
+  meaning   String?
+  createdAt DateTime  @default(now())
+
+  // Relation field
+  testRecords UserTestRecord[]
+}
+
+model User {
+  id        Int       @id @default(autoincrement())
+  name      String
+  password  String
+  createdAt DateTime  @default(now())
+
+  // Relation field
+  testRecords UserTestRecord[]
+}
+
+model UserTestRecord {
+  id        Int      @id @default(autoincrement())
+  userId    Int      // Foreign key to User
+  wordId    Int      // Foreign key to Word
+  isCorrect Boolean  // Whether the word was answered correctly
+  testedAt  DateTime @default(now())
+
+  // Relation fields
+  user      User     @relation(fields: [userId], references: [id])
+  word      Word     @relation(fields: [wordId], references: [id])
+
+  @@unique([userId, wordId]) // Ensures a user cannot test the same word multiple times in the same session
+}
