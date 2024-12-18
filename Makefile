@@ -1,6 +1,7 @@
 
-# pnpm add prisma @prisma/client
-# pnpm dlx prisma init
+iprisma:
+	pnpm add prisma @prisma/client
+	pnpm dlx prisma init
 migrate:
 	pnpm dlx prisma migrate dev --name init
 gencode:

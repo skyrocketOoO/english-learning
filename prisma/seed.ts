@@ -1,33 +1,27 @@
 import { PrismaClient } from '@prisma/client';
+import data from './total_words3.json';
 
 const prisma = new PrismaClient();
 
-async function main() {
-  // Seed Users
-  // const user = await prisma.user.create({
-  //   data: { name: "username" },
-  // });
+interface Word {
+  english: string;
+  partOfSpeech: string;
+  chinese: string;
+}
 
+const words: Word[] = data.map(({ word, translate, part_of_speech }) => ({
+  english: word,
+  partOfSpeech: part_of_speech,
+  chinese: translate
+}));
+
+async function main() {
   // Seed Words
   await prisma.word.deleteMany({});
 
-  const words = await prisma.word.createMany({
-    data: [
-      { english: "apple", partOfSpeech: "N", chinese: "蘋果" },
-      { english: "eat", partOfSpeech: "V", chinese: "吃" },
-      { english: "sleep", partOfSpeech: "V", chinese: "睡" },
-      { english: "pig", partOfSpeech: "N", chinese: "豬" },
-    ],
+  await prisma.word.createMany({
+    data: words,
   });
-
-  // Seed Test Records
-  // await prisma.userTestRecord.create({
-  //   data: {
-  //     userId: user.id,
-  //     wordId: 1,
-  //     isCorrect: true,
-  //   },
-  // });
 
   console.log("Database seeded!");
 }
