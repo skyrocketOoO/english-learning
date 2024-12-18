@@ -9,13 +9,14 @@ with pdfplumber.open(pdf_path) as pdf:
     for page in pdf.pages:
         text += page.extract_text()
 
-# print(text)
-text = text[:10]
+print(text[:100])
+# text = text[:20]
 
 
 pattern = r"([a-zA-Z/]+(?:\s*\(\d+\))?)\s+\[.*?\]\s+.*?\.\s+(.+)"
 matches = re.findall(pattern, text)
 
+print(matches[0])
 # Convert matches into a DataFrame for better handling and saving
 df = pd.DataFrame(matches, columns=["English Word", "Chinese Meaning"])
 
@@ -23,4 +24,4 @@ df = pd.DataFrame(matches, columns=["English Word", "Chinese Meaning"])
 df.to_excel("words.xlsx", index=False)
 
 # Print to verify output
-print(df)
+# print(df)
