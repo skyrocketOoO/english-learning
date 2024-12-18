@@ -10,6 +10,7 @@ with pdfplumber.open(pdf_path) as pdf:
         text += page.extract_text()
 
 # print(text)
+text = text[:10]
 
 
 pattern = r"([a-zA-Z/]+(?:\s*\(\d+\))?)\s+\[.*?\]\s+.*?\.\s+(.+)"
