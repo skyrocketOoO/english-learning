@@ -54,7 +54,8 @@ export default function WordChallengePage() {
         chooseNewWord(wordList);
       }
     } else {
-      setMessage(`Wrong! The correct answer is: ${currentWord?.chinese}`);
+      setMessage("Are you serious?");
+      // setMessage(`Wrong! The correct answer is: ${currentWord?.chinese}`);
     }
   };
 
@@ -64,12 +65,12 @@ export default function WordChallengePage() {
       <div className="bg-white p-6 rounded-lg shadow-md w-96">
         {currentWord ? (
           <>
-            <p className="text-lg font-semibold mb-2">English:</p>
+            <p className="text-base font-semibold mb-2">English:</p>
             <div className="text-2xl font-bold text-blue-600 mb-4">{currentWord.english}</div>
-            <p className="text-lg font-semibold mb-2">Part of Speech:</p>
+            <p className="text-base font-semibold mb-2">Part of Speech:</p>
             <div className="text-lg font-medium text-gray-700 mb-4">{currentWord.partOfSpeech}</div>
 
-            <p className="text-lg font-semibold mb-2">Choose the correct Chinese translation:</p>
+            <p className="text-base font-semibold mb-2">Choose the correct Chinese translation:</p>
             <div className="grid grid-cols-1 gap-2">
               {options.map((option, index) => (
                 <button
