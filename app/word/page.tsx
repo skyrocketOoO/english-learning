@@ -19,6 +19,7 @@ export default function WordChallengePage() {
   const [wordList, setWordList] = useState<Word[]>([]);
   const [options, setOptions] = useState<Option[]>([]);
   const [message, setMessage] = useState<string>('');
+  const [currentIwordInd, setCurrentWordInd] = useState<number>(0);
 
   // Fetch words from the database on component mount
   useEffect(() => {
@@ -26,18 +27,25 @@ export default function WordChallengePage() {
       const response = await fetch('/api/words');
       const data: Word[] = await response.json(); // Type the data as an array of Word objects
       setWordList(data);
+      setCurrentWordInd(0);
       if (data.length > 0) {
-        chooseNewWord(data);
+        console.log(data.length);
+        chooseNextWord(data);
       }
     };
 
     fetchWords();
   }, []);
 
-  const chooseNewWord = (wordList: Word[]) => {
-    const correctWord = wordList[Math.floor(Math.random() * wordList.length)];
+  const chooseNextWord = (wordList: Word[]) => {
+    if (currentIwordInd == 10){
+      return;
+    }
+
+    setCurrentWordInd(currentIwordInd+1);
+    const correctWord = wordList[currentIwordInd];
     const incorrectWords = wordList
-      .filter((word) => word.english !== correctWord.english || word.partOfSpeech !== correctWord.partOfSpeech)
+      .filter((word) => word.english !== correctWord.english && word.partOfSpeech !== correctWord.partOfSpeech)
       .sort(() => 0.5 - Math.random())
       .slice(0, 3);
 
@@ -51,7 +59,7 @@ export default function WordChallengePage() {
     if (selectedChinese === currentWord?.chinese) {
       setMessage('Correct!');
       if (wordList.length > 0) {
-        chooseNewWord(wordList);
+        chooseNextWord(wordList);
       }
     } else {
       setMessage("Are you serious?");
@@ -92,6 +100,16 @@ export default function WordChallengePage() {
             {message}
           </div>
         )}
+        <div className="flex items-center justify-center">
+          {currentIwordInd === 10 && (
+            <button 
+              className="px-4 py-2 bg-purple-600 text-white rounded hover:bg-blue-700" 
+              onClick={() => console.log('Button clicked!')}
+            >
+              One more?
+            </button>
+          )}
+        </div>
       </div>
     </main>
   );
