@@ -31,7 +31,7 @@ export async function POST(request: NextRequest,
       data: {
         userId: userId,
         wordId: wordID,
-        isCorrect: false,
+        isCorrect: true,
       }
     })
   }else{

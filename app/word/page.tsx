@@ -25,7 +25,12 @@ export default function WordChallengePage() {
   // Fetch words from the database on component mount
   useEffect(() => {
     const fetchWords = async () => {
-      const response = await fetch('/api/words');
+      const sessionToken = localStorage.getItem('sessionToken');
+      const response = await fetch('/api/words', {
+        headers: {
+          'Authorization': `${sessionToken}`,
+        },
+      });
       const data: Word[] = await response.json(); // Type the data as an array of Word objects
       setWordList(data);
       setCurrentWordInd(0);
@@ -58,8 +63,6 @@ export default function WordChallengePage() {
 
   const handleAnswerClick = async (selectedChinese: string) => {
     if (selectedChinese === currentWord?.chinese) {
-        chooseNextWord(wordList);
-    } else {
       const sessionToken = localStorage.getItem('sessionToken');
       await fetch('/api/words/recordWrong/' + currentWord?.id, {
         method: 'POST',
@@ -68,6 +71,8 @@ export default function WordChallengePage() {
           'Authorization': `${sessionToken}`,
         },
       });
+      chooseNextWord(wordList);
+    } else {
       setMessage("Are you serious?");
     }
   };
