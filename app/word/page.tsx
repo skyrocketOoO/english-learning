@@ -7,6 +7,7 @@ interface Word {
   english: string;
   chinese: string;
   partOfSpeech: string;
+  id: string
 }
 
 interface Option {
@@ -55,15 +56,19 @@ export default function WordChallengePage() {
     setMessage('');
   };
 
-  const handleAnswerClick = (selectedChinese: string) => {
+  const handleAnswerClick = async (selectedChinese: string) => {
     if (selectedChinese === currentWord?.chinese) {
-      setMessage('Correct!');
-      if (wordList.length > 0) {
         chooseNextWord(wordList);
-      }
     } else {
+      const sessionToken = localStorage.getItem('sessionToken');
+      await fetch('/api/words/recordWrong/' + currentWord?.id, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `${sessionToken}`,
+        },
+      });
       setMessage("Are you serious?");
-      // setMessage(`Wrong! The correct answer is: ${currentWord?.chinese}`);
     }
   };
 

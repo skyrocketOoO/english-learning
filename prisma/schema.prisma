@@ -30,6 +30,12 @@ model User {
   testRecords UserTestRecord[]
 }
 
+model Session {
+  id        Int @id @default(autoincrement())
+  token     String
+  userId    Int      // Foreign key to User
+}
+
 model UserTestRecord {
   id        Int      @id @default(autoincrement())
   userId    Int      // Foreign key to User

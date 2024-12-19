@@ -1,6 +1,7 @@
 import { PrismaClient } from '@prisma/client';
 import { NextRequest, NextResponse } from 'next/server';
 import bcrypt from 'bcrypt';
+import { useReducer } from 'react';
 
 const prisma = new PrismaClient();
 
@@ -24,6 +25,12 @@ export async function POST(req: NextRequest) {
 
     // Generate a simple session token
     const sessionToken = `session-${Date.now()}-${user.id}`;
+    await prisma.session.create({
+      data: {
+        userId: user.id,
+        token: sessionToken
+      }
+    });
 
     // Optionally store the session token in the database (not implemented here)
     return NextResponse.json(
