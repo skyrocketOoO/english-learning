@@ -3,10 +3,11 @@ import { NextResponse, NextRequest } from 'next/server';
 
 const prisma = new PrismaClient();
 
-export async function POST(request: NextRequest,
-  { params }: { params: Promise<{ id: string }> }
-) {
-  const wordID = Number((await params).id);
+export async function POST(request: NextRequest) {
+  const req = await request.json();
+
+  const wordID = req["wordID"];
+  const correct = req["correct"];
   if (isNaN(wordID)) {
     return new Response("Invalid word ID", { status: 400 });
   }
@@ -31,21 +32,29 @@ export async function POST(request: NextRequest,
       data: {
         userId: userId,
         wordId: wordID,
-        isCorrect: true,
+        isCorrect: correct,
       }
     })
-  }else{
-
+  }else{ // not correct
+    if (!correct){
+      res.correctTimes = 0;
+      prisma.userTestRecord.update({
+        where: {id: res.id},
+        data: res
+      });
+    }else{
+      if (res.correctTimes == 2){
+        res.correctTimes = 0;
+        res.isCorrect = true;
+      }else{
+        res.correctTimes += 1;
+      }
+      prisma.userTestRecord.update({
+        where: {id: res.id},
+        data: res
+      });
+    }
   }
-
-
-  // Example database operation (replace with your logic)
-  // const result = await prisma.someModel.create({
-  //   data: {
-  //     field1: param1,
-  //     field2: param2,
-  //   },
-  // });
 
   return NextResponse.json({ success: true });
 }

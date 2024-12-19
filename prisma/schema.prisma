@@ -41,6 +41,7 @@ model UserTestRecord {
   userId    Int      // Foreign key to User
   wordId    Int      // Foreign key to Word
   isCorrect Boolean  // Whether the word was answered correctly
+  correctTimes Int   @default(0)
   testedAt  DateTime @default(now())
 
   // Relation fields

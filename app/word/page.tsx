@@ -64,15 +64,31 @@ export default function WordChallengePage() {
   const handleAnswerClick = async (selectedChinese: string) => {
     if (selectedChinese === currentWord?.chinese) {
       const sessionToken = localStorage.getItem('sessionToken');
-      await fetch('/api/words/recordWrong/' + currentWord?.id, {
+      await fetch('/api/words/recordWrong', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
           'Authorization': `${sessionToken}`,
         },
-      });
+        body: JSON.stringify({
+          wordID: currentWord.id,
+          correct: true
+        })
+      });      
       chooseNextWord(wordList);
     } else {
+      const sessionToken = localStorage.getItem('sessionToken');
+      await fetch('/api/words/recordWrong', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `${sessionToken}`,
+        },
+        body: JSON.stringify({
+          wordID: currentWord?.id,
+          correct: false
+        })
+      }); 
       setMessage("Are you serious?");
     }
   };
