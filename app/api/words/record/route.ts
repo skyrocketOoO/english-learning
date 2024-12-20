@@ -24,7 +24,7 @@ export async function POST(request: NextRequest) {
     return new Response("Invalid or expired token", { status: 403 });
   }
 
-  let res = await prisma.userTestRecord.findFirst({
+  const res = await prisma.userTestRecord.findFirst({
     where: {"wordId": wordID, userId: userId}
   })
   if (res == null){
@@ -48,7 +48,6 @@ export async function POST(request: NextRequest) {
         res.isCorrect = true;
       }else{
         res.correctTimes += 1;
-        console.log(res);
       }
 
       await prisma.userTestRecord.update({

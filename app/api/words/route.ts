@@ -30,7 +30,7 @@ export async function GET(request: NextRequest) {
     },
   });
 
-  let wordIds = []
+  const wordIds = []
   for (const v of correctIds){
     wordIds.push(v.wordId);
   }
