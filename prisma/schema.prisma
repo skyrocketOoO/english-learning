@@ -13,6 +13,7 @@ model Word {
   partOfSpeech String 
   chinese   String
   createdAt DateTime  @default(now())
+  audio     Bytes?
 
   // Relation field
   testRecords UserTestRecord[]
