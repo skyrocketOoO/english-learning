@@ -21,8 +21,8 @@ export default function WordChallengePage() {
   const [options, setOptions] = useState<Option[]>([]);
   const [message, setMessage] = useState<string>('');
   const [currentIwordInd, setCurrentWordInd] = useState<number>(0);
+  const [finish, setFinish] = useState<boolean>(false);
 
-  // Fetch words from the database on component mount
   useEffect(() => {
     const fetchWords = async () => {
       const sessionToken = localStorage.getItem('sessionToken');
@@ -45,9 +45,9 @@ export default function WordChallengePage() {
 
   const chooseNextWord = (wordList: Word[]) => {
     if (currentIwordInd == 10){
+      setFinish(true);
       return;
     }
-
     setCurrentWordInd(currentIwordInd+1);
     const correctWord = wordList[currentIwordInd];
     const incorrectWords = wordList
@@ -62,9 +62,9 @@ export default function WordChallengePage() {
   };
 
   const handleAnswerClick = async (selectedChinese: string) => {
+    const sessionToken = localStorage.getItem('sessionToken');
     if (selectedChinese === currentWord?.chinese) {
-      const sessionToken = localStorage.getItem('sessionToken');
-      await fetch('/api/words/recordWrong', {
+      await fetch('/api/words/record', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -77,8 +77,7 @@ export default function WordChallengePage() {
       });      
       chooseNextWord(wordList);
     } else {
-      const sessionToken = localStorage.getItem('sessionToken');
-      await fetch('/api/words/recordWrong', {
+      await fetch('/api/words/record', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -92,6 +91,27 @@ export default function WordChallengePage() {
       setMessage("Are you serious?");
     }
   };
+
+  const oneMore = async () => {
+    setFinish(false);
+    const fetchWords = async () => {
+      const sessionToken = localStorage.getItem('sessionToken');
+      const response = await fetch('/api/words', {
+        headers: {
+          'Authorization': `${sessionToken}`,
+        },
+      });
+      const data: Word[] = await response.json(); // Type the data as an array of Word objects
+      setWordList(data);
+      setCurrentWordInd(0);
+      if (data.length > 0) {
+        console.log(data.length);
+        chooseNextWord(data);
+      }
+    };
+
+    fetchWords();
+  }
 
   return (
     <main className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-gray-800">
@@ -126,11 +146,11 @@ export default function WordChallengePage() {
             {message}
           </div>
         )}
-        <div className="flex items-center justify-center">
-          {currentIwordInd === 10 && (
+        <div className="flex items-center justify-center m-3">
+          {finish && (
             <button 
               className="px-4 py-2 bg-purple-600 text-white rounded hover:bg-blue-700" 
-              onClick={() => console.log('Button clicked!')}
+              onClick={() => oneMore()}
             >
               One more?
             </button>

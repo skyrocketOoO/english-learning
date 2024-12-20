@@ -38,7 +38,7 @@ export async function POST(request: NextRequest) {
   }else{ // not correct
     if (!correct){
       res.correctTimes = 0;
-      prisma.userTestRecord.update({
+      await prisma.userTestRecord.update({
         where: {id: res.id},
         data: res
       });
@@ -48,8 +48,10 @@ export async function POST(request: NextRequest) {
         res.isCorrect = true;
       }else{
         res.correctTimes += 1;
+        console.log(res);
       }
-      prisma.userTestRecord.update({
+
+      await prisma.userTestRecord.update({
         where: {id: res.id},
         data: res
       });
