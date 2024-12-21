@@ -5,6 +5,7 @@ import bcrypt from 'bcrypt';
 const prisma = new PrismaClient();
 
 export async function POST(req: NextRequest) {
+  return NextResponse.json({ message: 'register method not allowed' }, { status: 400 });
   const { username, password } = await req.json();
 
   if (!username || !password) {

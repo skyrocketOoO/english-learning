@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
 // Define types for Word and Option
 interface Word {
@@ -22,8 +23,12 @@ export default function WordChallengePage() {
   const [message, setMessage] = useState<string>('');
   const [currentIwordInd, setCurrentWordInd] = useState<number>(0);
   const [finish, setFinish] = useState<boolean>(false);
+  const router = useRouter();
 
   useEffect(() => {
+    if (!localStorage.getItem("sessionToken")){
+      router.push('/');
+    }
     const fetchWords = async () => {
       const sessionToken = localStorage.getItem('sessionToken');
       const response = await fetch('/api/words', {
