@@ -15,6 +15,9 @@ fi
 
 # Create a tarball of the build and necessary files
 mkdir -p $PROJECT_DIR_NAME
+mkdir -p $PROJECT_DIR_NAME/prisma
+cp prisma/dev.db $PROJECT_DIR_NAME/prisma/
+cp prisma/schema.prisma $PROJECT_DIR_NAME/prisma/
 cp -r .next $PROJECT_DIR_NAME/
 cp -r public $PROJECT_DIR_NAME/
 cp next.config.mjs $PROJECT_DIR_NAME/
@@ -33,18 +36,19 @@ ENDSSH
 scp -i "~/.ssh/home.pem" $PROJECT_DIR_NAME.tar.gz $VM_USER@$VM_HOST:
 
 # Connect to the VM and set up the project
-# ssh -i "~/.ssh/home.pem" $VM_USER@$VM_HOST << "ENDSSH"
+ssh -i "~/.ssh/home.pem" $VM_USER@$VM_HOST << "ENDSSH"
+rm -rf wordgame
 
-# tar -xzvf $PROJECT_DIR_NAME.tar.gz
-# rm $PROJECT_DIR_NAME.tar.gz
+tar -xzvf wordgame.tar.gz
+rm wordgame.tar.gz
 
-# # Install dependencies
-# cd $PROJECT_DIR_NAME
-# pnpm install --prod
+cd wordgame
+pnpm install
+pnpm add prisma @prisma/client
+pnpm dlx prisma generate
 
-# # Start the application (optional: configure to run as a service)
-# sudo service $PROJECT_DIR_NAME restart
-# ENDSSH
+sudo service wordgame restart
+ENDSSH
 
 # Clean up local tarball
 rm $PROJECT_DIR_NAME.tar.gz
