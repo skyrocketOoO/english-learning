@@ -18,8 +18,7 @@ merged_data = [
     for (word, pos), translations in merged_dict.items()
 ]
 
-# Print the result
-# print(json.dumps(merged_data, ensure_ascii=False, indent=2))
+print(len(merged_data))
   
 with open('total_words.json', 'w', encoding='utf-8') as file:
     json.dump(merged_data, file, indent=2, ensure_ascii=False)
