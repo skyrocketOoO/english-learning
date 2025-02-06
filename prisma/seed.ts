@@ -1,5 +1,5 @@
 import { PrismaClient } from '@prisma/client';
-import data from './total_words3.json';
+import data from './total_words.json';
 
 const prisma = new PrismaClient();
 
