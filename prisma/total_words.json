@@ -20022,7 +20022,7 @@
   {
     "word": "sin",
     "part_of_speech": "n.",
-    "translate": "罪孽,罪惡"
+    "translate": "罪孽,罪惡;罪惡"
   },
   {
     "word": "pirate",
@@ -45458,5 +45458,10 @@
     "word": "gag",
     "part_of_speech": "v.",
     "translate": "堵嘴"
+  },
+  {
+    "word": "leash",
+    "part_of_speech": "n.",
+    "translate": "皮帶"
   }
 ]
