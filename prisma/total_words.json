@@ -19497,7 +19497,7 @@
   {
     "word": "treason",
     "part_of_speech": "n.",
-    "translate": " 叛國; 叛國罪; 背叛;謀反罪"
+    "translate": " 叛國; 叛國罪; 背叛;叛國罪;謀反罪"
   },
   {
     "word": "honor",
@@ -45453,5 +45453,10 @@
     "word": "tore",
     "part_of_speech": "v.",
     "translate": "撕毀"
+  },
+  {
+    "word": "gag",
+    "part_of_speech": "v.",
+    "translate": "堵嘴"
   }
 ]
