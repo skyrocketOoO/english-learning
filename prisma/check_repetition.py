@@ -14,7 +14,7 @@ for entry in data:
 
 # Convert merged dictionary back to list format
 merged_data = [
-    {"word": word, "part_of_speech": pos, "translate": "; ".join(sorted(translations))}
+    {"word": word, "part_of_speech": pos, "translate": ";".join(sorted(translations))}
     for (word, pos), translations in merged_dict.items()
 ]
 
