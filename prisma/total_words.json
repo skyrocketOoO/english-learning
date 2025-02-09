@@ -3017,7 +3017,7 @@
   {
     "word": "whisper",
     "part_of_speech": "v.",
-    "translate": "低語,耳語"
+    "translate": "低語,耳語;咬耳朵;耳語"
   },
   {
     "word": "exploit",
@@ -10017,7 +10017,7 @@
   {
     "word": "frail",
     "part_of_speech": "adj.",
-    "translate": "易損壞的;身體虛弱的"
+    "translate": "易損壞的;脆弱的;身體虛弱的"
   },
   {
     "word": "shrine",
@@ -13702,7 +13702,7 @@
   {
     "word": "scout",
     "part_of_speech": "v.",
-    "translate": "偵察;嘲笑,嘲弄;搜索"
+    "translate": "偵察;偵查;嘲笑,嘲弄;搜索"
   },
   {
     "word": "elbow",
@@ -15282,7 +15282,7 @@
   {
     "word": "chest",
     "part_of_speech": "n.",
-    "translate": "箱子,盒子;胸"
+    "translate": "箱子,盒子;胸;胸膛"
   },
   {
     "word": "scare",
@@ -15792,7 +15792,7 @@
   {
     "word": "flee",
     "part_of_speech": "v.",
-    "translate": "逃避;逃離"
+    "translate": "逃跑;逃避;逃離"
   },
   {
     "word": "frequency",
@@ -16967,7 +16967,7 @@
   {
     "word": "endure",
     "part_of_speech": "v.",
-    "translate": "忍耐,忍受"
+    "translate": "忍受;忍耐,忍受"
   },
   {
     "word": "timber",
@@ -29777,7 +29777,7 @@
   {
     "word": "grave",
     "part_of_speech": "n.",
-    "translate": "墓穴"
+    "translate": "墓穴;墳墓"
   },
   {
     "word": "up",
@@ -36792,7 +36792,7 @@
   {
     "word": "terror",
     "part_of_speech": "n.",
-    "translate": "恐怖,驚駭"
+    "translate": "恐怖;恐怖,驚駭"
   },
   {
     "word": "choke",
@@ -40042,7 +40042,7 @@
   {
     "word": "amuse",
     "part_of_speech": "v.",
-    "translate": "逗...高興"
+    "translate": "使娛樂;逗...高興;遊玩"
   },
   {
     "word": "errand",
@@ -40587,7 +40587,7 @@
   {
     "word": "dove",
     "part_of_speech": "n.",
-    "translate": "鴿"
+    "translate": "鴿;鴿子"
   },
   {
     "word": "fund",
@@ -45468,5 +45468,55 @@
     "word": "stangle",
     "part_of_speech": "v.",
     "translate": "絞殺"
+  },
+  {
+    "word": "dumbest",
+    "part_of_speech": "adj.",
+    "translate": "最愚蠢的"
+  },
+  {
+    "word": "charwoman",
+    "part_of_speech": "n.",
+    "translate": "女傭"
+  },
+  {
+    "word": "crescent",
+    "part_of_speech": "adj.",
+    "translate": "鐮刀狀的"
+  },
+  {
+    "word": "cloak",
+    "part_of_speech": "n.",
+    "translate": "披風"
+  },
+  {
+    "word": "highborn",
+    "part_of_speech": "adj.",
+    "translate": "出身高貴的"
+  },
+  {
+    "word": "sigil",
+    "part_of_speech": "n.",
+    "translate": "印記"
+  },
+  {
+    "word": "manhood",
+    "part_of_speech": "n.",
+    "translate": "男子漢"
+  },
+  {
+    "word": "tit",
+    "part_of_speech": "n.",
+    "translate": "(女人的)乳房"
+  },
+  {
+    "word": "breach",
+    "part_of_speech": "v.",
+    "translate": "打進;衝破"
+  },
+  {
+    "word": "vanguard",
+    "part_of_speech": "n.",
+    "translate": "前鋒"
   }
 ]
