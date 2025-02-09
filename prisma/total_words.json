@@ -27837,7 +27837,7 @@
   {
     "word": "troop",
     "part_of_speech": "n.",
-    "translate": "軍隊,部隊"
+    "translate": "軍隊;軍隊,部隊"
   },
   {
     "word": "overall",
@@ -40382,7 +40382,7 @@
   {
     "word": "invade",
     "part_of_speech": "v.",
-    "translate": "侵入,侵略"
+    "translate": "侵入,侵略;入侵"
   },
   {
     "word": "expansion",
@@ -45518,5 +45518,25 @@
     "word": "vanguard",
     "part_of_speech": "n.",
     "translate": "前鋒"
+  },
+  {
+    "word": "sack",
+    "part_of_speech": "v.",
+    "translate": "洗劫"
+  },
+  {
+    "word": "lance",
+    "part_of_speech": "n.",
+    "translate": "長矛"
+  },
+  {
+    "word": "mace",
+    "part_of_speech": "n.",
+    "translate": "錘"
+  },
+  {
+    "word": "curtsy",
+    "part_of_speech": "n.",
+    "translate": "屈膝禮"
   }
 ]
