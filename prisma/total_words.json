@@ -31317,7 +31317,7 @@
   {
     "word": "hemisphere",
     "part_of_speech": "n.",
-    "translate": "(地球的)半球;半球體"
+    "translate": "(地球的)半球;半球;半球體"
   },
   {
     "word": "terrify",
@@ -46278,5 +46278,10 @@
     "word": "hemiplegia",
     "part_of_speech": "n.",
     "translate": "半身不遂"
+  },
+  {
+    "word": "demigod",
+    "part_of_speech": "n.",
+    "translate": "半神半人;小神;神化的英雄"
   }
 ]
