@@ -8417,7 +8417,7 @@
   {
     "word": "triple",
     "part_of_speech": "n.",
-    "translate": " 三個一組; 三倍數; 三倍量;三壘打"
+    "translate": " 三個一組; 三倍數; 三倍量;三倍;三壘打"
   },
   {
     "word": "saving",
@@ -8437,7 +8437,7 @@
   {
     "word": "quart",
     "part_of_speech": "n.",
-    "translate": "夸脫(=2 品脫)"
+    "translate": "夸脫;夸脫(=2 品脫)"
   },
   {
     "word": "intensive",
@@ -45838,5 +45838,70 @@
     "word": "duplicate",
     "part_of_speech": "n.",
     "translate": "複製品"
+  },
+  {
+    "word": "tricolor",
+    "part_of_speech": "n.",
+    "translate": "三色旗"
+  },
+  {
+    "word": "tricolor",
+    "part_of_speech": "adj.",
+    "translate": "三色旗"
+  },
+  {
+    "word": "trident",
+    "part_of_speech": "n.",
+    "translate": "三叉戟"
+  },
+  {
+    "word": "trigonometry",
+    "part_of_speech": "n.",
+    "translate": "三角學"
+  },
+  {
+    "word": "trilogy",
+    "part_of_speech": "n.",
+    "translate": "三部曲"
+  },
+  {
+    "word": "trio",
+    "part_of_speech": "n.",
+    "translate": "三個/件/人一組;三重唱/奏"
+  },
+  {
+    "word": "triple",
+    "part_of_speech": "adv.",
+    "translate": "(使)成為三倍"
+  },
+  {
+    "word": "quadrangle",
+    "part_of_speech": "n.",
+    "translate": "四角形"
+  },
+  {
+    "word": "quadruped",
+    "part_of_speech": "n.",
+    "translate": "四足動物"
+  },
+  {
+    "word": "quadruple",
+    "part_of_speech": "n.",
+    "translate": "四倍"
+  },
+  {
+    "word": "quadruple",
+    "part_of_speech": "adj.",
+    "translate": "四倍的"
+  },
+  {
+    "word": "quadruple",
+    "part_of_speech": "v.",
+    "translate": "(使)成為四倍"
+  },
+  {
+    "word": "quarted",
+    "part_of_speech": "n.",
+    "translate": "四個/件/人一組;四重唱/奏"
   }
 ]
