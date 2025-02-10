@@ -9022,7 +9022,7 @@
   {
     "word": "miniature",
     "part_of_speech": "n.",
-    "translate": "小型物;縮圖;縮樣"
+    "translate": "小型物;小模型;縮圖;縮小畫;縮樣"
   },
   {
     "word": "travel",
@@ -9452,7 +9452,7 @@
   {
     "word": "ambiguous",
     "part_of_speech": "adj.",
-    "translate": "含糊不清的"
+    "translate": "含糊不清的;曖昧不明的"
   },
   {
     "word": "acceptance",
@@ -20522,7 +20522,7 @@
   {
     "word": "centigrade",
     "part_of_speech": "adj.",
-    "translate": "攝氏的"
+    "translate": "攝氏的;百分度的"
   },
   {
     "word": "rival",
@@ -27087,7 +27087,7 @@
   {
     "word": "minimum",
     "part_of_speech": "n.",
-    "translate": "最低限度;最小數"
+    "translate": "最低限度;最小數;最小量"
   },
   {
     "word": "nap",
@@ -33662,7 +33662,7 @@
   {
     "word": "minimum",
     "part_of_speech": "adj.",
-    "translate": "最小的,最少的"
+    "translate": "最低的;最小的,最少的;最小量的"
   },
   {
     "word": "otherwise",
@@ -35987,7 +35987,7 @@
   {
     "word": "magnify",
     "part_of_speech": "v.",
-    "translate": "擴大;放大;誇張"
+    "translate": "擴大;放大;誇大;誇張"
   },
   {
     "word": "harsh",
@@ -36337,7 +36337,7 @@
   {
     "word": "miniature",
     "part_of_speech": "adj.",
-    "translate": "小型的;小規模的"
+    "translate": "小型的;小規模的;迷你的"
   },
   {
     "word": "flutter",
@@ -38212,7 +38212,7 @@
   {
     "word": "magnificent",
     "part_of_speech": "adj.",
-    "translate": "壯麗的,宏偉的"
+    "translate": "壯麗的;壯麗的,宏偉的;宏偉的"
   },
   {
     "word": "cowardly",
@@ -45903,5 +45903,180 @@
     "word": "quarted",
     "part_of_speech": "n.",
     "translate": "四個/件/人一組;四重唱/奏"
+  },
+  {
+    "word": "decathlon",
+    "part_of_speech": "n.",
+    "translate": "十項運動"
+  },
+  {
+    "word": "decibel",
+    "part_of_speech": "n.",
+    "translate": "分貝"
+  },
+  {
+    "word": "decimal",
+    "part_of_speech": "adj.",
+    "translate": "十進位的;小數的"
+  },
+  {
+    "word": "decimate",
+    "part_of_speech": "v.",
+    "translate": "大批毀滅;每十人殺一人"
+  },
+  {
+    "word": "decimeter",
+    "part_of_speech": "n.",
+    "translate": "公寸"
+  },
+  {
+    "word": "centenarian",
+    "part_of_speech": "n.",
+    "translate": "百歲人瑞"
+  },
+  {
+    "word": "centennial",
+    "part_of_speech": "adj.",
+    "translate": "一百年的"
+  },
+  {
+    "word": "centennial",
+    "part_of_speech": "n.",
+    "translate": "一百周年"
+  },
+  {
+    "word": "centesimal",
+    "part_of_speech": "adj.",
+    "translate": "百分之一的;百進位的"
+  },
+  {
+    "word": "centigrade",
+    "part_of_speech": "n.",
+    "translate": "攝氏溫度"
+  },
+  {
+    "word": "centigram",
+    "part_of_speech": "n.",
+    "translate": "公毫"
+  },
+  {
+    "word": "kilocalorie",
+    "part_of_speech": "n.",
+    "translate": "千卡;大卡"
+  },
+  {
+    "word": "kilohertz",
+    "part_of_speech": "n.",
+    "translate": "千赫"
+  },
+  {
+    "word": "kiloliter",
+    "part_of_speech": "n.",
+    "translate": "公秉;千升"
+  },
+  {
+    "word": "kiloton",
+    "part_of_speech": "n.",
+    "translate": "千噸"
+  },
+  {
+    "word": "kilowatt",
+    "part_of_speech": "n.",
+    "translate": "千瓦"
+  },
+  {
+    "word": "millennium",
+    "part_of_speech": "n.",
+    "translate": "千(禧)年"
+  },
+  {
+    "word": "milligram",
+    "part_of_speech": "n.",
+    "translate": "毫克"
+  },
+  {
+    "word": "milliliter",
+    "part_of_speech": "n.",
+    "translate": "毫升"
+  },
+  {
+    "word": "millimeter",
+    "part_of_speech": "n.",
+    "translate": "公釐"
+  },
+  {
+    "word": "millimicron",
+    "part_of_speech": "n.",
+    "translate": "毫微米"
+  },
+  {
+    "word": "ambidextrous",
+    "part_of_speech": "adj.",
+    "translate": "兩手都善用的"
+  },
+  {
+    "word": "ambivalence",
+    "part_of_speech": "n.",
+    "translate": "正、反感情並存"
+  },
+  {
+    "word": "amphibian",
+    "part_of_speech": "n.",
+    "translate": "兩棲動物、植物"
+  },
+  {
+    "word": "amphibology",
+    "part_of_speech": "n.",
+    "translate": "模稜兩可的言詞"
+  },
+  {
+    "word": "microbe",
+    "part_of_speech": "n.",
+    "translate": "微生物;細菌"
+  },
+  {
+    "word": "microchip",
+    "part_of_speech": "n.",
+    "translate": "微晶片"
+  },
+  {
+    "word": "microcosm",
+    "part_of_speech": "n.",
+    "translate": "微觀宇宙;縮影"
+  },
+  {
+    "word": "micrometer",
+    "part_of_speech": "n.",
+    "translate": "測微計"
+  },
+  {
+    "word": "microscopic",
+    "part_of_speech": "adj.",
+    "translate": "微視的;極小的"
+  },
+  {
+    "word": "microsecond",
+    "part_of_speech": "n.",
+    "translate": "微秒(百萬分之一秒)"
+  },
+  {
+    "word": "minimalism",
+    "part_of_speech": "n.",
+    "translate": "極簡主義"
+  },
+  {
+    "word": "minuscule",
+    "part_of_speech": "adj.",
+    "translate": "小寫的;極小的"
+  },
+  {
+    "word": "minute",
+    "part_of_speech": "adj.",
+    "translate": "極不重要的;極小的"
+  },
+  {
+    "word": "magniloquent",
+    "part_of_speech": "adj.",
+    "translate": "誇大的"
   }
 ]
