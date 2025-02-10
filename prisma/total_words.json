@@ -38302,7 +38302,7 @@
   {
     "word": "multiple",
     "part_of_speech": "adj.",
-    "translate": "多樣的;複合的"
+    "translate": "多樣的;多重的;複合的"
   },
   {
     "word": "airway",
@@ -46078,5 +46078,55 @@
     "word": "magniloquent",
     "part_of_speech": "adj.",
     "translate": "誇大的"
+  },
+  {
+    "word": "megabucks",
+    "part_of_speech": "n.",
+    "translate": "一大筆錢"
+  },
+  {
+    "word": "megabyte",
+    "part_of_speech": "n.",
+    "translate": "百萬位元組"
+  },
+  {
+    "word": "megalomania",
+    "part_of_speech": "n.",
+    "translate": "自大狂"
+  },
+  {
+    "word": "megaphone",
+    "part_of_speech": "n.",
+    "translate": "大聲公(擴音器)"
+  },
+  {
+    "word": "multicolor",
+    "part_of_speech": "adj.",
+    "translate": "多色的;彩色的"
+  },
+  {
+    "word": "multicolor",
+    "part_of_speech": "n.",
+    "translate": "多色的設計"
+  },
+  {
+    "word": "multifarious",
+    "part_of_speech": "adj.",
+    "translate": "各式各樣的;繁雜的"
+  },
+  {
+    "word": "multimedia",
+    "part_of_speech": "n.",
+    "translate": "多媒體"
+  },
+  {
+    "word": "multinational",
+    "part_of_speech": "n.",
+    "translate": "跨國公司"
+  },
+  {
+    "word": "multinational",
+    "part_of_speech": "adj.",
+    "translate": "多國的;跨國的"
   }
 ]
