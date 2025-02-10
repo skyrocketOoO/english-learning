@@ -10472,7 +10472,7 @@
   {
     "word": "universal",
     "part_of_speech": "adj.",
-    "translate": "宇宙的;通用的"
+    "translate": "全體(共通)的;宇宙的;普遍的;通用的"
   },
   {
     "word": "airmail",
@@ -17847,7 +17847,7 @@
   {
     "word": "mislead",
     "part_of_speech": "v.",
-    "translate": "把...帶錯方向;把...引入歧途"
+    "translate": "使人誤解;把...帶錯方向;把...引入歧途;誤導"
   },
   {
     "word": "top",
@@ -17987,7 +17987,7 @@
   {
     "word": "heterosexual",
     "part_of_speech": "n.",
-    "translate": "異性戀的人"
+    "translate": "異性戀的人;異性戀者"
   },
   {
     "word": "besides",
@@ -20082,7 +20082,7 @@
   {
     "word": "monopoly",
     "part_of_speech": "n.",
-    "translate": "壟斷;專賣;獨佔"
+    "translate": "(商品等之)專賣;壟斷;專賣;獨佔"
   },
   {
     "word": "package",
@@ -32287,7 +32287,7 @@
   {
     "word": "malaria",
     "part_of_speech": "n.",
-    "translate": "瘧疾"
+    "translate": "瘧疾;瘴氣"
   },
   {
     "word": "adjective",
@@ -41912,7 +41912,7 @@
   {
     "word": "unique",
     "part_of_speech": "adj.",
-    "translate": "獨特的"
+    "translate": "獨一無二的;獨特的;與眾不同的"
   },
   {
     "word": "joint",
@@ -45538,5 +45538,240 @@
     "word": "curtsy",
     "part_of_speech": "n.",
     "translate": "屈膝禮"
+  },
+  {
+    "word": "benevolent",
+    "part_of_speech": "adj.",
+    "translate": "仁慈的;有愛心的;親切的"
+  },
+  {
+    "word": "benign",
+    "part_of_speech": "adj.",
+    "translate": "(疾病)良性的;和藹的;慈祥的"
+  },
+  {
+    "word": "bonanza",
+    "part_of_speech": "n.",
+    "translate": "富礦帶;幸運;致富之源"
+  },
+  {
+    "word": "dysentery",
+    "part_of_speech": "n.",
+    "translate": "痢疾"
+  },
+  {
+    "word": "dysfunction",
+    "part_of_speech": "n.",
+    "translate": "官能不良;官能障礙"
+  },
+  {
+    "word": "dysiexia",
+    "part_of_speech": "n.",
+    "translate": "閱讀困難症"
+  },
+  {
+    "word": "dyspepsia",
+    "part_of_speech": "n.",
+    "translate": "消化不良"
+  },
+  {
+    "word": "dysphonia",
+    "part_of_speech": "n.",
+    "translate": "發聲困難"
+  },
+  {
+    "word": "eugenics",
+    "part_of_speech": "n.",
+    "translate": "優生學"
+  },
+  {
+    "word": "eulogy",
+    "part_of_speech": "n.",
+    "translate": "頌揚;頌辭"
+  },
+  {
+    "word": "euphemism",
+    "part_of_speech": "n.",
+    "translate": "委婉語"
+  },
+  {
+    "word": "euphoria",
+    "part_of_speech": "n.",
+    "translate": "極度愉快;過度興奮"
+  },
+  {
+    "word": "euthanasia",
+    "part_of_speech": "n.",
+    "translate": "安樂死"
+  },
+  {
+    "word": "malevolent",
+    "part_of_speech": "adj.",
+    "translate": "壞心腸的;有惡意的"
+  },
+  {
+    "word": "malice",
+    "part_of_speech": "n.",
+    "translate": "惡意;敵意"
+  },
+  {
+    "word": "malignant",
+    "part_of_speech": "adj.",
+    "translate": "(疾病)惡性的;惡毒的"
+  },
+  {
+    "word": "malodorous",
+    "part_of_speech": "adj.",
+    "translate": "有惡臭的"
+  },
+  {
+    "word": "malpractice",
+    "part_of_speech": "n.",
+    "translate": "瀆職;醫療疏失"
+  },
+  {
+    "word": "misanthropy",
+    "part_of_speech": "n.",
+    "translate": "厭惡人類"
+  },
+  {
+    "word": "miscalculate",
+    "part_of_speech": "v.",
+    "translate": "估錯;算錯"
+  },
+  {
+    "word": "misdemeanor",
+    "part_of_speech": "n.",
+    "translate": "行為不檢;輕罪"
+  },
+  {
+    "word": "misogyny",
+    "part_of_speech": "n.",
+    "translate": "厭惡女人"
+  },
+  {
+    "word": "mistreat",
+    "part_of_speech": "v.",
+    "translate": "虐待"
+  },
+  {
+    "word": "homogeneous",
+    "part_of_speech": "adj.",
+    "translate": "同種的;均質的"
+  },
+  {
+    "word": "homonym",
+    "part_of_speech": "n.",
+    "translate": "同音異義字"
+  },
+  {
+    "word": "homorganic",
+    "part_of_speech": "adj.",
+    "translate": "發音部位相同的"
+  },
+  {
+    "word": "homeopathy",
+    "part_of_speech": "n.",
+    "translate": "順勢療法"
+  },
+  {
+    "word": "heterodoxy",
+    "part_of_speech": "n.",
+    "translate": "異端;邪說"
+  },
+  {
+    "word": "heterogeneous",
+    "part_of_speech": "adj.",
+    "translate": "異種的;異質的"
+  },
+  {
+    "word": "heteronomy",
+    "part_of_speech": "n.",
+    "translate": "他律;他治"
+  },
+  {
+    "word": "heteronym",
+    "part_of_speech": "n.",
+    "translate": "拼法相同之異音異義字"
+  },
+  {
+    "word": "unicorn",
+    "part_of_speech": "n.",
+    "translate": "獨角獸"
+  },
+  {
+    "word": "unilateral",
+    "part_of_speech": "adj.",
+    "translate": "單方的;單邊的"
+  },
+  {
+    "word": "unisex",
+    "part_of_speech": "adj.",
+    "translate": "男女通用的"
+  },
+  {
+    "word": "monogamy",
+    "part_of_speech": "n.",
+    "translate": "一夫一妻制"
+  },
+  {
+    "word": "monologue",
+    "part_of_speech": "n.",
+    "translate": "(旁人插不了嘴的)長篇大論;獨自"
+  },
+  {
+    "word": "mononucleosis",
+    "part_of_speech": "n.",
+    "translate": "單核白血球增多症"
+  },
+  {
+    "word": "monosyllabic",
+    "part_of_speech": "adj.",
+    "translate": "單音節的"
+  },
+  {
+    "word": "monotheism",
+    "part_of_speech": "n.",
+    "translate": "一神論"
+  },
+  {
+    "word": "monoxide",
+    "part_of_speech": "n.",
+    "translate": "一氧化物"
+  },
+  {
+    "word": "biennial",
+    "part_of_speech": "adj.",
+    "translate": "兩年一次的"
+  },
+  {
+    "word": "bigamy",
+    "part_of_speech": "n.",
+    "translate": "重婚(罪)"
+  },
+  {
+    "word": "bilateral",
+    "part_of_speech": "adj.",
+    "translate": "雙方的;雙邊的"
+  },
+  {
+    "word": "bilingual",
+    "part_of_speech": "adj.",
+    "translate": "能用兩種語言的;雙語的"
+  },
+  {
+    "word": "bimonthly",
+    "part_of_speech": "adj.",
+    "translate": "兩個月一次的"
+  },
+  {
+    "word": "bimonthly",
+    "part_of_speech": "adv.",
+    "translate": "兩個月一次地"
+  },
+  {
+    "word": "bimonthly",
+    "part_of_speech": "n.",
+    "translate": "雙月刊"
   }
 ]
