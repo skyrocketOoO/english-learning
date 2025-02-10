@@ -18167,7 +18167,7 @@
   {
     "word": "duration",
     "part_of_speech": "n.",
-    "translate": "持續,持久"
+    "translate": "持續,持久;持續時間;耐久"
   },
   {
     "word": "statue",
@@ -20557,7 +20557,7 @@
   {
     "word": "acute",
     "part_of_speech": "adj.",
-    "translate": "劇烈的;尖銳的;敏銳的"
+    "translate": "劇烈的;嚴重的;尖銳的;急性的;敏銳的;精明的"
   },
   {
     "word": "oblong",
@@ -37952,7 +37952,7 @@
   {
     "word": "durable",
     "part_of_speech": "adj.",
-    "translate": "經久的,耐用的"
+    "translate": "持久的;經久的,耐用的;耐用的"
   },
   {
     "word": "prestige",
@@ -46283,5 +46283,85 @@
     "word": "demigod",
     "part_of_speech": "n.",
     "translate": "半神半人;小神;神化的英雄"
+  },
+  {
+    "word": "acerbate",
+    "part_of_speech": "v.",
+    "translate": "使煩惱;使發怒"
+  },
+  {
+    "word": "acerbic",
+    "part_of_speech": "adj.",
+    "translate": "刻薄的;尖銳的;酸澀的"
+  },
+  {
+    "word": "exacerbate",
+    "part_of_speech": "v.",
+    "translate": "使加劇;使惡化;使發怒"
+  },
+  {
+    "word": "acrid",
+    "part_of_speech": "adj.",
+    "translate": "刻薄的;辛辣的"
+  },
+  {
+    "word": "acrimony",
+    "part_of_speech": "n.",
+    "translate": "刻薄;尖酸;激烈;辛辣"
+  },
+  {
+    "word": "acumen",
+    "part_of_speech": "n.",
+    "translate": "聰敏;銳利"
+  },
+  {
+    "word": "acupuncture",
+    "part_of_speech": "n.",
+    "translate": "針灸"
+  },
+  {
+    "word": "archaic",
+    "part_of_speech": "adj.",
+    "translate": "古風的;古體的"
+  },
+  {
+    "word": "archeology",
+    "part_of_speech": "n.",
+    "translate": "考古學"
+  },
+  {
+    "word": "archetype",
+    "part_of_speech": "n.",
+    "translate": "典型;原型"
+  },
+  {
+    "word": "archipelago",
+    "part_of_speech": "n.",
+    "translate": "多島海;群島"
+  },
+  {
+    "word": "archives",
+    "part_of_speech": "n.",
+    "translate": "案卷、公文保管處"
+  },
+  {
+    "word": "matriarch",
+    "part_of_speech": "n.",
+    "translate": "女家長;女族長"
+  },
+  {
+    "word": "monarchy",
+    "part_of_speech": "n.",
+    "translate": "君主政體"
+  },
+  {
+    "word": "oligarchy",
+    "part_of_speech": "n.",
+    "translate": "寡頭政治"
+  },
+  {
+    "word": "patriarchy",
+    "part_of_speech": "n.",
+    "translate": "父權制(社會)"
   }
 ]
