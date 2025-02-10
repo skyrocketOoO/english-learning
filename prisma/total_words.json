@@ -887,7 +887,7 @@
   {
     "word": "grim",
     "part_of_speech": "adj.",
-    "translate": "嚴厲的;恐怖的;無情的"
+    "translate": "嚴厲的;恐怖的;憂鬱的;無情的"
   },
   {
     "word": "request",
@@ -46363,5 +46363,20 @@
     "word": "patriarchy",
     "part_of_speech": "n.",
     "translate": "父權制(社會)"
+  },
+  {
+    "word": "captor",
+    "part_of_speech": "n.",
+    "translate": "俘虜"
+  },
+  {
+    "word": "amend",
+    "part_of_speech": "v.",
+    "translate": "改正"
+  },
+  {
+    "word": "squire",
+    "part_of_speech": "n.",
+    "translate": "護衛"
   }
 ]
