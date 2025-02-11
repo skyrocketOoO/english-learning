@@ -2372,7 +2372,7 @@
   {
     "word": "fragment",
     "part_of_speech": "v.",
-    "translate": "使成碎片"
+    "translate": "(使)成碎片;使成碎片"
   },
   {
     "word": "sprint",
@@ -3727,7 +3727,7 @@
   {
     "word": "fraction",
     "part_of_speech": "n.",
-    "translate": "小部分;片段;碎片"
+    "translate": "些微;小部分;斷片;片段;碎片"
   },
   {
     "word": "bold",
@@ -10227,7 +10227,7 @@
   {
     "word": "fracture",
     "part_of_speech": "v.",
-    "translate": "使折斷;使斷裂;使骨折"
+    "translate": "(使)斷裂;(使)破裂;使折斷;使斷裂;使骨折"
   },
   {
     "word": "sneeze",
@@ -12187,7 +12187,7 @@
   {
     "word": "fragile",
     "part_of_speech": "adj.",
-    "translate": "易碎的;虛弱的"
+    "translate": "易碎的;脆弱的;虛弱的"
   },
   {
     "word": "lag",
@@ -30392,7 +30392,7 @@
   {
     "word": "fracture",
     "part_of_speech": "n.",
-    "translate": "折斷;裂縫;骨折"
+    "translate": "折斷;斷裂;破裂;裂縫;骨折"
   },
   {
     "word": "informative",
@@ -47208,5 +47208,35 @@
     "word": "influx",
     "part_of_speech": "n.",
     "translate": "(河流的)匯合處;流入;湧進"
+  },
+  {
+    "word": "fluvial",
+    "part_of_speech": "adj.",
+    "translate": "河的;生在河中的"
+  },
+  {
+    "word": "elfluvium",
+    "part_of_speech": "n.",
+    "translate": "廢料;臭氣"
+  },
+  {
+    "word": "diffract",
+    "part_of_speech": "n.",
+    "translate": "使(光束)繞射;使分散"
+  },
+  {
+    "word": "infraction",
+    "part_of_speech": "n.",
+    "translate": "犯規;違反"
+  },
+  {
+    "word": "refraction",
+    "part_of_speech": "n.",
+    "translate": "折射(作用)"
+  },
+  {
+    "word": "refractory",
+    "part_of_speech": "adj.",
+    "translate": "不聽管教的;難駕馭的"
   }
 ]
