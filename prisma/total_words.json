@@ -852,7 +852,7 @@
   {
     "word": "vacancy",
     "part_of_speech": "n.",
-    "translate": " 空; 空房; 空白;空缺"
+    "translate": " 空; 空房; 空白;空房;空白;空缺;空虛"
   },
   {
     "word": "dormitory",
@@ -1372,7 +1372,7 @@
   {
     "word": "compliment",
     "part_of_speech": "n.",
-    "translate": "問候;恭維;致意"
+    "translate": "問候;恭維;致意;讚美的話"
   },
   {
     "word": "superior",
@@ -1537,7 +1537,7 @@
   {
     "word": "invaluable",
     "part_of_speech": "adj.",
-    "translate": "無價的;非常貴重的"
+    "translate": "價值無法估量的;無價的;非常寶貴的;非常貴重的"
   },
   {
     "word": "freshman",
@@ -5502,7 +5502,7 @@
   {
     "word": "valid",
     "part_of_speech": "adj.",
-    "translate": "有效的;有根據的"
+    "translate": "有效的;有根據的;有確實根據的;正當的"
   },
   {
     "word": "sneer",
@@ -5982,7 +5982,7 @@
   {
     "word": "vanity",
     "part_of_speech": "n.",
-    "translate": "梳妝臺;自負;虛榮"
+    "translate": "梳妝臺;自負;虛榮;虛榮(心)"
   },
   {
     "word": "billion",
@@ -6562,7 +6562,7 @@
   {
     "word": "novice",
     "part_of_speech": "n.",
-    "translate": "初學者;新手"
+    "translate": "初學者;新手;生手"
   },
   {
     "word": "prick",
@@ -6932,7 +6932,7 @@
   {
     "word": "devalue",
     "part_of_speech": "v.",
-    "translate": "(貨幣)貶值;降低價值"
+    "translate": "(使)貶值;(貨幣)貶值;貶低;降低價值"
   },
   {
     "word": "nineteen",
@@ -8932,7 +8932,7 @@
   {
     "word": "reinforce",
     "part_of_speech": "v.",
-    "translate": " 加強; 加深;增援;強化"
+    "translate": " 加強; 加深;增援;強化;補強"
   },
   {
     "word": "reflection",
@@ -10157,7 +10157,7 @@
   {
     "word": "compliment",
     "part_of_speech": "v.",
-    "translate": "恭維;讚美"
+    "translate": "恭維;稱讚;讚美"
   },
   {
     "word": "menace",
@@ -11532,7 +11532,7 @@
   {
     "word": "fortify",
     "part_of_speech": "v.",
-    "translate": "增強;築防禦工事於"
+    "translate": "加強;增強;強化;築防禦工事;築防禦工事於"
   },
   {
     "word": "clown",
@@ -16967,7 +16967,7 @@
   {
     "word": "endure",
     "part_of_speech": "v.",
-    "translate": "忍受;忍耐,忍受"
+    "translate": "忍受;忍耐;忍耐,忍受"
   },
   {
     "word": "timber",
@@ -19867,7 +19867,7 @@
   {
     "word": "vacuum",
     "part_of_speech": "n.",
-    "translate": "吸塵器;真空;空白"
+    "translate": "(心靈的)空虛;吸塵器;孤立狀態;真空;空白"
   },
   {
     "word": "menace",
@@ -21127,7 +21127,7 @@
   {
     "word": "complement",
     "part_of_speech": "n.",
-    "translate": "補充物;補足物"
+    "translate": "(文法)補語;補充物;補足物"
   },
   {
     "word": "order",
@@ -26147,7 +26147,7 @@
   {
     "word": "negative",
     "part_of_speech": "adj.",
-    "translate": "否定的;負面的"
+    "translate": "否定的;消極的;負面的;陰性的"
   },
   {
     "word": "result",
@@ -31037,7 +31037,7 @@
   {
     "word": "enforce",
     "part_of_speech": "v.",
-    "translate": "實施,執行"
+    "translate": "厲行;實施;實施,執行"
   },
   {
     "word": "wholesale",
@@ -35472,7 +35472,7 @@
   {
     "word": "neglect",
     "part_of_speech": "v.",
-    "translate": "忽視,忽略"
+    "translate": "忽略;忽視;忽視,忽略;遺漏"
   },
   {
     "word": "lung",
@@ -37227,7 +37227,7 @@
   {
     "word": "vanish",
     "part_of_speech": "v.",
-    "translate": "使不見;使消失"
+    "translate": "使不見;使消失;消失;絕跡"
   },
   {
     "word": "skip",
@@ -37697,7 +37697,7 @@
   {
     "word": "evaluate",
     "part_of_speech": "v.",
-    "translate": "對...評價"
+    "translate": "對...評價;評估;評價;評鑑"
   },
   {
     "word": "chance",
@@ -39182,7 +39182,7 @@
   {
     "word": "equivalent",
     "part_of_speech": "adj.",
-    "translate": "相等的,相同的"
+    "translate": "相值的;相等的;相等的,相同的;等量的"
   },
   {
     "word": "cube",
@@ -43142,7 +43142,7 @@
   {
     "word": "neglect",
     "part_of_speech": "n.",
-    "translate": "忽略;疏忽;疏漏"
+    "translate": "忽略;忽視;疏忽;疏漏;遺漏"
   },
   {
     "word": "letter",
@@ -46352,7 +46352,7 @@
   {
     "word": "monarchy",
     "part_of_speech": "n.",
-    "translate": "君主政體"
+    "translate": "君主;君主政體;政體"
   },
   {
     "word": "oligarchy",
@@ -46363,5 +46363,230 @@
     "word": "patriarchy",
     "part_of_speech": "n.",
     "translate": "父權制(社會)"
+  },
+  {
+    "word": "duress",
+    "part_of_speech": "n.",
+    "translate": "強制;脅迫"
+  },
+  {
+    "word": "indurate",
+    "part_of_speech": "v.",
+    "translate": "使堅固;使無感覺;使硬化"
+  },
+  {
+    "word": "obdurate",
+    "part_of_speech": "adj.",
+    "translate": "執拗;頑固"
+  },
+  {
+    "word": "perdure",
+    "part_of_speech": "v.",
+    "translate": "持久;持續"
+  },
+  {
+    "word": "forced",
+    "part_of_speech": "adj.",
+    "translate": "不得已的;強迫的"
+  },
+  {
+    "word": "forcible",
+    "part_of_speech": "adj.",
+    "translate": "使用暴力的;強制的"
+  },
+  {
+    "word": "perforce",
+    "part_of_speech": "adv.",
+    "translate": "強制地;必然地"
+  },
+  {
+    "word": "fortitude",
+    "part_of_speech": "n.",
+    "translate": "不屈不撓;堅忍不拔"
+  },
+  {
+    "word": "negate",
+    "part_of_speech": "v.",
+    "translate": "使無效;否定;否認"
+  },
+  {
+    "word": "negligent",
+    "part_of_speech": "adj.",
+    "translate": "疏忽的;粗心大意的"
+  },
+  {
+    "word": "negligible",
+    "part_of_speech": "adj.",
+    "translate": "可忽略的;微不足道的"
+  },
+  {
+    "word": "abnegate",
+    "part_of_speech": "v.",
+    "translate": "克制(慾望等);放棄(權力等)"
+  },
+  {
+    "word": "novelty",
+    "part_of_speech": "n.",
+    "translate": "新奇;新穎;新鮮"
+  },
+  {
+    "word": "innovate",
+    "part_of_speech": "v.",
+    "translate": "創新;革新"
+  },
+  {
+    "word": "renovate",
+    "part_of_speech": "v.",
+    "translate": "修復;更新;翻新"
+  },
+  {
+    "word": "neologism",
+    "part_of_speech": "n.",
+    "translate": "新義(的使用);新詞(的使用)"
+  },
+  {
+    "word": "neophilia",
+    "part_of_speech": "n.",
+    "translate": "對新奇事物之強烈興趣"
+  },
+  {
+    "word": "neophyte",
+    "part_of_speech": "n.",
+    "translate": "出生;新入教者"
+  },
+  {
+    "word": "neoplasm",
+    "part_of_speech": "n.",
+    "translate": "(醫)新生物;癌"
+  },
+  {
+    "word": "plenary",
+    "part_of_speech": "adj.",
+    "translate": "充分的;全體出席的;完全的"
+  },
+  {
+    "word": "replenish",
+    "part_of_speech": "v.",
+    "translate": "再充滿;補充"
+  },
+  {
+    "word": "complimentary",
+    "part_of_speech": "adj.",
+    "translate": "免費贈送的;表示敬意的;讚賞的"
+  },
+  {
+    "word": "deplete",
+    "part_of_speech": "v.",
+    "translate": "使枯竭;耗盡"
+  },
+  {
+    "word": "expletive",
+    "part_of_speech": "n.",
+    "translate": "感嘆語;穢語;虛字"
+  },
+  {
+    "word": "replete",
+    "part_of_speech": "adj.",
+    "translate": "充滿的;裝滿的"
+  },
+  {
+    "word": "sated",
+    "part_of_speech": "adj.",
+    "translate": "生膩的;饜足的"
+  },
+  {
+    "word": "insatiable",
+    "part_of_speech": "adj.",
+    "translate": "不知足的;貪得無厭的"
+  },
+  {
+    "word": "dissatisfied",
+    "part_of_speech": "adj.",
+    "translate": "不快的;不滿意的"
+  },
+  {
+    "word": "unsatisfactory",
+    "part_of_speech": "adj.",
+    "translate": "不符合要求的;令人不滿意的"
+  },
+  {
+    "word": "saturate",
+    "part_of_speech": "v.",
+    "translate": "使濕透;使飽和;浸透"
+  },
+  {
+    "word": "unsaturated",
+    "part_of_speech": "adj.",
+    "translate": "不飽和的"
+  },
+  {
+    "word": "vacate",
+    "part_of_speech": "v.",
+    "translate": "撤出;空出;辭去;騰出"
+  },
+  {
+    "word": "vacuous",
+    "part_of_speech": "adj.",
+    "translate": "無意義的;空虛的"
+  },
+  {
+    "word": "evanescent",
+    "part_of_speech": "adj.",
+    "translate": "瞬息即逝的;逐漸消失的"
+  },
+  {
+    "word": "void",
+    "part_of_speech": "adj.",
+    "translate": "無用的;空的;缺乏的"
+  },
+  {
+    "word": "void",
+    "part_of_speech": "n.",
+    "translate": "宇宙空間;空虛(感);空隙"
+  },
+  {
+    "word": "avoidance",
+    "part_of_speech": "n.",
+    "translate": "迴避;逃避;避免"
+  },
+  {
+    "word": "validate",
+    "part_of_speech": "v.",
+    "translate": "使有效;使生效"
+  },
+  {
+    "word": "valor",
+    "part_of_speech": "n.",
+    "translate": "勇氣;英勇"
+  },
+  {
+    "word": "convalescent",
+    "part_of_speech": "adj.",
+    "translate": "康復期的;漸癒的"
+  },
+  {
+    "word": "invalid",
+    "part_of_speech": "adj.",
+    "translate": "作廢的;無效的"
+  },
+  {
+    "word": "invalid",
+    "part_of_speech": "n.",
+    "translate": "殘疾者;病弱的人"
+  },
+  {
+    "word": "prevalent",
+    "part_of_speech": "adj.",
+    "translate": "普遍的;盛行的"
+  },
+  {
+    "word": "avail",
+    "part_of_speech": "v.",
+    "translate": "有利;有用;有益"
+  },
+  {
+    "word": "avail",
+    "part_of_speech": "n.",
+    "translate": "利益;效用"
   }
 ]
