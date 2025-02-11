@@ -412,7 +412,7 @@
   {
     "word": "digest",
     "part_of_speech": "n.",
-    "translate": "消化"
+    "translate": "摘要;文摘;消化"
   },
   {
     "word": "brass",
@@ -602,7 +602,7 @@
   {
     "word": "initiate",
     "part_of_speech": "v.",
-    "translate": "(通過儀式)接納新成員;初學;創始"
+    "translate": "(通過儀式)接納新成員;初學;創始;發起;開始"
   },
   {
     "word": "out",
@@ -2057,7 +2057,7 @@
   {
     "word": "initiative",
     "part_of_speech": "n.",
-    "translate": "主動權;倡議"
+    "translate": "主動(權);主動權;倡議;率先;進取心"
   },
   {
     "word": "faint",
@@ -3437,7 +3437,7 @@
   {
     "word": "objective",
     "part_of_speech": "adj.",
-    "translate": "客觀的"
+    "translate": "受格的;客觀的"
   },
   {
     "word": "tan",
@@ -12362,7 +12362,7 @@
   {
     "word": "transition",
     "part_of_speech": "n.",
-    "translate": "轉變;過渡;過渡時期"
+    "translate": "變遷;轉變;過渡;過渡(時期);過渡時期"
   },
   {
     "word": "smile",
@@ -15337,7 +15337,7 @@
   {
     "word": "injection",
     "part_of_speech": "n.",
-    "translate": "注射"
+    "translate": "注入;注射"
   },
   {
     "word": "trek",
@@ -16472,7 +16472,7 @@
   {
     "word": "exit",
     "part_of_speech": "v.",
-    "translate": "出去,離去;退去"
+    "translate": "出去,離去;退去;退場"
   },
   {
     "word": "couch",
@@ -18072,7 +18072,7 @@
   {
     "word": "rejection",
     "part_of_speech": "n.",
-    "translate": "拒絕;退回"
+    "translate": "拒絕;捨棄;退回;駁回"
   },
   {
     "word": "axe",
@@ -19477,7 +19477,7 @@
   {
     "word": "digest",
     "part_of_speech": "v.",
-    "translate": "消化(食物)"
+    "translate": "消化;消化(食物);領會"
   },
   {
     "word": "soy",
@@ -19732,7 +19732,7 @@
   {
     "word": "gesture",
     "part_of_speech": "v.",
-    "translate": "做手勢,用動作示意"
+    "translate": "做手勢,用動作示意;用姿態示意;用手勢表示"
   },
   {
     "word": "thirsty",
@@ -20422,7 +20422,7 @@
   {
     "word": "objective",
     "part_of_speech": "n.",
-    "translate": "目的,目標"
+    "translate": "目標;目的,目標"
   },
   {
     "word": "stalk",
@@ -21997,7 +21997,7 @@
   {
     "word": "transit",
     "part_of_speech": "n.",
-    "translate": " 公共交通系統; 轉變; 通過;交通系統;運輸;運送"
+    "translate": " 公共交通系統; 轉變; 通過;交通系統;經過;運輸;運送;過境"
   },
   {
     "word": "rocky",
@@ -25697,7 +25697,7 @@
   {
     "word": "fuse",
     "part_of_speech": "v.",
-    "translate": "把保險絲接入(電路);熔接;裝引信"
+    "translate": "把保險絲接入(電路);熔合;熔接;融合;裝引信"
   },
   {
     "word": "triumph",
@@ -28877,7 +28877,7 @@
   {
     "word": "lecture",
     "part_of_speech": "n.",
-    "translate": "冗長的訓話;授課"
+    "translate": "冗長的訓話;授課;訓話"
   },
   {
     "word": "huge",
@@ -37212,7 +37212,7 @@
   {
     "word": "congress",
     "part_of_speech": "n.",
-    "translate": "立法機關"
+    "translate": "國會;立法機關;議會"
   },
   {
     "word": "estimate",
@@ -40137,7 +40137,7 @@
   {
     "word": "gesture",
     "part_of_speech": "n.",
-    "translate": "姿勢;表示"
+    "translate": "姿勢;手勢;示意;表示"
   },
   {
     "word": "bridge",
@@ -40162,7 +40162,7 @@
   {
     "word": "exit",
     "part_of_speech": "n.",
-    "translate": "出口"
+    "translate": "出口;逃生門"
   },
   {
     "word": "path",
@@ -47238,5 +47238,185 @@
     "word": "refractory",
     "part_of_speech": "adj.",
     "translate": "不聽管教的;難駕馭的"
+  },
+  {
+    "word": "frailty",
+    "part_of_speech": "n.",
+    "translate": "脆弱;虛弱"
+  },
+  {
+    "word": "fusion",
+    "part_of_speech": "n.",
+    "translate": "熔解;融合"
+  },
+  {
+    "word": "profuse",
+    "part_of_speech": "adj.",
+    "translate": "大量的;豐富的"
+  },
+  {
+    "word": "suffuse",
+    "part_of_speech": "v.",
+    "translate": "充滿;瀰漫;遍布"
+  },
+  {
+    "word": "refundable",
+    "part_of_speech": "adj.",
+    "translate": "可退錢的"
+  },
+  {
+    "word": "confounded",
+    "part_of_speech": "adj.",
+    "translate": "困惑的;狼狽的;討厭的"
+  },
+  {
+    "word": "gestation",
+    "part_of_speech": "n.",
+    "translate": "(計畫等)孕育;妊娠(期)"
+  },
+  {
+    "word": "congested",
+    "part_of_speech": "adj.",
+    "translate": "擁擠的;阻塞的"
+  },
+  {
+    "word": "ingest",
+    "part_of_speech": "v.",
+    "translate": "吃下;攝取(食物)"
+  },
+  {
+    "word": "suggestible",
+    "part_of_speech": "adj.",
+    "translate": "可教唆的;易受影響的"
+  },
+  {
+    "word": "gradually",
+    "part_of_speech": "adv.",
+    "translate": "緩緩地;逐漸的"
+  },
+  {
+    "word": "degrading",
+    "part_of_speech": "adj.",
+    "translate": "丟臉的;降低品格的"
+  },
+  {
+    "word": "downgrade",
+    "part_of_speech": "v.",
+    "translate": "使降級;貶低"
+  },
+  {
+    "word": "downgrade",
+    "part_of_speech": "n.",
+    "translate": "下坡;降級"
+  },
+  {
+    "word": "retrograde",
+    "part_of_speech": "v.",
+    "translate": "倒退;退步"
+  },
+  {
+    "word": "retrograde",
+    "part_of_speech": "adj.",
+    "translate": "倒退的;退步的"
+  },
+  {
+    "word": "digression",
+    "part_of_speech": "n.",
+    "translate": "轉移話題;離題"
+  },
+  {
+    "word": "egress",
+    "part_of_speech": "n.",
+    "translate": "出口;外出"
+  },
+  {
+    "word": "regress",
+    "part_of_speech": "n.",
+    "translate": "後退;退步"
+  },
+  {
+    "word": "regress",
+    "part_of_speech": "v.",
+    "translate": "後退;退化"
+  },
+  {
+    "word": "transgression",
+    "part_of_speech": "n.",
+    "translate": "犯罪;違反"
+  },
+  {
+    "word": "itinerary",
+    "part_of_speech": "n.",
+    "translate": "旅行日程(表);旅行計畫"
+  },
+  {
+    "word": "inital",
+    "part_of_speech": "adj.",
+    "translate": "最初的;開始的"
+  },
+  {
+    "word": "transient",
+    "part_of_speech": "adj.",
+    "translate": "倏忽的;瞬間的;短暫的"
+  },
+  {
+    "word": "transitory",
+    "part_of_speech": "adj.",
+    "translate": "無常的;短暫的"
+  },
+  {
+    "word": "abject",
+    "part_of_speech": "adj.",
+    "translate": "卑劣的;卑屈的;落魄的"
+  },
+  {
+    "word": "dejected",
+    "part_of_speech": "adj.",
+    "translate": "氣餒的;沮喪的"
+  },
+  {
+    "word": "eject",
+    "part_of_speech": "v.",
+    "translate": "射出;驅逐"
+  },
+  {
+    "word": "projectile",
+    "part_of_speech": "n.",
+    "translate": "投射體;發射物"
+  },
+  {
+    "word": "projector",
+    "part_of_speech": "n.",
+    "translate": "投射器;投影機"
+  },
+  {
+    "word": "lectern",
+    "part_of_speech": "n.",
+    "translate": "(斜面)講臺;誦經臺"
+  },
+  {
+    "word": "elective",
+    "part_of_speech": "adj.",
+    "translate": "由選舉產生的;選修的"
+  },
+  {
+    "word": "preelection",
+    "part_of_speech": "n.",
+    "translate": "預選"
+  },
+  {
+    "word": "preelection",
+    "part_of_speech": "adj.",
+    "translate": "選舉前的"
+  },
+  {
+    "word": "eligibility",
+    "part_of_speech": "n.",
+    "translate": "合格;適任"
+  },
+  {
+    "word": "unintelligible",
+    "part_of_speech": "adj.",
+    "translate": "難理解的"
   }
 ]
