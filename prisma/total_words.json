@@ -25327,7 +25327,7 @@
   {
     "word": "broth",
     "part_of_speech": "n.",
-    "translate": "(用肉、蔬菜等煮成的)湯"
+    "translate": "(用肉、蔬菜等煮成的)湯;肉湯"
   },
   {
     "word": "deputy",
@@ -47458,5 +47458,20 @@
     "word": "crave",
     "part_of_speech": "v.",
     "translate": "渴望"
+  },
+  {
+    "word": "sorcerer",
+    "part_of_speech": "n.",
+    "translate": "巫師;魔術師"
+  },
+  {
+    "word": "gruel",
+    "part_of_speech": "n.",
+    "translate": "稀飯"
+  },
+  {
+    "word": "entrail",
+    "part_of_speech": "n.",
+    "translate": "內臟"
   }
 ]
