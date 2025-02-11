@@ -3572,7 +3572,7 @@
   {
     "word": "concise",
     "part_of_speech": "adj.",
-    "translate": "簡明的"
+    "translate": "簡明的;簡潔的"
   },
   {
     "word": "counsel",
@@ -4617,7 +4617,7 @@
   {
     "word": "closure",
     "part_of_speech": "n.",
-    "translate": " 打烊; 終止; 結束;關閉"
+    "translate": " 打烊; 終止; 結束;終止;關閉"
   },
   {
     "word": "animate",
@@ -8187,7 +8187,7 @@
   {
     "word": "sector",
     "part_of_speech": "n.",
-    "translate": "扇形;扇形面部分;部門"
+    "translate": "(尤指商業、貿易等之)部門;扇形;扇形面部分;部門;領域"
   },
   {
     "word": "staple",
@@ -9262,7 +9262,7 @@
   {
     "word": "enclose",
     "part_of_speech": "v.",
-    "translate": "圈起;圍住"
+    "translate": "包圍;圈起;圍住;封入;附記"
   },
   {
     "word": "temporary",
@@ -10397,7 +10397,7 @@
   {
     "word": "pesticide",
     "part_of_speech": "n.",
-    "translate": "殺蟲劑"
+    "translate": "殺蟲劑;農藥"
   },
   {
     "word": "distrust",
@@ -11332,7 +11332,7 @@
   {
     "word": "currency",
     "part_of_speech": "n.",
-    "translate": "貨幣;通貨"
+    "translate": "流通;貨幣;通貨"
   },
   {
     "word": "realism",
@@ -23487,7 +23487,7 @@
   {
     "word": "decisive",
     "part_of_speech": "adj.",
-    "translate": "果斷的;決定性的;確定的"
+    "translate": "果斷的;果決的;決定性的;確定的"
   },
   {
     "word": "deposit",
@@ -25607,7 +25607,7 @@
   {
     "word": "exclusive",
     "part_of_speech": "adj.",
-    "translate": "唯一的;排外的;獨家的"
+    "translate": "唯一的;排他性的;排外的;獨家的"
   },
   {
     "word": "forest",
@@ -28042,7 +28042,7 @@
   {
     "word": "precise",
     "part_of_speech": "adj.",
-    "translate": "準確的;精確的"
+    "translate": "一絲不苟的;準確的;精確的"
   },
   {
     "word": "pick",
@@ -34962,7 +34962,7 @@
   {
     "word": "intersection",
     "part_of_speech": "n.",
-    "translate": "交叉點;十字路口"
+    "translate": "交叉(點);交叉點;十字路口"
   },
   {
     "word": "stop",
@@ -41167,7 +41167,7 @@
   {
     "word": "recur",
     "part_of_speech": "v.",
-    "translate": "再現;再發生"
+    "translate": "再現;再發生;重現"
   },
   {
     "word": "single",
@@ -46933,5 +46933,90 @@
     "word": "patricide",
     "part_of_speech": "n.",
     "translate": "弒父"
+  },
+  {
+    "word": "regicide",
+    "part_of_speech": "n.",
+    "translate": "弒君"
+  },
+  {
+    "word": "suicidal",
+    "part_of_speech": "adj.",
+    "translate": "有自殺傾向的;自殺的"
+  },
+  {
+    "word": "excise",
+    "part_of_speech": "v.",
+    "translate": "切除;刪除;割除"
+  },
+  {
+    "word": "incision",
+    "part_of_speech": "n.",
+    "translate": "切口;切開"
+  },
+  {
+    "word": "bisect",
+    "part_of_speech": "v.",
+    "translate": "二等分;分為二"
+  },
+  {
+    "word": "dissect",
+    "part_of_speech": "v.",
+    "translate": "剖析;解析"
+  },
+  {
+    "word": "vivisection",
+    "part_of_speech": "n.",
+    "translate": "活體解剖"
+  },
+  {
+    "word": "preclude",
+    "part_of_speech": "v.",
+    "translate": "杜絕;阻止;預先排除"
+  },
+  {
+    "word": "seclude",
+    "part_of_speech": "v.",
+    "translate": "使隔離;使隱居"
+  },
+  {
+    "word": "occlusion",
+    "part_of_speech": "n.",
+    "translate": "咬合;閉塞"
+  },
+  {
+    "word": "recluse",
+    "part_of_speech": "n.",
+    "translate": "遁世者;隱居者"
+  },
+  {
+    "word": "cursor",
+    "part_of_speech": "n.",
+    "translate": "(電腦螢幕上的)游標"
+  },
+  {
+    "word": "concur",
+    "part_of_speech": "v.",
+    "translate": "同時發生;意見相左"
+  },
+  {
+    "word": "excursion",
+    "part_of_speech": "n.",
+    "translate": "短途旅型;遠足"
+  },
+  {
+    "word": "courier",
+    "part_of_speech": "n.",
+    "translate": "快遞人員"
+  },
+  {
+    "word": "concourse",
+    "part_of_speech": "n.",
+    "translate": "(車站、機場內的)中央大廳;匯合"
+  },
+  {
+    "word": "discourse",
+    "part_of_speech": "n.",
+    "translate": "演講;談話;論文"
   }
 ]
