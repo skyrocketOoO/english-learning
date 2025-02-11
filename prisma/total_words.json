@@ -62,7 +62,7 @@
   {
     "word": "infinite",
     "part_of_speech": "adj.",
-    "translate": "無限的"
+    "translate": "無窮盡的;無限的"
   },
   {
     "word": "proficiency",
@@ -3747,7 +3747,7 @@
   {
     "word": "primary",
     "part_of_speech": "adj.",
-    "translate": "主要的;初級的"
+    "translate": "主要的;初期的;初級的;基本的;首要的"
   },
   {
     "word": "ample",
@@ -5352,7 +5352,7 @@
   {
     "word": "combat",
     "part_of_speech": "n.",
-    "translate": "反對;戰鬥;格鬥"
+    "translate": "反對;戰鬥;格鬥;爭鬥"
   },
   {
     "word": "admiral",
@@ -5752,7 +5752,7 @@
   {
     "word": "decay",
     "part_of_speech": "v.",
-    "translate": "腐朽;衰退"
+    "translate": "腐朽;腐爛;衰敗;衰退"
   },
   {
     "word": "scorn",
@@ -7242,7 +7242,7 @@
   {
     "word": "locomotive",
     "part_of_speech": "adj.",
-    "translate": "活動的;火車頭的;移動的"
+    "translate": "活動的;火車頭的;移動的;運動的"
   },
   {
     "word": "discussion",
@@ -8132,7 +8132,7 @@
   {
     "word": "mediate",
     "part_of_speech": "v.",
-    "translate": "傳達;調停解決"
+    "translate": "傳達;居中斡旋;調停;調停解決;調解"
   },
   {
     "word": "jingle",
@@ -14507,7 +14507,7 @@
   {
     "word": "principle",
     "part_of_speech": "n.",
-    "translate": "主義;真諦"
+    "translate": "主義;信條;原則;真諦;節操"
   },
   {
     "word": "restrain",
@@ -18222,7 +18222,7 @@
   {
     "word": "intermediate",
     "part_of_speech": "n.",
-    "translate": "中間事物;調解人"
+    "translate": "中間事物;中間人;調解人"
   },
   {
     "word": "crook",
@@ -21262,7 +21262,7 @@
   {
     "word": "principal",
     "part_of_speech": "adj.",
-    "translate": "主要的,首要的;資本的,本金的"
+    "translate": "主要的;主要的,首要的;最重要的;資本的,本金的"
   },
   {
     "word": "splendor",
@@ -22802,7 +22802,7 @@
   {
     "word": "midst",
     "part_of_speech": "n.",
-    "translate": "中間;當中"
+    "translate": "中央;中間;當中"
   },
   {
     "word": "earnings",
@@ -24457,7 +24457,7 @@
   {
     "word": "intermediate",
     "part_of_speech": "v.",
-    "translate": "作中間人;干預"
+    "translate": "作中間人;做中間人;干預"
   },
   {
     "word": "diet",
@@ -24967,7 +24967,7 @@
   {
     "word": "casualty",
     "part_of_speech": "n.",
-    "translate": "傷亡人員"
+    "translate": "傷亡;傷亡人員;災難;變故"
   },
   {
     "word": "migration",
@@ -25257,7 +25257,7 @@
   {
     "word": "refine",
     "part_of_speech": "v.",
-    "translate": "提煉;精鍊"
+    "translate": "使文雅;使高尚;提煉;精製;精鍊"
   },
   {
     "word": "smack",
@@ -29972,7 +29972,7 @@
   {
     "word": "batter",
     "part_of_speech": "v.",
-    "translate": "把...用舊;搗毀;連續猛擊"
+    "translate": "打壞;打爛;把...用舊;搗毀;連續猛擊"
   },
   {
     "word": "this",
@@ -32142,7 +32142,7 @@
   {
     "word": "decay",
     "part_of_speech": "n.",
-    "translate": "腐爛;蛀牙"
+    "translate": "腐爛;蛀牙;衰敗"
   },
   {
     "word": "pastry",
@@ -32602,7 +32602,7 @@
   {
     "word": "combat",
     "part_of_speech": "v.",
-    "translate": "反對;戰鬥;搏鬥"
+    "translate": "反對;戰鬥;搏鬥;爭鬥"
   },
   {
     "word": "alike",
@@ -32797,7 +32797,7 @@
   {
     "word": "intermediate",
     "part_of_speech": "adj.",
-    "translate": "中等程度的,中級的"
+    "translate": "中等程度的,中級的;中級的;中間的"
   },
   {
     "word": "nourishment",
@@ -37827,7 +37827,7 @@
   {
     "word": "primitive",
     "part_of_speech": "adj.",
-    "translate": "原始的;早期的;遠古的"
+    "translate": "初期的;原始的;早期的;簡單的;純樸的;遠古的"
   },
   {
     "word": "tour",
@@ -38287,7 +38287,7 @@
   {
     "word": "principal",
     "part_of_speech": "n.",
-    "translate": "(中小學)校長"
+    "translate": "(中小學)校長;校長;首長"
   },
   {
     "word": "flat",
@@ -46698,5 +46698,155 @@
     "word": "definitely",
     "part_of_speech": "adv.",
     "translate": "明確地;確實地;肯定地"
+  },
+  {
+    "word": "infinitesimal",
+    "part_of_speech": "adj.",
+    "translate": "無限小的"
+  },
+  {
+    "word": "infinitive",
+    "part_of_speech": "n.",
+    "translate": "不定詞"
+  },
+  {
+    "word": "infinitive",
+    "part_of_speech": "adj.",
+    "translate": "不定詞的"
+  },
+  {
+    "word": "localism",
+    "part_of_speech": "n.",
+    "translate": "地方色彩;鄉土偏愛"
+  },
+  {
+    "word": "locality",
+    "part_of_speech": "n.",
+    "translate": "地點;場所"
+  },
+  {
+    "word": "dislocate",
+    "part_of_speech": "v.",
+    "translate": "使脫臼;打亂"
+  },
+  {
+    "word": "relocate",
+    "part_of_speech": "v.",
+    "translate": "遷徙;重新安置"
+  },
+  {
+    "word": "mediocre",
+    "part_of_speech": "adj.",
+    "translate": "不夠好的;平庸的"
+  },
+  {
+    "word": "Mediterranean",
+    "part_of_speech": "adj.",
+    "translate": "地中海的"
+  },
+  {
+    "word": "midday",
+    "part_of_speech": "n.",
+    "translate": "中午;正午"
+  },
+  {
+    "word": "midday",
+    "part_of_speech": "adj.",
+    "translate": "中午的;正午的"
+  },
+  {
+    "word": "midway",
+    "part_of_speech": "adj.",
+    "translate": "中途的;中間的"
+  },
+  {
+    "word": "midway",
+    "part_of_speech": "adv.",
+    "translate": "中途地;在中間"
+  },
+  {
+    "word": "primacy",
+    "part_of_speech": "n.",
+    "translate": "第一;首位"
+  },
+  {
+    "word": "primate",
+    "part_of_speech": "n.",
+    "translate": "靈長類的動物"
+  },
+  {
+    "word": "primeval",
+    "part_of_speech": "adj.",
+    "translate": "初期的;原始的;太古的"
+  },
+  {
+    "word": "primordial",
+    "part_of_speech": "adj.",
+    "translate": "原始的;最初的;根本的"
+  },
+  {
+    "word": "protoplasm",
+    "part_of_speech": "n.",
+    "translate": "原生質"
+  },
+  {
+    "word": "prototype",
+    "part_of_speech": "n.",
+    "translate": "原型;標準"
+  },
+  {
+    "word": "protozoan",
+    "part_of_speech": "n.",
+    "translate": "(單細胞的)原生物的"
+  },
+  {
+    "word": "protozoan",
+    "part_of_speech": "adj.",
+    "translate": "原生動物的"
+  },
+  {
+    "word": "abate",
+    "part_of_speech": "v.",
+    "translate": "減少;減輕;減退"
+  },
+  {
+    "word": "debatable",
+    "part_of_speech": "adj.",
+    "translate": "可爭論的;有爭議的"
+  },
+  {
+    "word": "embattled",
+    "part_of_speech": "adj.",
+    "translate": "受困擾的;被敵人包圍的"
+  },
+  {
+    "word": "rebate",
+    "part_of_speech": "n.",
+    "translate": "折扣;部分退款"
+  },
+  {
+    "word": "rebate",
+    "part_of_speech": "v.",
+    "translate": "打折扣"
+  },
+  {
+    "word": "cadence",
+    "part_of_speech": "n.",
+    "translate": "抑揚頓挫;節奏;韻律"
+  },
+  {
+    "word": "decadent",
+    "part_of_speech": "adj.",
+    "translate": "墮落的;縱情享樂的;頹廢的"
+  },
+  {
+    "word": "cascade",
+    "part_of_speech": "n.",
+    "translate": "小瀑布"
+  },
+  {
+    "word": "cascade",
+    "part_of_speech": "v.",
+    "translate": "大量傾瀉"
   }
 ]
