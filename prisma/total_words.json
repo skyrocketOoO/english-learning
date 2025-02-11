@@ -7842,7 +7842,7 @@
   {
     "word": "elite",
     "part_of_speech": "n.",
-    "translate": "精英;精華"
+    "translate": "有權勢之人;精英;精華"
   },
   {
     "word": "agreement",
@@ -16682,7 +16682,7 @@
   {
     "word": "elite",
     "part_of_speech": "adj.",
-    "translate": "精英的"
+    "translate": "精英的;精銳的"
   },
   {
     "word": "compassion",
@@ -47418,5 +47418,10 @@
     "word": "unintelligible",
     "part_of_speech": "adj.",
     "translate": "難理解的"
+  },
+  {
+    "word": "legible",
+    "part_of_speech": "adj.",
+    "translate": "(字跡等)清楚的;易讀的"
   }
 ]
