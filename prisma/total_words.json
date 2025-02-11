@@ -467,7 +467,7 @@
   {
     "word": "eccentric",
     "part_of_speech": "adj.",
-    "translate": "(人、行為等)古怪的"
+    "translate": "(人、行為等)古怪的;古怪的;異乎尋常的"
   },
   {
     "word": "postcard",
@@ -6222,7 +6222,7 @@
   {
     "word": "finite",
     "part_of_speech": "adj.",
-    "translate": "有限的"
+    "translate": "受限制的;有限的"
   },
   {
     "word": "breakdown",
@@ -13832,7 +13832,7 @@
   {
     "word": "finance",
     "part_of_speech": "v.",
-    "translate": "籌措資金"
+    "translate": "提供...資金;籌措資金"
   },
   {
     "word": "assign",
@@ -23032,7 +23032,7 @@
   {
     "word": "available",
     "part_of_speech": "adj.",
-    "translate": "可用的,可得到的,有效的"
+    "translate": "(人)有空的;可取的;可用的;可用的,可得到的,有效的;可買到的"
   },
   {
     "word": "boot",
@@ -33322,7 +33322,7 @@
   {
     "word": "confine",
     "part_of_speech": "v.",
-    "translate": "使局限;限制"
+    "translate": "使局限;監禁;限制;限制於...的範圍之內"
   },
   {
     "word": "bud",
@@ -37522,7 +37522,7 @@
   {
     "word": "concentrate",
     "part_of_speech": "v.",
-    "translate": "全神貫注;濃縮"
+    "translate": "全神貫注;專注;濃縮;集中(注意力等)"
   },
   {
     "word": "heroine",
@@ -46618,5 +46618,85 @@
     "word": "shawl",
     "part_of_speech": "n.",
     "translate": "圍巾;披肩"
+  },
+  {
+    "word": "centralize",
+    "part_of_speech": "v.",
+    "translate": "使成為中央集權制;把...集中於中央"
+  },
+  {
+    "word": "centrifugal",
+    "part_of_speech": "adj.",
+    "translate": "離心的"
+  },
+  {
+    "word": "centripetal",
+    "part_of_speech": "adj.",
+    "translate": "向心的"
+  },
+  {
+    "word": "decentralize",
+    "part_of_speech": "v.",
+    "translate": "使分散;使分權"
+  },
+  {
+    "word": "egocentric",
+    "part_of_speech": "adj.",
+    "translate": "自我中心的"
+  },
+  {
+    "word": "heliocentric",
+    "part_of_speech": "adj.",
+    "translate": "以太陽為中心的"
+  },
+  {
+    "word": "equilateral",
+    "part_of_speech": "adj.",
+    "translate": "等邊的"
+  },
+  {
+    "word": "equilibrium",
+    "part_of_speech": "n.",
+    "translate": "平衡;平衡狀態"
+  },
+  {
+    "word": "equinox",
+    "part_of_speech": "n.",
+    "translate": "春分/秋分;晝夜平分時"
+  },
+  {
+    "word": "equitable",
+    "part_of_speech": "adj.",
+    "translate": "公平的;公正的"
+  },
+  {
+    "word": "equity",
+    "part_of_speech": "n.",
+    "translate": "公平;公正;資產淨值"
+  },
+  {
+    "word": "equivocal",
+    "part_of_speech": "adj.",
+    "translate": "不明確的;模稜兩可的"
+  },
+  {
+    "word": "equanimity",
+    "part_of_speech": "n.",
+    "translate": "平靜;鎮定"
+  },
+  {
+    "word": "equator",
+    "part_of_speech": "n.",
+    "translate": "赤道"
+  },
+  {
+    "word": "affinity",
+    "part_of_speech": "n.",
+    "translate": "密切關係;情投意合;類同"
+  },
+  {
+    "word": "definitely",
+    "part_of_speech": "adv.",
+    "translate": "明確地;確實地;肯定地"
   }
 ]
