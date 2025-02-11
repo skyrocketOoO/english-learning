@@ -17392,7 +17392,7 @@
   {
     "word": "remain",
     "part_of_speech": "v.",
-    "translate": "剩下,餘留"
+    "translate": "保持;剩下,餘留"
   },
   {
     "word": "scholar",
@@ -37222,7 +37222,7 @@
   {
     "word": "vain",
     "part_of_speech": "adj.",
-    "translate": "徒然的;愛虛榮的"
+    "translate": "徒勞的;徒然的;愛虛榮的;空虛的"
   },
   {
     "word": "vanish",
@@ -47438,5 +47438,25 @@
     "word": "collusion",
     "part_of_speech": "n.",
     "translate": "共謀;勾結"
+  },
+  {
+    "word": "deceit",
+    "part_of_speech": "n.",
+    "translate": "騙術"
+  },
+  {
+    "word": "foist",
+    "part_of_speech": "v.",
+    "translate": "強加"
+  },
+  {
+    "word": "baptize",
+    "part_of_speech": "v.",
+    "translate": "洗禮"
+  },
+  {
+    "word": "crave",
+    "part_of_speech": "v.",
+    "translate": "渴望"
   }
 ]
