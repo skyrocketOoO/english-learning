@@ -427,7 +427,7 @@
   {
     "word": "exceed",
     "part_of_speech": "v.",
-    "translate": "勝過;超過"
+    "translate": "勝過;超越;超過"
   },
   {
     "word": "slice",
@@ -1052,7 +1052,7 @@
   {
     "word": "excess",
     "part_of_speech": "adj.",
-    "translate": "過量的;額外的"
+    "translate": "超額的;過量的;額外的"
   },
   {
     "word": "hum",
@@ -10767,7 +10767,7 @@
   {
     "word": "captive",
     "part_of_speech": "adj.",
-    "translate": "被俘的;被迷住的"
+    "translate": "被俘的;被俘虜的;被迷住的;遭監禁的"
   },
   {
     "word": "loss",
@@ -12682,7 +12682,7 @@
   {
     "word": "concede",
     "part_of_speech": "v.",
-    "translate": "(勉強)承認;承認失敗;讓步"
+    "translate": "(勉強)承認;承認(某事屬實);承認失敗;讓步"
   },
   {
     "word": "escalate",
@@ -14462,7 +14462,7 @@
   {
     "word": "caption",
     "part_of_speech": "n.",
-    "translate": "字幕;標題"
+    "translate": "圖片說明;字幕;標題"
   },
   {
     "word": "calm",
@@ -15687,7 +15687,7 @@
   {
     "word": "conceive",
     "part_of_speech": "v.",
-    "translate": "懷孕;構想出;設想"
+    "translate": "懷(胎);懷孕;抱有(想法、意見)等;構想;構想出;設想;認為"
   },
   {
     "word": "solo",
@@ -22537,7 +22537,7 @@
   {
     "word": "accessory",
     "part_of_speech": "n.",
-    "translate": "從犯;配件;附件"
+    "translate": "從犯;配件;附件;附屬品"
   },
   {
     "word": "constitutional",
@@ -22722,7 +22722,7 @@
   {
     "word": "excess",
     "part_of_speech": "n.",
-    "translate": "超越;過量"
+    "translate": "超出;超越;過量"
   },
   {
     "word": "declaration",
@@ -31072,7 +31072,7 @@
   {
     "word": "caption",
     "part_of_speech": "v.",
-    "translate": "加標題於"
+    "translate": "加標題;加標題於"
   },
   {
     "word": "confuse",
@@ -31237,7 +31237,7 @@
   {
     "word": "perceive",
     "part_of_speech": "v.",
-    "translate": " 察覺; 感知; 理解;察覺;意識到;感知"
+    "translate": " 察覺; 感知; 理解;察覺;意識到;感知;理解"
   },
   {
     "word": "clerk",
@@ -31757,7 +31757,7 @@
   {
     "word": "capacity",
     "part_of_speech": "n.",
-    "translate": "容量,容積"
+    "translate": "容積;容量;容量,容積;才幹;資格;身分"
   },
   {
     "word": "theatrical",
@@ -37707,7 +37707,7 @@
   {
     "word": "coincidence",
     "part_of_speech": "n.",
-    "translate": "巧合"
+    "translate": "一致;巧合;巧合(的事);相符"
   },
   {
     "word": "halt",
@@ -46592,7 +46592,7 @@
   {
     "word": "captor",
     "part_of_speech": "n.",
-    "translate": "俘虜"
+    "translate": "俘虜;捕捉者;擄獲(他人)者"
   },
   {
     "word": "amend",
@@ -46848,5 +46848,90 @@
     "word": "cascade",
     "part_of_speech": "v.",
     "translate": "大量傾瀉"
+  },
+  {
+    "word": "accidentally",
+    "part_of_speech": "adv.",
+    "translate": "偶然地;意外地"
+  },
+  {
+    "word": "incidentally",
+    "part_of_speech": "adv.",
+    "translate": "附帶地;順便提一下"
+  },
+  {
+    "word": "captivate",
+    "part_of_speech": "v.",
+    "translate": "使著迷;魅惑"
+  },
+  {
+    "word": "deception",
+    "part_of_speech": "n.",
+    "translate": "欺詐;欺騙"
+  },
+  {
+    "word": "intercept",
+    "part_of_speech": "v.",
+    "translate": "攔截;阻斷"
+  },
+  {
+    "word": "susceptible",
+    "part_of_speech": "adj.",
+    "translate": "容易罹患...的;易受...影響的"
+  },
+  {
+    "word": "intercede",
+    "part_of_speech": "v.",
+    "translate": "說情;調停"
+  },
+  {
+    "word": "recede",
+    "part_of_speech": "v.",
+    "translate": "後退;衰退"
+  },
+  {
+    "word": "proceeds",
+    "part_of_speech": "n.",
+    "translate": "收入;收益"
+  },
+  {
+    "word": "unprecedented",
+    "part_of_speech": "adj.",
+    "translate": "史無前例的"
+  },
+  {
+    "word": "inaccessible",
+    "part_of_speech": "adj.",
+    "translate": "無法取得的;難到達的"
+  },
+  {
+    "word": "sucessor",
+    "part_of_speech": "n.",
+    "translate": "後繼者;繼承者"
+  },
+  {
+    "word": "fratricide",
+    "part_of_speech": "n.",
+    "translate": "手足相殘;殺害兄弟"
+  },
+  {
+    "word": "genocide",
+    "part_of_speech": "n.",
+    "translate": "種族屠殺;種族滅絕"
+  },
+  {
+    "word": "homicide",
+    "part_of_speech": "n.",
+    "translate": "殺人(罪)"
+  },
+  {
+    "word": "matricide",
+    "part_of_speech": "n.",
+    "translate": "弒母"
+  },
+  {
+    "word": "patricide",
+    "part_of_speech": "n.",
+    "translate": "弒父"
   }
 ]
