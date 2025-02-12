@@ -10147,7 +10147,7 @@
   {
     "word": "descendant",
     "part_of_speech": "n.",
-    "translate": "後裔;從某一來源傳下的東西"
+    "translate": "子孫;後代;後裔;從某一來源傳下的東西"
   },
   {
     "word": "phrase",
@@ -12582,7 +12582,7 @@
   {
     "word": "erupt",
     "part_of_speech": "v.",
-    "translate": "噴出;爆發"
+    "translate": "(火山)爆發;(皮膚)出疹子;噴出;爆發"
   },
   {
     "word": "gardener",
@@ -19582,7 +19582,7 @@
   {
     "word": "descent",
     "part_of_speech": "n.",
-    "translate": "下傾;下降;血統"
+    "translate": "下傾;下坡;下降;家系;血統"
   },
   {
     "word": "salt",
@@ -25212,7 +25212,7 @@
   {
     "word": "ascend",
     "part_of_speech": "v.",
-    "translate": ";    上升;    登高"
+    "translate": ";    上升;    登高;上升;攀登;登上(王位)"
   },
   {
     "word": "cube",
@@ -35147,7 +35147,7 @@
   {
     "word": "corruption",
     "part_of_speech": "n.",
-    "translate": " 墮落; 腐化; 貪污;賄賂"
+    "translate": " 墮落; 腐化; 貪污;受賄;腐敗;貪汙;賄賂"
   },
   {
     "word": "doctor",
@@ -35877,7 +35877,7 @@
   {
     "word": "interruption",
     "part_of_speech": "n.",
-    "translate": "中止;干擾"
+    "translate": "中斷;中止;干擾;打斷"
   },
   {
     "word": "yellow",
@@ -44162,7 +44162,7 @@
   {
     "word": "interrogate",
     "part_of_speech": "v.",
-    "translate": "審問;訊問"
+    "translate": "審問;訊問;質問"
   },
   {
     "word": "interrupt",
@@ -44427,7 +44427,7 @@
   {
     "word": "surrogate",
     "part_of_speech": "n.",
-    "translate": "代理人"
+    "translate": "代替物;代理人"
   },
   {
     "word": "supercilious",
@@ -47898,5 +47898,65 @@
     "word": "repugnant",
     "part_of_speech": "adj.",
     "translate": "反對的;矛盾的;討厭的"
+  },
+  {
+    "word": "abrogate",
+    "part_of_speech": "v.",
+    "translate": "不履行(責任、義務等);取消;廢除"
+  },
+  {
+    "word": "arrogance",
+    "part_of_speech": "n.",
+    "translate": "傲慢;自大"
+  },
+  {
+    "word": "derogatory",
+    "part_of_speech": "adj.",
+    "translate": "減損的;貶低的"
+  },
+  {
+    "word": "prerogative",
+    "part_of_speech": "n.",
+    "translate": "(伴隨官職、地位等的)特權"
+  },
+  {
+    "word": "rupture",
+    "part_of_speech": "v.",
+    "translate": "決裂;破裂"
+  },
+  {
+    "word": "rupture",
+    "part_of_speech": "n.",
+    "translate": "決裂;破裂"
+  },
+  {
+    "word": "abruptly",
+    "part_of_speech": "adv.",
+    "translate": "唐突地;突然地"
+  },
+  {
+    "word": "disruption",
+    "part_of_speech": "n.",
+    "translate": "中斷;擾亂"
+  },
+  {
+    "word": "irrupt",
+    "part_of_speech": "v.",
+    "translate": "(動物數目)突然增加;衝進;闖入"
+  },
+  {
+    "word": "condescending",
+    "part_of_speech": "adj.",
+    "translate": "刻意屈尊的;降格相從的"
+  },
+  {
+    "word": "transcendent",
+    "part_of_speech": "adj.",
+    "translate": "卓越的;超絕的"
+  },
+  {
+    "word": "sect",
+    "part_of_speech": "n.",
+    "translate": "宗教;教派;派別"
   }
 ]
