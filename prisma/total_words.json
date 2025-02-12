@@ -37152,7 +37152,7 @@
   {
     "word": "propel",
     "part_of_speech": "v.",
-    "translate": "推動;推進;驅策"
+    "translate": "推動;推進;驅動;驅策"
   },
   {
     "word": "glorious",
@@ -47583,5 +47583,15 @@
     "word": "impel",
     "part_of_speech": "v.",
     "translate": "迫使;驅使"
+  },
+  {
+    "word": "repel",
+    "part_of_speech": "v.",
+    "translate": "使厭惡;排斥;逐退"
+  },
+  {
+    "word": "repellent",
+    "part_of_speech": "n.",
+    "translate": "及以後"
   }
 ]
