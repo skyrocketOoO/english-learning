@@ -28357,7 +28357,7 @@
   {
     "word": "subsequent",
     "part_of_speech": "adj.",
-    "translate": "接著發生的;隨後的"
+    "translate": "後續的;接著發生的;隨後的"
   },
   {
     "word": "crumble",
@@ -38657,7 +38657,7 @@
   {
     "word": "executive",
     "part_of_speech": "n.",
-    "translate": "執行者;業務主管"
+    "translate": "主管;執行者;業務主管;行政人員;行政部門"
   },
   {
     "word": "today",
@@ -41022,7 +41022,7 @@
   {
     "word": "suite",
     "part_of_speech": "n.",
-    "translate": "套房;系列"
+    "translate": "套房;系列;組曲;隨行人員"
   },
   {
     "word": "rough",
@@ -42912,7 +42912,7 @@
   {
     "word": "executive",
     "part_of_speech": "adj.",
-    "translate": "執行的;行政部門的"
+    "translate": "執行的;管理的;行政的;行政部門的"
   },
   {
     "word": "marriage",
@@ -47958,5 +47958,40 @@
     "word": "sect",
     "part_of_speech": "n.",
     "translate": "宗教;教派;派別"
+  },
+  {
+    "word": "consecutive",
+    "part_of_speech": "adj.",
+    "translate": "連續的"
+  },
+  {
+    "word": "presecute",
+    "part_of_speech": "v.",
+    "translate": "困擾;迫害"
+  },
+  {
+    "word": "prosecutor",
+    "part_of_speech": "n.",
+    "translate": "公訴人;檢察官"
+  },
+  {
+    "word": "sequel",
+    "part_of_speech": "n.",
+    "translate": "續篇;續集"
+  },
+  {
+    "word": "consequently",
+    "part_of_speech": "adv.",
+    "translate": "因此;因而"
+  },
+  {
+    "word": "sue",
+    "part_of_speech": "v.",
+    "translate": "控告;提出訴訟"
+  },
+  {
+    "word": "ensue",
+    "part_of_speech": "v.",
+    "translate": "因而產生;接著發生"
   }
 ]
