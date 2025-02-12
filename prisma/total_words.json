@@ -2282,7 +2282,7 @@
   {
     "word": "motion",
     "part_of_speech": "n.",
-    "translate": "移動"
+    "translate": "(會議中的)動議;移動;運動"
   },
   {
     "word": "incentive",
@@ -2332,7 +2332,7 @@
   {
     "word": "missionary",
     "part_of_speech": "adj.",
-    "translate": "傳教士的;傳教的;教會的"
+    "translate": "傳教士的;傳教的;傳道的;教會的"
   },
   {
     "word": "mechanical",
@@ -3247,7 +3247,7 @@
   {
     "word": "mob",
     "part_of_speech": "n.",
-    "translate": "暴民,烏合之眾"
+    "translate": "暴民;暴民,烏合之眾;烏合之眾"
   },
   {
     "word": "lift",
@@ -8002,7 +8002,7 @@
   {
     "word": "movement",
     "part_of_speech": "n.",
-    "translate": "動作"
+    "translate": "動作;樂章;發展;移動;運動"
   },
   {
     "word": "revive",
@@ -11627,7 +11627,7 @@
   {
     "word": "barometer",
     "part_of_speech": "n.",
-    "translate": "晴雨表;顯示變化的事物"
+    "translate": "晴雨表;氣壓計;顯示變化的事物"
   },
   {
     "word": "sort",
@@ -13647,7 +13647,7 @@
   {
     "word": "dismiss",
     "part_of_speech": "v.",
-    "translate": "解散,遣散;解雇;開除"
+    "translate": "不接受;免職;解散;解散,遣散;解雇;開除"
   },
   {
     "word": "rib",
@@ -17877,7 +17877,7 @@
   {
     "word": "illusion",
     "part_of_speech": "n.",
-    "translate": "假象;幻想;錯覺"
+    "translate": "假象;幻想;幻覺;錯覺;錯誤的觀念"
   },
   {
     "word": "tonight",
@@ -18122,7 +18122,7 @@
   {
     "word": "mobilize",
     "part_of_speech": "v.",
-    "translate": "動員;調動"
+    "translate": "使流通;動員;調動"
   },
   {
     "word": "arm",
@@ -18652,7 +18652,7 @@
   {
     "word": "meter",
     "part_of_speech": "n.",
-    "translate": "公尺;計量器"
+    "translate": "儀表;公尺;公民;計量器"
   },
   {
     "word": "foul",
@@ -24317,7 +24317,7 @@
   {
     "word": "mob",
     "part_of_speech": "v.",
-    "translate": "成群襲擊,圍攻"
+    "translate": "成群襲擊,圍攻;湧向;群集"
   },
   {
     "word": "help",
@@ -25102,7 +25102,7 @@
   {
     "word": "commitment",
     "part_of_speech": "n.",
-    "translate": "承諾, 保證;託付,交託"
+    "translate": "承諾;承諾, 保證;獻身;職責;託付,交託"
   },
   {
     "word": "odd",
@@ -30022,7 +30022,7 @@
   {
     "word": "commit",
     "part_of_speech": "v.",
-    "translate": "使作出保證;犯(罪),做(錯事等)"
+    "translate": "交付;使作出保證;做承諾;犯(罪),做(錯事等);犯(罪、過失)"
   },
   {
     "word": "glory",
@@ -30972,7 +30972,7 @@
   {
     "word": "motive",
     "part_of_speech": "n.",
-    "translate": "主旨;動機"
+    "translate": "主旨;動機;目的"
   },
   {
     "word": "bait",
@@ -31382,7 +31382,7 @@
   {
     "word": "emotional",
     "part_of_speech": "adj.",
-    "translate": "易動情的"
+    "translate": "多愁善感的;情緒的;感情(上)的;易動情的"
   },
   {
     "word": "aircraft",
@@ -39927,7 +39927,7 @@
   {
     "word": "motivate",
     "part_of_speech": "v.",
-    "translate": "刺激;給...動機"
+    "translate": "刺激;激發;給...動機;給予動機"
   },
   {
     "word": "cactus",
@@ -40282,7 +40282,7 @@
   {
     "word": "admission",
     "part_of_speech": "n.",
-    "translate": "入場費;承認;進入許可"
+    "translate": "入場費;入學許可;承認;進入許可"
   },
   {
     "word": "pop",
@@ -41347,7 +41347,7 @@
   {
     "word": "promotion",
     "part_of_speech": "n.",
-    "translate": "提升,晉級"
+    "translate": "促進;促銷;推廣;提升,晉級;晉升"
   },
   {
     "word": "pregnant",
@@ -43577,7 +43577,7 @@
   {
     "word": "missile",
     "part_of_speech": "n.",
-    "translate": "飛彈,導彈"
+    "translate": "導彈;飛彈;飛彈,導彈"
   },
   {
     "word": "opera",
@@ -47473,5 +47473,115 @@
     "word": "entrail",
     "part_of_speech": "n.",
     "translate": "內臟"
+  },
+  {
+    "word": "onwards",
+    "part_of_speech": "n.",
+    "translate": "及以後"
+  },
+  {
+    "word": "delusion",
+    "part_of_speech": "n.",
+    "translate": "妄想;迷惑;錯覺"
+  },
+  {
+    "word": "elusive",
+    "part_of_speech": "adj.",
+    "translate": "搪塞的;無從捉摸的;逃避的"
+  },
+  {
+    "word": "interlude",
+    "part_of_speech": "n.",
+    "translate": "中場休息;插曲;間奏"
+  },
+  {
+    "word": "prelude",
+    "part_of_speech": "n.",
+    "translate": "前奏;序幕;序曲"
+  },
+  {
+    "word": "altimeter",
+    "part_of_speech": "n.",
+    "translate": "高度計"
+  },
+  {
+    "word": "parameter",
+    "part_of_speech": "n.",
+    "translate": "參(變)數;規範;限定的範圍"
+  },
+  {
+    "word": "speedometer",
+    "part_of_speech": "n.",
+    "translate": "速度計"
+  },
+  {
+    "word": "asymmetry",
+    "part_of_speech": "n.",
+    "translate": "不對稱"
+  },
+  {
+    "word": "optometry",
+    "part_of_speech": "n.",
+    "translate": "視力檢測;驗光"
+  },
+  {
+    "word": "intermittent",
+    "part_of_speech": "adj.",
+    "translate": "時斷時續的;間歇性的"
+  },
+  {
+    "word": "emission",
+    "part_of_speech": "n.",
+    "translate": "排放(物);散發(物)"
+  },
+  {
+    "word": "intermission",
+    "part_of_speech": "n.",
+    "translate": "中場休息;中斷"
+  },
+  {
+    "word": "permissive",
+    "part_of_speech": "adj.",
+    "translate": "寬容的;許可的"
+  },
+  {
+    "word": "submissive",
+    "part_of_speech": "adj.",
+    "translate": "服從的;柔順的"
+  },
+  {
+    "word": "immobile",
+    "part_of_speech": "adj.",
+    "translate": "不能動的;固定的"
+  },
+  {
+    "word": "snowmobile",
+    "part_of_speech": "n.",
+    "translate": "雪車"
+  },
+  {
+    "word": "motile",
+    "part_of_speech": "adj.",
+    "translate": "(生物)能動的;有自動力的"
+  },
+  {
+    "word": "demote",
+    "part_of_speech": "v.",
+    "translate": "降級;降職"
+  },
+  {
+    "word": "removable",
+    "part_of_speech": "adj.",
+    "translate": "可免職的;可移動的;可除去的"
+  },
+  {
+    "word": "dispel",
+    "part_of_speech": "v.",
+    "translate": "消除;驅散"
+  },
+  {
+    "word": "impel",
+    "part_of_speech": "v.",
+    "translate": "迫使;驅使"
   }
 ]
