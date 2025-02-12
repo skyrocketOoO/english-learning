@@ -6207,7 +6207,7 @@
   {
     "word": "preserve",
     "part_of_speech": "v.",
-    "translate": "保存,保藏;防腐"
+    "translate": "保存;保存,保藏;維護;防腐"
   },
   {
     "word": "slight",
@@ -19742,7 +19742,7 @@
   {
     "word": "possess",
     "part_of_speech": "v.",
-    "translate": "具有;擁有,持有"
+    "translate": "(被妖魔)迷住(想法等);具有;擁有;擁有,持有;纏住"
   },
   {
     "word": "crocodile",
@@ -20892,7 +20892,7 @@
   {
     "word": "session",
     "part_of_speech": "n.",
-    "translate": "會期;講習會;開庭"
+    "translate": "(授課、活動等的)時間;會期;會議;講習會;開庭"
   },
   {
     "word": "downtown",
@@ -28627,7 +28627,7 @@
   {
     "word": "pursuit",
     "part_of_speech": "n.",
-    "translate": "追蹤,追擊"
+    "translate": "愛好;研究;追求;追趕;追蹤,追擊"
   },
   {
     "word": "accommodation",
@@ -32382,7 +32382,7 @@
   {
     "word": "conserve",
     "part_of_speech": "v.",
-    "translate": "保存;保護;節省"
+    "translate": "保存;保護;保護(自然資源);節省;節約(能源)"
   },
   {
     "word": "pave",
@@ -36667,7 +36667,7 @@
   {
     "word": "conservative",
     "part_of_speech": "adj.",
-    "translate": "保守的,守舊的"
+    "translate": "保守的;保守的,守舊的;守舊的"
   },
   {
     "word": "alcoholic",
@@ -47993,5 +47993,80 @@
     "word": "ensue",
     "part_of_speech": "v.",
     "translate": "因而產生;接著發生"
+  },
+  {
+    "word": "sedate",
+    "part_of_speech": "v.",
+    "translate": "給鎮定劑使鎮靜或昏睡"
+  },
+  {
+    "word": "sedate",
+    "part_of_speech": "adj.",
+    "translate": "安詳的;鎮定的"
+  },
+  {
+    "word": "sedative",
+    "part_of_speech": "adj.",
+    "translate": "使鎮靜的"
+  },
+  {
+    "word": "sedative",
+    "part_of_speech": "n.",
+    "translate": "鎮定劑"
+  },
+  {
+    "word": "sedentary",
+    "part_of_speech": "adj.",
+    "translate": "久坐的;以坐為主的"
+  },
+  {
+    "word": "sediment",
+    "part_of_speech": "n.",
+    "translate": "沉澱物"
+  },
+  {
+    "word": "sedulous",
+    "part_of_speech": "adj.",
+    "translate": "勤勞的;勤苦工作的"
+  },
+  {
+    "word": "assiduous",
+    "part_of_speech": "adj.",
+    "translate": "勤勉的;勤奮的"
+  },
+  {
+    "word": "insidious",
+    "part_of_speech": "adj.",
+    "translate": "暗中為害的;潛伏的;狡猾的"
+  },
+  {
+    "word": "residue",
+    "part_of_speech": "n.",
+    "translate": "殘餘(物)"
+  },
+  {
+    "word": "subside",
+    "part_of_speech": "v.",
+    "translate": "(土地等)下陷;(風雨等)平靜下來"
+  },
+  {
+    "word": "subsidize",
+    "part_of_speech": "v.",
+    "translate": "給予補助或獎學金"
+  },
+  {
+    "word": "obsessive",
+    "part_of_speech": "adj.",
+    "translate": "纏住不放的;著魔般的"
+  },
+  {
+    "word": "observer",
+    "part_of_speech": "v.",
+    "translate": "慶祝;紀念;觀察;評論;遵守"
+  },
+  {
+    "word": "preserve",
+    "part_of_speech": "n.",
+    "translate": "保護區;蜜餞(多用複數形)"
   }
 ]
