@@ -17,7 +17,7 @@
   {
     "word": "posture",
     "part_of_speech": "v.",
-    "translate": "擺出姿勢;故作姿態"
+    "translate": "作姿勢;擺出姿勢;故作姿態"
   },
   {
     "word": "injury",
@@ -8362,7 +8362,7 @@
   {
     "word": "indispensable",
     "part_of_speech": "adj.",
-    "translate": "必不可少的;必需的"
+    "translate": "不可或缺的;必不可少的;必需的;絕對必要的"
   },
   {
     "word": "policeman",
@@ -9572,7 +9572,7 @@
   {
     "word": "competent",
     "part_of_speech": "adj.",
-    "translate": "有能力的;能勝任的;能幹的"
+    "translate": "勝任的;有能力的;能勝任的;能幹的"
   },
   {
     "word": "throb",
@@ -11147,7 +11147,7 @@
   {
     "word": "import",
     "part_of_speech": "v.",
-    "translate": "輸入"
+    "translate": "輸入;進口"
   },
   {
     "word": "abnormal",
@@ -12482,7 +12482,7 @@
   {
     "word": "transportation",
     "part_of_speech": "n.",
-    "translate": "交通車輛;輸送;運輸"
+    "translate": "交通工具;交通費;交通車輛;輸送;運輸"
   },
   {
     "word": "automatic",
@@ -12792,7 +12792,7 @@
   {
     "word": "exposure",
     "part_of_speech": "n.",
-    "translate": "暴曬;暴露"
+    "translate": "揭露;暴曬;暴露;曝光"
   },
   {
     "word": "productivity",
@@ -13522,7 +13522,7 @@
   {
     "word": "pulse",
     "part_of_speech": "n.",
-    "translate": "有節奏的跳動;脈搏"
+    "translate": "有節奏的跳動;脈搏;跳動"
   },
   {
     "word": "section",
@@ -19247,7 +19247,7 @@
   {
     "word": "impulse",
     "part_of_speech": "n.",
-    "translate": "推動力;衝動"
+    "translate": "推動力;脈衝;衝動;衝擊"
   },
   {
     "word": "companionship",
@@ -19662,7 +19662,7 @@
   {
     "word": "multiply",
     "part_of_speech": "v.",
-    "translate": "乘,使相乘"
+    "translate": "(使)增加;乘;乘,使相乘;繁殖"
   },
   {
     "word": "recommendation",
@@ -20192,7 +20192,7 @@
   {
     "word": "porter",
     "part_of_speech": "n.",
-    "translate": "搬運工人,腳夫"
+    "translate": "搬運工人,腳夫;行李搬運工"
   },
   {
     "word": "cultural",
@@ -21472,7 +21472,7 @@
   {
     "word": "implicit",
     "part_of_speech": "adj.",
-    "translate": "不言明的;含蓄的"
+    "translate": "不明說的;不言明的;含蓄的;暗示的"
   },
   {
     "word": "shriek",
@@ -23492,7 +23492,7 @@
   {
     "word": "deposit",
     "part_of_speech": "n.",
-    "translate": "存款"
+    "translate": "存款;沉澱物;訂金"
   },
   {
     "word": "mound",
@@ -28727,7 +28727,7 @@
   {
     "word": "import",
     "part_of_speech": "n.",
-    "translate": "進口商品"
+    "translate": "輸入(物);進口(品);進口商品"
   },
   {
     "word": "transistor",
@@ -31362,7 +31362,7 @@
   {
     "word": "complex",
     "part_of_speech": "n.",
-    "translate": "複合物"
+    "translate": "(精神分析)情緒;綜合體;複合物"
   },
   {
     "word": "complete",
@@ -33477,7 +33477,7 @@
   {
     "word": "portable",
     "part_of_speech": "adj.",
-    "translate": "手提式的;輕便的"
+    "translate": "可攜帶的;手提式的;輕便的"
   },
   {
     "word": "feedback",
@@ -34217,7 +34217,7 @@
   {
     "word": "suspend",
     "part_of_speech": "v.",
-    "translate": "使中止"
+    "translate": "使中止;使休學;使停職;吊掛;暫緩"
   },
   {
     "word": "opposite",
@@ -38272,7 +38272,7 @@
   {
     "word": "deposit",
     "part_of_speech": "v.",
-    "translate": "寄存;放下,放置"
+    "translate": "付訂金;使沉澱;存放;寄存;放下,放置;放置"
   },
   {
     "word": "coward",
@@ -38387,7 +38387,7 @@
   {
     "word": "posture",
     "part_of_speech": "n.",
-    "translate": "姿勢;姿態"
+    "translate": "姿勢;姿態;態度"
   },
   {
     "word": "invest",
@@ -38927,7 +38927,7 @@
   {
     "word": "compensate",
     "part_of_speech": "v.",
-    "translate": "補償;賠償;酬報"
+    "translate": "報酬;補償;賠償;酬報"
   },
   {
     "word": "catalog",
@@ -40362,7 +40362,7 @@
   {
     "word": "complex",
     "part_of_speech": "adj.",
-    "translate": "複雜的"
+    "translate": "複合的;複雜的"
   },
   {
     "word": "drag",
@@ -42332,7 +42332,7 @@
   {
     "word": "competitive",
     "part_of_speech": "adj.",
-    "translate": "競爭的"
+    "translate": "有競爭力的;競爭的"
   },
   {
     "word": "obedient",
@@ -47593,5 +47593,165 @@
     "word": "repellent",
     "part_of_speech": "n.",
     "translate": "及以後"
+  },
+  {
+    "word": "compulsory",
+    "part_of_speech": "adj.",
+    "translate": "強制的;義務的"
+  },
+  {
+    "word": "repulsive",
+    "part_of_speech": "adj.",
+    "translate": "令人反感的;使人噁心的;排斥的"
+  },
+  {
+    "word": "pending",
+    "part_of_speech": "adj.",
+    "translate": "審理中的;懸而未決的"
+  },
+  {
+    "word": "pendulum",
+    "part_of_speech": "n.",
+    "translate": "擺錘;鐘擺"
+  },
+  {
+    "word": "appendicitis",
+    "part_of_speech": "n.",
+    "translate": "盲腸炎"
+  },
+  {
+    "word": "compendium",
+    "part_of_speech": "n.",
+    "translate": "概略;概要"
+  },
+  {
+    "word": "expendable",
+    "part_of_speech": "adj.",
+    "translate": "可消耗的;可犧牲的"
+  },
+  {
+    "word": "expenditure",
+    "part_of_speech": "n.",
+    "translate": "支出;經費"
+  },
+  {
+    "word": "impending",
+    "part_of_speech": "adj.",
+    "translate": "即將來臨的;迫在眉睫的"
+  },
+  {
+    "word": "propensity",
+    "part_of_speech": "n.",
+    "translate": "傾向;愛好;習性"
+  },
+  {
+    "word": "ponderous",
+    "part_of_speech": "adj.",
+    "translate": "沉悶的;沉重的"
+  },
+  {
+    "word": "preponderant",
+    "part_of_speech": "adj.",
+    "translate": "優勢的;壓倒性的"
+  },
+  {
+    "word": "petition",
+    "part_of_speech": "n.",
+    "translate": "祈求;請願;陳情"
+  },
+  {
+    "word": "petulant",
+    "part_of_speech": "adj.",
+    "translate": "性急的;暴躁的;鬧脾氣的"
+  },
+  {
+    "word": "appetizer",
+    "part_of_speech": "n.",
+    "translate": "開胃菜"
+  },
+  {
+    "word": "impetuous",
+    "part_of_speech": "n.",
+    "translate": "衝動的;魯莽的"
+  },
+  {
+    "word": "impetus",
+    "part_of_speech": "n.",
+    "translate": "推動力;衝力;誘因"
+  },
+  {
+    "word": "perpetuate",
+    "part_of_speech": "v.",
+    "translate": "使不朽;使永存"
+  },
+  {
+    "word": "pliable",
+    "part_of_speech": "adj.",
+    "translate": "柔軟的;柔順的"
+  },
+  {
+    "word": "pliers",
+    "part_of_speech": "n.",
+    "translate": "鉗子"
+  },
+  {
+    "word": "explicity",
+    "part_of_speech": "adv.",
+    "translate": "明白(表示)地;明確地"
+  },
+  {
+    "word": "supplicant",
+    "part_of_speech": "adj.",
+    "translate": "懇求的"
+  },
+  {
+    "word": "supplicant",
+    "part_of_speech": "n.",
+    "translate": "懇求者"
+  },
+  {
+    "word": "preplex",
+    "part_of_speech": "v.",
+    "translate": "使困惑;使困窘"
+  },
+  {
+    "word": "comply",
+    "part_of_speech": "v.",
+    "translate": "服從;遵從"
+  },
+  {
+    "word": "portfolio",
+    "part_of_speech": "n.",
+    "translate": "代表作邏輯;公事包;投資組合;文件夾;部長之職"
+  },
+  {
+    "word": "comport",
+    "part_of_speech": "v.",
+    "translate": "一致;相稱;舉止;表現"
+  },
+  {
+    "word": "deport",
+    "part_of_speech": "v.",
+    "translate": "驅逐出境"
+  },
+  {
+    "word": "exporter",
+    "part_of_speech": "n.",
+    "translate": "出口商;輸出國"
+  },
+  {
+    "word": "purport",
+    "part_of_speech": "n.",
+    "translate": "意義;要旨"
+  },
+  {
+    "word": "porport",
+    "part_of_speech": "v.",
+    "translate": "意指;聲稱"
+  },
+  {
+    "word": "supportive",
+    "part_of_speech": "adj.",
+    "translate": "支持的;贊助的"
   }
 ]
