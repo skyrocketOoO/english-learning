@@ -4407,7 +4407,7 @@
   {
     "word": "opposition",
     "part_of_speech": "n.",
-    "translate": "反對;反抗"
+    "translate": "反對;反對黨;反抗;對抗者;敵對"
   },
   {
     "word": "nasty",
@@ -8162,7 +8162,7 @@
   {
     "word": "compound",
     "part_of_speech": "n.",
-    "translate": "混合物"
+    "translate": "化合物;混合物;複合物"
   },
   {
     "word": "hello",
@@ -9872,7 +9872,7 @@
   {
     "word": "impose",
     "part_of_speech": "v.",
-    "translate": "加(負擔等)於;徵(稅)"
+    "translate": "加(負擔等)於;徵(稅);徵收;把...強加於;麻煩"
   },
   {
     "word": "jasmine",
@@ -11082,7 +11082,7 @@
   {
     "word": "compound",
     "part_of_speech": "v.",
-    "translate": "以複利計算;使合成;使惡化;使混合;妥協"
+    "translate": "以複利計算;使合成;使惡化;使混合;加重;妥協"
   },
   {
     "word": "weary",
@@ -12017,7 +12017,7 @@
   {
     "word": "press",
     "part_of_speech": "n.",
-    "translate": "新聞輿論"
+    "translate": "印刷機;報刊;壓迫;新聞界;新聞輿論"
   },
   {
     "word": "meet",
@@ -15362,7 +15362,7 @@
   {
     "word": "opponent",
     "part_of_speech": "n.",
-    "translate": "對手;敵手,反對者"
+    "translate": "對手;敵手;敵手,反對者"
   },
   {
     "word": "tailor",
@@ -17442,7 +17442,7 @@
   {
     "word": "compound",
     "part_of_speech": "adj.",
-    "translate": "合成的,複合的"
+    "translate": "化合的;合成的,複合的;混合的"
   },
   {
     "word": "cheap",
@@ -24147,7 +24147,7 @@
   {
     "word": "impression",
     "part_of_speech": "n.",
-    "translate": "印象"
+    "translate": "印記;印象;壓痕"
   },
   {
     "word": "lipstick",
@@ -29532,7 +29532,7 @@
   {
     "word": "press",
     "part_of_speech": "v.",
-    "translate": "催逼;壓,擠"
+    "translate": "催逼;壓;壓,擠;按;熨燙;逼迫"
   },
   {
     "word": "measure",
@@ -38767,7 +38767,7 @@
   {
     "word": "repress",
     "part_of_speech": "v.",
-    "translate": "抑制;鎮壓"
+    "translate": "壓制;抑制;鎮壓"
   },
   {
     "word": "omit",
@@ -47753,5 +47753,95 @@
     "word": "supportive",
     "part_of_speech": "adj.",
     "translate": "支持的;贊助的"
+  },
+  {
+    "word": "proposition",
+    "part_of_speech": "n.",
+    "translate": "主張;命題;提議"
+  },
+  {
+    "word": "compress",
+    "part_of_speech": "v.",
+    "translate": "使變簡練;壓縮"
+  },
+  {
+    "word": "depressing",
+    "part_of_speech": "adj.",
+    "translate": "令人沮喪的;令人消沉的"
+  },
+  {
+    "word": "oppressor",
+    "part_of_speech": "n.",
+    "translate": "壓迫者;暴君"
+  },
+  {
+    "word": "blueprint",
+    "part_of_speech": "n.",
+    "translate": "(周詳的)計畫;藍圖"
+  },
+  {
+    "word": "blueprint",
+    "part_of_speech": "v.",
+    "translate": "製成藍圖;計畫"
+  },
+  {
+    "word": "fingerprint",
+    "part_of_speech": "n.",
+    "translate": "指紋"
+  },
+  {
+    "word": "fingerprint",
+    "part_of_speech": "v.",
+    "translate": "抹指紋"
+  },
+  {
+    "word": "imprint",
+    "part_of_speech": "n.",
+    "translate": "印痕;印象"
+  },
+  {
+    "word": "imprint",
+    "part_of_speech": "v.",
+    "translate": "使留下印象;印;壓印"
+  },
+  {
+    "word": "probation",
+    "part_of_speech": "n.",
+    "translate": "查驗;緩刑;試用(期間)"
+  },
+  {
+    "word": "probe",
+    "part_of_speech": "n.",
+    "translate": "探索;探針探測器"
+  },
+  {
+    "word": "probe",
+    "part_of_speech": "v.",
+    "translate": "探測;詳細調查"
+  },
+  {
+    "word": "probity",
+    "part_of_speech": "n.",
+    "translate": "廉潔;正直;誠實"
+  },
+  {
+    "word": "approbate",
+    "part_of_speech": "v.",
+    "translate": "認可;贊同"
+  },
+  {
+    "word": "reprobate",
+    "part_of_speech": "v.",
+    "translate": "責備"
+  },
+  {
+    "word": "reprobate",
+    "part_of_speech": "adj.",
+    "translate": "無賴的"
+  },
+  {
+    "word": "reprobate",
+    "part_of_speech": "n.",
+    "translate": "惡棍無賴"
   }
 ]
