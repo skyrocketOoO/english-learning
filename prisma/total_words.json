@@ -39537,7 +39537,7 @@
   {
     "word": "spare",
     "part_of_speech": "adj.",
-    "translate": "多餘的,剩下的;空閒的"
+    "translate": "備用的;多餘的,剩下的;空閒的"
   },
   {
     "word": "teacher",
@@ -47843,5 +47843,60 @@
     "word": "reprobate",
     "part_of_speech": "n.",
     "translate": "惡棍無賴"
+  },
+  {
+    "word": "disprove",
+    "part_of_speech": "v.",
+    "translate": "證明...為誤;駁斥"
+  },
+  {
+    "word": "reprove",
+    "part_of_speech": "v.",
+    "translate": "指責;訓誡;非難"
+  },
+  {
+    "word": "foolproof",
+    "part_of_speech": "adj.",
+    "translate": "極簡單的;笨人也會懂或用的;非常安全的"
+  },
+  {
+    "word": "shockproof",
+    "part_of_speech": "adj.",
+    "translate": "防震的"
+  },
+  {
+    "word": "soundproof",
+    "part_of_speech": "v.",
+    "translate": "裝隔音設備"
+  },
+  {
+    "word": "soundproof",
+    "part_of_speech": "adj.",
+    "translate": "隔音的"
+  },
+  {
+    "word": "pugilist",
+    "part_of_speech": "n.",
+    "translate": "拳擊手"
+  },
+  {
+    "word": "pugnacios",
+    "part_of_speech": "adj.",
+    "translate": "好鬥的"
+  },
+  {
+    "word": "impugn",
+    "part_of_speech": "v.",
+    "translate": "抨擊;指責"
+  },
+  {
+    "word": "oppugn",
+    "part_of_speech": "v.",
+    "translate": "責難;質疑"
+  },
+  {
+    "word": "repugnant",
+    "part_of_speech": "adj.",
+    "translate": "反對的;矛盾的;討厭的"
   }
 ]
