@@ -3777,7 +3777,7 @@
   {
     "word": "attendance",
     "part_of_speech": "n.",
-    "translate": "侍候;出席;出席人數"
+    "translate": "侍候;出席;出席(人數);出席人數;照料;看護"
   },
   {
     "word": "cure",
@@ -8442,7 +8442,7 @@
   {
     "word": "intensive",
     "part_of_speech": "adj.",
-    "translate": "加強的;密集的"
+    "translate": "加強的;密集的;強烈的"
   },
   {
     "word": "owl",
@@ -10582,7 +10582,7 @@
   {
     "word": "content",
     "part_of_speech": "n.",
-    "translate": "內容,要旨"
+    "translate": "內容;內容,要旨"
   },
   {
     "word": "bolt",
@@ -14747,7 +14747,7 @@
   {
     "word": "extensive",
     "part_of_speech": "adj.",
-    "translate": "廣大的;廣闊的"
+    "translate": "廣大的;廣泛的;廣闊的"
   },
   {
     "word": "exterior",
@@ -15842,7 +15842,7 @@
   {
     "word": "terminal",
     "part_of_speech": "n.",
-    "translate": "接頭;終端機"
+    "translate": "接頭;末端;終端機;終點"
   },
   {
     "word": "joke",
@@ -19442,7 +19442,7 @@
   {
     "word": "intent",
     "part_of_speech": "n.",
-    "translate": "意圖;目的"
+    "translate": "意圖;涵義;目的"
   },
   {
     "word": "hysterical",
@@ -21342,7 +21342,7 @@
   {
     "word": "terminate",
     "part_of_speech": "v.",
-    "translate": "使終止;使結束;解雇"
+    "translate": "使終止;使結束;完結;解雇"
   },
   {
     "word": "lock",
@@ -25787,7 +25787,7 @@
   {
     "word": "content",
     "part_of_speech": "adj.",
-    "translate": "滿意的;甘願的"
+    "translate": "滿意的;滿足的;甘願的"
   },
   {
     "word": "confession",
@@ -28247,7 +28247,7 @@
   {
     "word": "terminal",
     "part_of_speech": "adj.",
-    "translate": "末端的;終點的"
+    "translate": "末期的;末端的;盡頭;終端的;終點的"
   },
   {
     "word": "obtain",
@@ -30687,7 +30687,7 @@
   {
     "word": "intend",
     "part_of_speech": "v.",
-    "translate": "想要;打算"
+    "translate": "想要;意欲;打算"
   },
   {
     "word": "right",
@@ -33407,7 +33407,7 @@
   {
     "word": "contend",
     "part_of_speech": "v.",
-    "translate": " 搏鬥; 爭取; 競爭;聲稱"
+    "translate": " 搏鬥; 爭取; 競爭;主張;力辯;爭鬥;競爭;聲稱"
   },
   {
     "word": "tempo",
@@ -33782,7 +33782,7 @@
   {
     "word": "tendency",
     "part_of_speech": "n.",
-    "translate": "傾向;癖性"
+    "translate": "傾向;癖性;趨勢"
   },
   {
     "word": "criticize",
@@ -43392,7 +43392,7 @@
   {
     "word": "extend",
     "part_of_speech": "v.",
-    "translate": "延長,延伸"
+    "translate": "延長;延長,延伸;擴充;給予(援助等)"
   },
   {
     "word": "stare",
@@ -48218,5 +48218,40 @@
     "word": "tenet",
     "part_of_speech": "n.",
     "translate": "信條;教義"
+  },
+  {
+    "word": "tenure",
+    "part_of_speech": "n.",
+    "translate": "(教授等的)終身職位;保有期;保有權"
+  },
+  {
+    "word": "abstinence",
+    "part_of_speech": "n.",
+    "translate": "戒酒;禁慾"
+  },
+  {
+    "word": "incontinent",
+    "part_of_speech": "adj.",
+    "translate": "不能自制的;失禁的"
+  },
+  {
+    "word": "pretense",
+    "part_of_speech": "n.",
+    "translate": "假裝;炫耀;藉口"
+  },
+  {
+    "word": "contention",
+    "part_of_speech": "n.",
+    "translate": "主張;爭論;競爭"
+  },
+  {
+    "word": "pretentious",
+    "part_of_speech": "adj.",
+    "translate": "自命不凡的;誇耀的"
+  },
+  {
+    "word": "terminology",
+    "part_of_speech": "n.",
+    "translate": "專門用語;術語"
   }
 ]
