@@ -2747,7 +2747,7 @@
   {
     "word": "consumption",
     "part_of_speech": "n.",
-    "translate": "消耗;消耗量;用盡"
+    "translate": "消耗;消耗量;消費;用盡;食用"
   },
   {
     "word": "peach",
@@ -8412,7 +8412,7 @@
   {
     "word": "detain",
     "part_of_speech": "v.",
-    "translate": "扣留;留住"
+    "translate": "扣留;留住;留置"
   },
   {
     "word": "triple",
@@ -13402,7 +13402,7 @@
   {
     "word": "tenant",
     "part_of_speech": "n.",
-    "translate": "房客"
+    "translate": "佃農;房客;租戶"
   },
   {
     "word": "show",
@@ -21057,7 +21057,7 @@
   {
     "word": "retain",
     "part_of_speech": "v.",
-    "translate": "保留,保持"
+    "translate": "保有;保留,保持;記得"
   },
   {
     "word": "dial",
@@ -48188,5 +48188,35 @@
     "word": "subsume",
     "part_of_speech": "v.",
     "translate": "將...歸入某一類;把...包括在內"
+  },
+  {
+    "word": "presumptuous",
+    "part_of_speech": "adj.",
+    "translate": "僭越的;冒昧的;放肆的"
+  },
+  {
+    "word": "entertaining",
+    "part_of_speech": "adj.",
+    "translate": "令人愉快的;娛樂的"
+  },
+  {
+    "word": "pertain",
+    "part_of_speech": "v.",
+    "translate": "屬於;適合;關於"
+  },
+  {
+    "word": "tenable",
+    "part_of_speech": "adj.",
+    "translate": "可主張的;可守的;可維持的"
+  },
+  {
+    "word": "tenacious",
+    "part_of_speech": "adj.",
+    "translate": "不屈不撓的;固執的;緊抓不放的"
+  },
+  {
+    "word": "tenet",
+    "part_of_speech": "n.",
+    "translate": "信條;教義"
   }
 ]
