@@ -6402,7 +6402,7 @@
   {
     "word": "reservoir",
     "part_of_speech": "n.",
-    "translate": "蓄水庫;貯水池"
+    "translate": "水庫;蓄水庫;貯水池"
   },
   {
     "word": "mamma",
@@ -48068,5 +48068,15 @@
     "word": "preserve",
     "part_of_speech": "n.",
     "translate": "保護區;蜜餞(多用複數形)"
+  },
+  {
+    "word": "thrones",
+    "part_of_speech": "n.",
+    "translate": "王座"
+  },
+  {
+    "word": "coaster",
+    "part_of_speech": "n.",
+    "translate": "杯墊"
   }
 ]
