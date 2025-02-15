@@ -3302,7 +3302,7 @@
   {
     "word": "tournament",
     "part_of_speech": "n.",
-    "translate": "比賽;錦標賽"
+    "translate": "比賽;競爭;錦標賽"
   },
   {
     "word": "burglar",
@@ -4412,7 +4412,7 @@
   {
     "word": "nasty",
     "part_of_speech": "adj.",
-    "translate": "卑鄙的;難處理的;齷齪的"
+    "translate": "卑鄙的;可惡的;難處理的;骯髒的;齷齪的"
   },
   {
     "word": "good",
@@ -19407,7 +19407,7 @@
   {
     "word": "discreet",
     "part_of_speech": "adj.",
-    "translate": "不引人注意的;謙虛的;謹慎的"
+    "translate": "不引人注意的;慎重的;謙虛的;謹慎的"
   },
   {
     "word": "tooth",
@@ -20667,7 +20667,7 @@
   {
     "word": "lieutenant",
     "part_of_speech": "n.",
-    "translate": "中尉(或少尉);助理官"
+    "translate": "中尉;中尉(或少尉);助理官"
   },
   {
     "word": "slam",
@@ -24407,7 +24407,7 @@
   {
     "word": "stern",
     "part_of_speech": "adj.",
-    "translate": "嚴厲的;堅定的"
+    "translate": "嚴厲的;嚴格的;堅定的;森嚴的"
   },
   {
     "word": "access",
@@ -25322,7 +25322,7 @@
   {
     "word": "decent",
     "part_of_speech": "adj.",
-    "translate": "正派的;體面的"
+    "translate": "像樣的;合適的;正派的;體面的"
   },
   {
     "word": "broth",
@@ -27912,7 +27912,7 @@
   {
     "word": "elbow",
     "part_of_speech": "n.",
-    "translate": "肘部"
+    "translate": "手肘;肘部"
   },
   {
     "word": "anniversary",
@@ -28007,7 +28007,7 @@
   {
     "word": "dread",
     "part_of_speech": "n.",
-    "translate": "畏懼,恐怖"
+    "translate": "恐懼;畏懼,恐怖"
   },
   {
     "word": "disregard",
@@ -28022,7 +28022,7 @@
   {
     "word": "cling",
     "part_of_speech": "v.",
-    "translate": "依附;墨守;黏著"
+    "translate": "依附;墨守;緊貼;黏著"
   },
   {
     "word": "lullaby",
@@ -28787,7 +28787,7 @@
   {
     "word": "brooch",
     "part_of_speech": "n.",
-    "translate": "女用胸針(或領針)"
+    "translate": "別針;女用胸針(或領針);胸針"
   },
   {
     "word": "reaction",
@@ -32992,7 +32992,7 @@
   {
     "word": "toll",
     "part_of_speech": "n.",
-    "translate": " 傷亡人數; 通行費; 鐘聲;長途電話費"
+    "translate": " 傷亡人數; 通行費; 鐘聲;費用;長途電話費"
   },
   {
     "word": "kill",
@@ -33247,7 +33247,7 @@
   {
     "word": "rip",
     "part_of_speech": "v.",
-    "translate": "扯;撕"
+    "translate": "扯;撕;撕開"
   },
   {
     "word": "fan",
@@ -41102,7 +41102,7 @@
   {
     "word": "squeeze",
     "part_of_speech": "v.",
-    "translate": "榨,擠,壓"
+    "translate": "壓縮;掐緊;榨,擠,壓"
   },
   {
     "word": "dance",
@@ -48578,5 +48578,65 @@
     "word": "bicker",
     "part_of_speech": "v.",
     "translate": "爭吵"
+  },
+  {
+    "word": "regent",
+    "part_of_speech": "adj.",
+    "translate": "攝政的"
+  },
+  {
+    "word": "ferret",
+    "part_of_speech": "n.",
+    "translate": "雪貂"
+  },
+  {
+    "word": "partake",
+    "part_of_speech": "v.",
+    "translate": "分享;參加"
+  },
+  {
+    "word": "daring",
+    "part_of_speech": "adj.",
+    "translate": "大膽的"
+  },
+  {
+    "word": "sulk",
+    "part_of_speech": "n.",
+    "translate": "憂鬱"
+  },
+  {
+    "word": "prickly",
+    "part_of_speech": "adj.",
+    "translate": "多刺的"
+  },
+  {
+    "word": "alteration",
+    "part_of_speech": "n.",
+    "translate": "改造;變動"
+  },
+  {
+    "word": "swoon",
+    "part_of_speech": "n.",
+    "translate": "昏厥"
+  },
+  {
+    "word": "sapphire",
+    "part_of_speech": "n.",
+    "translate": "藍寶石"
+  },
+  {
+    "word": "bash",
+    "part_of_speech": "v.",
+    "translate": "揍"
+  },
+  {
+    "word": "flagon",
+    "part_of_speech": "n.",
+    "translate": "酒壺"
+  },
+  {
+    "word": "seep",
+    "part_of_speech": "v.",
+    "translate": "滲透"
   }
 ]
