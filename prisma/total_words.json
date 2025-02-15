@@ -9407,7 +9407,7 @@
   {
     "word": "splendid",
     "part_of_speech": "adj.",
-    "translate": "傑出的;燦爛的"
+    "translate": "傑出的;杰出的;燦爛的"
   },
   {
     "word": "agricultural",
@@ -42507,7 +42507,7 @@
   {
     "word": "urge",
     "part_of_speech": "v.",
-    "translate": "催促;力勸"
+    "translate": "催促;力勸;敦促;鼓勵"
   },
   {
     "word": "paradise",
@@ -48558,5 +48558,25 @@
     "word": "revolting",
     "part_of_speech": "adj.",
     "translate": "令人噁心的;使人厭惡的"
+  },
+  {
+    "word": "pyromancer",
+    "part_of_speech": "n.",
+    "translate": "烈焰術士"
+  },
+  {
+    "word": "slit",
+    "part_of_speech": "v.",
+    "translate": "切開"
+  },
+  {
+    "word": "unravel",
+    "part_of_speech": "v.",
+    "translate": "拆散"
+  },
+  {
+    "word": "bicker",
+    "part_of_speech": "v.",
+    "translate": "爭吵"
   }
 ]
