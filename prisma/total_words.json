@@ -1332,7 +1332,7 @@
   {
     "word": "devour",
     "part_of_speech": "v.",
-    "translate": "吞沒;狼吞虎嚥地吃"
+    "translate": "吞沒;吞食;狼吞虎嚥地吃"
   },
   {
     "word": "bear",
@@ -27657,7 +27657,7 @@
   {
     "word": "endanger",
     "part_of_speech": "v.",
-    "translate": "使遭到危險;危及"
+    "translate": "使遭到危險;危及;危害"
   },
   {
     "word": "bark",
@@ -33602,7 +33602,7 @@
   {
     "word": "hospitality",
     "part_of_speech": "n.",
-    "translate": "好客;殷勤招待"
+    "translate": "好客;殷勤招待;飯店業"
   },
   {
     "word": "divorce",
@@ -48643,5 +48643,35 @@
     "word": "spurned",
     "part_of_speech": "adj.",
     "translate": "被拒絕的"
+  },
+  {
+    "word": "harp",
+    "part_of_speech": "n.",
+    "translate": "豎琴"
+  },
+  {
+    "word": "septon",
+    "part_of_speech": "n.",
+    "translate": "修士"
+  },
+  {
+    "word": "sire",
+    "part_of_speech": "n.",
+    "translate": "閣下"
+  },
+  {
+    "word": "eunuch",
+    "part_of_speech": "n.",
+    "translate": "宦官"
+  },
+  {
+    "word": "reek",
+    "part_of_speech": "n.",
+    "translate": "腐臭"
+  },
+  {
+    "word": "flay",
+    "part_of_speech": "v.",
+    "translate": "剝皮"
   }
 ]
