@@ -28932,7 +28932,7 @@
   {
     "word": "wizard",
     "part_of_speech": "n.",
-    "translate": "奇才;男巫;高手"
+    "translate": "奇才;巫師;男巫;高手"
   },
   {
     "word": "being",
@@ -48638,5 +48638,10 @@
     "word": "seep",
     "part_of_speech": "v.",
     "translate": "滲透"
+  },
+  {
+    "word": "spurned",
+    "part_of_speech": "adj.",
+    "translate": "被拒絕的"
   }
 ]
