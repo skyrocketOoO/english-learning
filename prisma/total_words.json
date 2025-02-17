@@ -1022,7 +1022,7 @@
   {
     "word": "sensible",
     "part_of_speech": "adj.",
-    "translate": "明顯的;有知覺的"
+    "translate": "切合實際的;合理的;明智的;明顯的;有知覺的"
   },
   {
     "word": "beat",
@@ -12917,7 +12917,7 @@
   {
     "word": "scope",
     "part_of_speech": "n.",
-    "translate": "範圍;領域"
+    "translate": "(活動等的)機會;範圍;領域;餘地"
   },
   {
     "word": "representative",
@@ -14337,7 +14337,7 @@
   {
     "word": "sensitive",
     "part_of_speech": "adj.",
-    "translate": "敏感的;易受傷害的"
+    "translate": "敏感的;易受傷害的;易受影響的"
   },
   {
     "word": "colonial",
@@ -25037,7 +25037,7 @@
   {
     "word": "earphone",
     "part_of_speech": "n.",
-    "translate": "耳機"
+    "translate": "耳塞式耳機;耳機"
   },
   {
     "word": "almost",
@@ -34957,7 +34957,7 @@
   {
     "word": "consensus",
     "part_of_speech": "n.",
-    "translate": "一致;合意;輿論"
+    "translate": "一致;一致同意;共識;合意;輿論"
   },
   {
     "word": "intersection",
@@ -42502,7 +42502,7 @@
   {
     "word": "symphony",
     "part_of_speech": "n.",
-    "translate": "交響樂,交響曲"
+    "translate": "交響曲;交響樂;交響樂,交響曲"
   },
   {
     "word": "urge",
@@ -48918,5 +48918,115 @@
     "word": "empathy",
     "part_of_speech": "n.",
     "translate": "同感;同理心;移情作用"
+  },
+  {
+    "word": "dispassionate",
+    "part_of_speech": "adj.",
+    "translate": "不動感情的;不帶偏見的;公平的;冷靜的"
+  },
+  {
+    "word": "impassioned",
+    "part_of_speech": "adj.",
+    "translate": "充滿激情的;慷慨激昂的"
+  },
+  {
+    "word": "impassive",
+    "part_of_speech": "adj.",
+    "translate": "沒有表情的;無動於衷的"
+  },
+  {
+    "word": "impatience",
+    "part_of_speech": "n.",
+    "translate": "不耐煩;急切"
+  },
+  {
+    "word": "phonetics",
+    "part_of_speech": "n.",
+    "translate": "語音學"
+  },
+  {
+    "word": "phonics",
+    "part_of_speech": "n.",
+    "translate": "字母拼讀法"
+  },
+  {
+    "word": "phonograph",
+    "part_of_speech": "n.",
+    "translate": "留聲機"
+  },
+  {
+    "word": "phonology",
+    "part_of_speech": "n.",
+    "translate": "聲韻學;語音體系"
+  },
+  {
+    "word": "homophonic",
+    "part_of_speech": "adj.",
+    "translate": "同音異義的"
+  },
+  {
+    "word": "colonoscopy",
+    "part_of_speech": "n.",
+    "translate": "結腸鏡檢查(術)"
+  },
+  {
+    "word": "endoscope",
+    "part_of_speech": "n.",
+    "translate": "內視鏡"
+  },
+  {
+    "word": "gastroscope",
+    "part_of_speech": "n.",
+    "translate": "胃鏡"
+  },
+  {
+    "word": "horoscope",
+    "part_of_speech": "n.",
+    "translate": "十二宮圖;占星術;星象(算命)"
+  },
+  {
+    "word": "kaleidoscope",
+    "part_of_speech": "n.",
+    "translate": "萬花筒"
+  },
+  {
+    "word": "periscope",
+    "part_of_speech": "n.",
+    "translate": "展望鏡;潛望鏡"
+  },
+  {
+    "word": "stethescope",
+    "part_of_speech": "n.",
+    "translate": "聽診器"
+  },
+  {
+    "word": "telescopic",
+    "part_of_speech": "adj.",
+    "translate": "伸縮式的;望遠鏡的;眼力好的"
+  },
+  {
+    "word": "sensational",
+    "part_of_speech": "adj.",
+    "translate": "極好的;聳動的;轟動的"
+  },
+  {
+    "word": "senseless",
+    "part_of_speech": "adj.",
+    "translate": "無意義的;無感覺的"
+  },
+  {
+    "word": "sensor",
+    "part_of_speech": "n.",
+    "translate": "感應器"
+  },
+  {
+    "word": "sensual",
+    "part_of_speech": "adj.",
+    "translate": "官能的;肉體的"
+  },
+  {
+    "word": "sensuous",
+    "part_of_speech": "adj.",
+    "translate": "感覺的;舒服的;訴諸美感的"
   }
 ]
