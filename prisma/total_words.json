@@ -1352,7 +1352,7 @@
   {
     "word": "exclaim",
     "part_of_speech": "v.",
-    "translate": "呼喊;驚叫"
+    "translate": "呼喊;大叫;驚叫"
   },
   {
     "word": "white",
@@ -4627,7 +4627,7 @@
   {
     "word": "gracious",
     "part_of_speech": "adj.",
-    "translate": "和藹的;親切的;高尚的"
+    "translate": "仁慈的;和藹的;親切的;雅緻的;高尚的"
   },
   {
     "word": "function",
@@ -6117,7 +6117,7 @@
   {
     "word": "carol",
     "part_of_speech": "n.",
-    "translate": "(耶誕)頌歌;讚美詩"
+    "translate": "(宗教性的)祝頌歌;(耶誕)頌歌;(聖誕)頌歌;讚美詩"
   },
   {
     "word": "joint",
@@ -7677,7 +7677,7 @@
   {
     "word": "dictate",
     "part_of_speech": "v.",
-    "translate": "口授,口述,"
+    "translate": "使聽寫;口授;口授,口述,;命令"
   },
   {
     "word": "jump",
@@ -8197,7 +8197,7 @@
   {
     "word": "dialogue",
     "part_of_speech": "n.",
-    "translate": "交談;對話"
+    "translate": "交談;對話;意見交換"
   },
   {
     "word": "bore",
@@ -13092,7 +13092,7 @@
   {
     "word": "catalogue",
     "part_of_speech": "n.",
-    "translate": "大學概況一覽;登記,記載;目錄"
+    "translate": "一覽表;大學概況一覽;登記,記載;目錄"
   },
   {
     "word": "pants",
@@ -19767,7 +19767,7 @@
   {
     "word": "eloquent",
     "part_of_speech": "adj.",
-    "translate": "口才流利的;雄辯的"
+    "translate": "口才好的;口才流利的;雄辯的"
   },
   {
     "word": "interest",
@@ -21152,7 +21152,7 @@
   {
     "word": "disgrace",
     "part_of_speech": "n.",
-    "translate": "丟臉的事(或人);恥辱"
+    "translate": "不名譽;丟臉的事(或人);恥辱"
   },
   {
     "word": "pasta",
@@ -21917,7 +21917,7 @@
   {
     "word": "addiction",
     "part_of_speech": "n.",
-    "translate": "上癮;沈溺"
+    "translate": "上癮;沈溺;沉溺"
   },
   {
     "word": "landmark",
@@ -31122,7 +31122,7 @@
   {
     "word": "dictator",
     "part_of_speech": "n.",
-    "translate": "獨裁者"
+    "translate": "口授者;叫人聽寫的人;獨裁者"
   },
   {
     "word": "transplant",
@@ -35007,7 +35007,7 @@
   {
     "word": "choir",
     "part_of_speech": "n.",
-    "translate": "(教堂的)唱詩班;合唱團"
+    "translate": "(教堂的)唱詩班;合唱團;唱詩班;聖樂團"
   },
   {
     "word": "lunatic",
@@ -41072,7 +41072,7 @@
   {
     "word": "gratitude",
     "part_of_speech": "n.",
-    "translate": "感激之情,感恩,感謝"
+    "translate": "感激;感激之情,感恩,感謝;謝意"
   },
   {
     "word": "bless",
@@ -44142,12 +44142,12 @@
   {
     "word": "interdict",
     "part_of_speech": "v.",
-    "translate": "禁止"
+    "translate": "制止;禁止"
   },
   {
     "word": "interdict",
     "part_of_speech": "n.",
-    "translate": "禁令"
+    "translate": "禁令;禁止"
   },
   {
     "word": "interface",
@@ -48728,5 +48728,195 @@
     "word": "choreography",
     "part_of_speech": "n.",
     "translate": "編舞(法);舞蹈術"
+  },
+  {
+    "word": "claimant",
+    "part_of_speech": "n.",
+    "translate": "提出要求者;索賠者"
+  },
+  {
+    "word": "acclaim",
+    "part_of_speech": "n.",
+    "translate": "喝采;歡呼;讚賞"
+  },
+  {
+    "word": "acclaim",
+    "part_of_speech": "v.",
+    "translate": "喝采;歡呼;讚賞"
+  },
+  {
+    "word": "declaim",
+    "part_of_speech": "v.",
+    "translate": "慷慨陳詞;朗讀"
+  },
+  {
+    "word": "disclaim",
+    "part_of_speech": "v.",
+    "translate": "否認(責任、關係等);放棄(權力等)"
+  },
+  {
+    "word": "reclaim",
+    "part_of_speech": "v.",
+    "translate": "使改過遷善;再利用;開墾"
+  },
+  {
+    "word": "unclaimed",
+    "part_of_speech": "adj.",
+    "translate": "所有主不明的;無人要求的"
+  },
+  {
+    "word": "clamor",
+    "part_of_speech": "n.",
+    "translate": "(要求的)聲浪;吵雜;喧鬧"
+  },
+  {
+    "word": "clamor",
+    "part_of_speech": "v.",
+    "translate": "吵鬧;大聲疾呼"
+  },
+  {
+    "word": "proclamation",
+    "part_of_speech": "n.",
+    "translate": "宣布;宣言;聲明書"
+  },
+  {
+    "word": "diction",
+    "part_of_speech": "n.",
+    "translate": "措詞;用字遣詞"
+  },
+  {
+    "word": "dictum",
+    "part_of_speech": "n.",
+    "translate": "名言;格言"
+  },
+  {
+    "word": "benediction",
+    "part_of_speech": "n.",
+    "translate": "祝福;祝禱"
+  },
+  {
+    "word": "contradictory",
+    "part_of_speech": "adj.",
+    "translate": "對立的;矛盾的"
+  },
+  {
+    "word": "edict",
+    "part_of_speech": "n.",
+    "translate": "勒令;布告"
+  },
+  {
+    "word": "indict",
+    "part_of_speech": "v.",
+    "translate": "告發;對...起訴"
+  },
+  {
+    "word": "malediction",
+    "part_of_speech": "n.",
+    "translate": "壞話;詛咒"
+  },
+  {
+    "word": "predictable",
+    "part_of_speech": "adj.",
+    "translate": "可預測的;無創意的"
+  },
+  {
+    "word": "valedictory",
+    "part_of_speech": "adj.",
+    "translate": "告別的"
+  },
+  {
+    "word": "valedictory",
+    "part_of_speech": "n.",
+    "translate": "畢業生代表的告別辭"
+  },
+  {
+    "word": "verdict",
+    "part_of_speech": "n.",
+    "translate": "(陪審團的)裁決;定論;意見"
+  },
+  {
+    "word": "gratify",
+    "part_of_speech": "v.",
+    "translate": "使喜悅;使滿足"
+  },
+  {
+    "word": "gratuitous",
+    "part_of_speech": "adj.",
+    "translate": "不必要的;免費的;無理由的"
+  },
+  {
+    "word": "gratuity",
+    "part_of_speech": "n.",
+    "translate": "小費;賞錢"
+  },
+  {
+    "word": "ingrate",
+    "part_of_speech": "n.",
+    "translate": "忘恩負義的人"
+  },
+  {
+    "word": "ingratiate",
+    "part_of_speech": "v.",
+    "translate": "討好;逢迎"
+  },
+  {
+    "word": "graceless",
+    "part_of_speech": "adj.",
+    "translate": "不雅的;失禮的;粗野的"
+  },
+  {
+    "word": "epilogue",
+    "part_of_speech": "n.",
+    "translate": "後記;跋"
+  },
+  {
+    "word": "prologue",
+    "part_of_speech": "n.",
+    "translate": "前言;序言"
+  },
+  {
+    "word": "loquacious",
+    "part_of_speech": "adj.",
+    "translate": "愛說話的;話多的"
+  },
+  {
+    "word": "colloquy",
+    "part_of_speech": "n.",
+    "translate": "會談;談話"
+  },
+  {
+    "word": "grandiloquent",
+    "part_of_speech": "adj.",
+    "translate": "浮誇的;誇張的"
+  },
+  {
+    "word": "soliloquy",
+    "part_of_speech": "n.",
+    "translate": "(戲劇中的)獨自;自言自語"
+  },
+  {
+    "word": "pathology",
+    "part_of_speech": "n.",
+    "translate": "病理學"
+  },
+  {
+    "word": "pathos",
+    "part_of_speech": "n.",
+    "translate": "(文學或音樂作品的)悲愴性;感傷力"
+  },
+  {
+    "word": "apathetic",
+    "part_of_speech": "adj.",
+    "translate": "冷漠的;無動於衷的"
+  },
+  {
+    "word": "antipathy",
+    "part_of_speech": "n.",
+    "translate": "厭惡;反感"
+  },
+  {
+    "word": "empathy",
+    "part_of_speech": "n.",
+    "translate": "同感;同理心;移情作用"
   }
 ]
