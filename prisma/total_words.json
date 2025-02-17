@@ -2792,7 +2792,7 @@
   {
     "word": "consent",
     "part_of_speech": "n.",
-    "translate": "同意;贊成"
+    "translate": "准許;同意;贊成"
   },
   {
     "word": "wine",
@@ -16867,7 +16867,7 @@
   {
     "word": "consent",
     "part_of_speech": "v.",
-    "translate": "同意;贊成"
+    "translate": "准許;同意;贊成"
   },
   {
     "word": "June",
@@ -28652,7 +28652,7 @@
   {
     "word": "sentimental",
     "part_of_speech": "adj.",
-    "translate": "多愁善感的;情感;情深的"
+    "translate": "多愁善感的;情感;情深的;感傷的"
   },
   {
     "word": "abortion",
@@ -49028,5 +49028,95 @@
     "word": "sensuous",
     "part_of_speech": "adj.",
     "translate": "感覺的;舒服的;訴諸美感的"
+  },
+  {
+    "word": "assent",
+    "part_of_speech": "v.",
+    "translate": "同意;贊同"
+  },
+  {
+    "word": "dissent",
+    "part_of_speech": "n.",
+    "translate": "不同意;異議"
+  },
+  {
+    "word": "dissent",
+    "part_of_speech": "v.",
+    "translate": "持異議;表示不同意"
+  },
+  {
+    "word": "presentiment",
+    "part_of_speech": "n.",
+    "translate": "(不詳的)預感"
+  },
+  {
+    "word": "sommambulate",
+    "part_of_speech": "v.",
+    "translate": "夢遊"
+  },
+  {
+    "word": "somniferous",
+    "part_of_speech": "adj.",
+    "translate": "催眠的;想睡的"
+  },
+  {
+    "word": "somniloquy",
+    "part_of_speech": "n.",
+    "translate": "夢囈"
+  },
+  {
+    "word": "somnolent",
+    "part_of_speech": "adj.",
+    "translate": "想睡的;瞌睡的"
+  },
+  {
+    "word": "hypersomnia",
+    "part_of_speech": "n.",
+    "translate": "嗜睡症"
+  },
+  {
+    "word": "insomnia",
+    "part_of_speech": "n.",
+    "translate": "失眠症"
+  },
+  {
+    "word": "sonar",
+    "part_of_speech": "n.",
+    "translate": "聲納"
+  },
+  {
+    "word": "sonata",
+    "part_of_speech": "n.",
+    "translate": "奏鳴曲"
+  },
+  {
+    "word": "sonnet",
+    "part_of_speech": "n.",
+    "translate": "十四行詩"
+  },
+  {
+    "word": "sonorous",
+    "part_of_speech": "adj.",
+    "translate": "洪亮的;響亮的"
+  },
+  {
+    "word": "consonant",
+    "part_of_speech": "adj.",
+    "translate": "一致的;調和的"
+  },
+  {
+    "word": "dissonance",
+    "part_of_speech": "n.",
+    "translate": "不一致;不調和;不諧和音"
+  },
+  {
+    "word": "resonant",
+    "part_of_speech": "adj.",
+    "translate": "共鳴的;反響的"
+  },
+  {
+    "word": "resound",
+    "part_of_speech": "v.",
+    "translate": "反響;鳴響"
   }
 ]
