@@ -6012,7 +6012,7 @@
   {
     "word": "mischief",
     "part_of_speech": "n.",
-    "translate": "頑皮,淘氣"
+    "translate": "惡作劇;頑皮,淘氣"
   },
   {
     "word": "freak",
@@ -45497,7 +45497,7 @@
   {
     "word": "sigil",
     "part_of_speech": "n.",
-    "translate": "印記"
+    "translate": "印記;符印"
   },
   {
     "word": "manhood",
@@ -49168,5 +49168,25 @@
     "word": "tactics",
     "part_of_speech": "n.",
     "translate": "戰術;策略"
+  },
+  {
+    "word": "quill",
+    "part_of_speech": "n.",
+    "translate": "鵝毛筆"
+  },
+  {
+    "word": "drudgery",
+    "part_of_speech": "n.",
+    "translate": "苦差事"
+  },
+  {
+    "word": "doomed",
+    "part_of_speech": "adj.",
+    "translate": "命定的"
+  },
+  {
+    "word": "paramour",
+    "part_of_speech": "n.",
+    "translate": "情人"
   }
 ]
