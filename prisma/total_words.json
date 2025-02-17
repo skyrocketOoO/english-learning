@@ -182,7 +182,7 @@
   {
     "word": "speculate",
     "part_of_speech": "v.",
-    "translate": "投機;推斷;推測"
+    "translate": "投機;投機買賣;推斷;推測;沉思;猜測"
   },
   {
     "word": "compact",
@@ -1262,7 +1262,7 @@
   {
     "word": "tact",
     "part_of_speech": "n.",
-    "translate": "得體;機智;老練"
+    "translate": "圓融;得體;技巧;機敏;機智;老練"
   },
   {
     "word": "inland",
@@ -1697,7 +1697,7 @@
   {
     "word": "spectator",
     "part_of_speech": "n.",
-    "translate": "旁觀者;目擊者"
+    "translate": "(尤指體育賽事的)觀眾;旁觀者;目擊者;觀看者"
   },
   {
     "word": "persuade",
@@ -4662,7 +4662,7 @@
   {
     "word": "detach",
     "part_of_speech": "v.",
-    "translate": "分開;拆卸;派遣"
+    "translate": "使分離;分開;拆下;拆卸;派遣"
   },
   {
     "word": "statistical",
@@ -9072,7 +9072,7 @@
   {
     "word": "intact",
     "part_of_speech": "adj.",
-    "translate": "原封不動的;完整無缺的;未受損傷的"
+    "translate": "原封不動的;完好無損的;完整無缺的;未受損傷的"
   },
   {
     "word": "memorial",
@@ -14182,7 +14182,7 @@
   {
     "word": "spectacular",
     "part_of_speech": "adj.",
-    "translate": "壯觀的;壯麗的"
+    "translate": "壯觀的;壯麗的;引人入勝的;雄偉的"
   },
   {
     "word": "curse",
@@ -21102,7 +21102,7 @@
   {
     "word": "attach",
     "part_of_speech": "v.",
-    "translate": "使附屬;裝上,貼上"
+    "translate": "使附屬;裝上,貼上;貼上;連結;附上"
   },
   {
     "word": "wound",
@@ -25382,7 +25382,7 @@
   {
     "word": "aspect",
     "part_of_speech": "n.",
-    "translate": "方面,觀點"
+    "translate": "外貌;方位;方面,觀點;面向"
   },
   {
     "word": "yogurt",
@@ -25552,7 +25552,7 @@
   {
     "word": "contact",
     "part_of_speech": "n.",
-    "translate": "接觸;隱形眼鏡"
+    "translate": "接觸;聯繫;隱形眼鏡"
   },
   {
     "word": "somewhere",
@@ -25652,7 +25652,7 @@
   {
     "word": "spectrum",
     "part_of_speech": "n.",
-    "translate": "光譜;頻譜"
+    "translate": "光譜;範圍;頻譜"
   },
   {
     "word": "popularity",
@@ -26877,7 +26877,7 @@
   {
     "word": "spectacle",
     "part_of_speech": "n.",
-    "translate": "壯觀;奇觀;景象"
+    "translate": "出醜;壯觀;壯觀的景象或場面;奇觀;景象"
   },
   {
     "word": "commercial",
@@ -27732,7 +27732,7 @@
   {
     "word": "inspection",
     "part_of_speech": "n.",
-    "translate": "檢查;檢閱;視察"
+    "translate": "檢查;檢視;檢閱;視察"
   },
   {
     "word": "comfort",
@@ -37932,7 +37932,7 @@
   {
     "word": "suspect",
     "part_of_speech": "v.",
-    "translate": "疑有,察覺"
+    "translate": "懷疑;疑有,察覺"
   },
   {
     "word": "smooth",
@@ -49118,5 +49118,55 @@
     "word": "resound",
     "part_of_speech": "v.",
     "translate": "反響;鳴響"
+  },
+  {
+    "word": "disrespect",
+    "part_of_speech": "n.",
+    "translate": "不敬;失禮"
+  },
+  {
+    "word": "expectancy",
+    "part_of_speech": "n.",
+    "translate": "指望;期待;預期"
+  },
+  {
+    "word": "prospector",
+    "part_of_speech": "n.",
+    "translate": "採礦者;探勘者"
+  },
+  {
+    "word": "retrospective",
+    "part_of_speech": "n.",
+    "translate": "回顧展"
+  },
+  {
+    "word": "retrospective",
+    "part_of_speech": "adj.",
+    "translate": "回顧的"
+  },
+  {
+    "word": "conspicious",
+    "part_of_speech": "adj.",
+    "translate": "醒目的;顯眼的"
+  },
+  {
+    "word": "despicable",
+    "part_of_speech": "adj.",
+    "translate": "卑劣的;卑鄙的"
+  },
+  {
+    "word": "perspicacious",
+    "part_of_speech": "adj.",
+    "translate": "有洞察力的;穎悟的"
+  },
+  {
+    "word": "perspicuous",
+    "part_of_speech": "adj.",
+    "translate": "清晰明白的"
+  },
+  {
+    "word": "tactics",
+    "part_of_speech": "n.",
+    "translate": "戰術;策略"
   }
 ]
