@@ -40692,7 +40692,7 @@
   {
     "word": "auditorium",
     "part_of_speech": "n.",
-    "translate": "會堂;禮堂"
+    "translate": "會堂;禮堂;聽/觀眾席"
   },
   {
     "word": "skilled",
@@ -43452,7 +43452,7 @@
   {
     "word": "chorus",
     "part_of_speech": "n.",
-    "translate": "合唱隊"
+    "translate": "合唱;合唱團;合唱曲;合唱隊"
   },
   {
     "word": "voluntary",
@@ -48673,5 +48673,60 @@
     "word": "flay",
     "part_of_speech": "v.",
     "translate": "剝皮"
+  },
+  {
+    "word": "audible",
+    "part_of_speech": "adj.",
+    "translate": "聽得見的"
+  },
+  {
+    "word": "audiobook",
+    "part_of_speech": "n.",
+    "translate": "有聲書"
+  },
+  {
+    "word": "audiophile",
+    "part_of_speech": "n.",
+    "translate": "愛玩高級音響的人"
+  },
+  {
+    "word": "audit",
+    "part_of_speech": "v.",
+    "translate": "旁聽;查帳;稽核"
+  },
+  {
+    "word": "audit",
+    "part_of_speech": "n.",
+    "translate": "審計;查帳"
+  },
+  {
+    "word": "audition",
+    "part_of_speech": "v.",
+    "translate": "(要求)試演;進行試聽"
+  },
+  {
+    "word": "audition",
+    "part_of_speech": "n.",
+    "translate": "試唱;試演;試聽"
+  },
+  {
+    "word": "auditor",
+    "part_of_speech": "n.",
+    "translate": "審計員;旁聽生;查帳員;稽查員"
+  },
+  {
+    "word": "choral",
+    "part_of_speech": "adj.",
+    "translate": "合唱(曲)的"
+  },
+  {
+    "word": "chorea",
+    "part_of_speech": "n.",
+    "translate": "舞蹈症"
+  },
+  {
+    "word": "choreography",
+    "part_of_speech": "n.",
+    "translate": "編舞(法);舞蹈術"
   }
 ]
