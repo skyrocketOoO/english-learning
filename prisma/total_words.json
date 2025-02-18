@@ -5437,7 +5437,7 @@
   {
     "word": "acquisition",
     "part_of_speech": "n.",
-    "translate": "取得;收購"
+    "translate": "取得;取得(物);收購;獲得(物)"
   },
   {
     "word": "skin",
@@ -6977,7 +6977,7 @@
   {
     "word": "query",
     "part_of_speech": "v.",
-    "translate": "對...表示疑問;詢問"
+    "translate": "對...表示疑問;詢問;質疑"
   },
   {
     "word": "retail",
@@ -7062,7 +7062,7 @@
   {
     "word": "acquire",
     "part_of_speech": "v.",
-    "translate": "取得;獲得"
+    "translate": "取得;學得;染上(疾病等);獲得;養成(習慣等)"
   },
   {
     "word": "download",
@@ -8212,7 +8212,7 @@
   {
     "word": "quest",
     "part_of_speech": "n.",
-    "translate": "探索;追求"
+    "translate": "尋求;探求;探索;追求"
   },
   {
     "word": "host",
@@ -10967,7 +10967,7 @@
   {
     "word": "conscientious",
     "part_of_speech": "adj.",
-    "translate": "憑良心的;認真的;誠實的"
+    "translate": "憑良心的;有良心的;認真的;認真盡責的;誠實的"
   },
   {
     "word": "Antarctic",
@@ -15352,7 +15352,7 @@
   {
     "word": "inquire",
     "part_of_speech": "v.",
-    "translate": "查問;訊問;調查"
+    "translate": "打聽;查問;訊問;詢問;調查"
   },
   {
     "word": "patriotic",
@@ -19172,12 +19172,12 @@
   {
     "word": "inquiry",
     "part_of_speech": "n.",
-    "translate": "詢問,打聽;質詢"
+    "translate": "打聽;探詢;詢問;詢問,打聽;質詢"
   },
   {
     "word": "questionnaire",
     "part_of_speech": "n.",
-    "translate": "問卷;意見調查表"
+    "translate": "問卷;問卷調查(表);意見調查表"
   },
   {
     "word": "nutrition",
@@ -20727,7 +20727,7 @@
   {
     "word": "conscience",
     "part_of_speech": "n.",
-    "translate": "良心;道義心"
+    "translate": "自覺;良心;道義心"
   },
   {
     "word": "dictionary",
@@ -37762,7 +37762,7 @@
   {
     "word": "query",
     "part_of_speech": "n.",
-    "translate": "詢問;質問"
+    "translate": "問題;疑問;詢問;質問"
   },
   {
     "word": "historic",
@@ -49518,5 +49518,170 @@
     "word": "philosophize",
     "part_of_speech": "v.",
     "translate": "用哲理推究;膚淺地講大道理"
+  },
+  {
+    "word": "bibliophile",
+    "part_of_speech": "n.",
+    "translate": "愛書者;書籍收藏家"
+  },
+  {
+    "word": "pedophilia",
+    "part_of_speech": "n.",
+    "translate": "戀童癖"
+  },
+  {
+    "word": "xenophile",
+    "part_of_speech": "n.",
+    "translate": "喜歡外國人或外國事務者"
+  },
+  {
+    "word": "phobia",
+    "part_of_speech": "n.",
+    "translate": "恐懼症"
+  },
+  {
+    "word": "acrophobic",
+    "part_of_speech": "adj.",
+    "translate": "有懼高症的"
+  },
+  {
+    "word": "agoraphobia",
+    "part_of_speech": "n.",
+    "translate": "廣場恐懼症"
+  },
+  {
+    "word": "algophobic",
+    "part_of_speech": "adj.",
+    "translate": "懼怕疼痛的"
+  },
+  {
+    "word": "claustrophobia",
+    "part_of_speech": "n.",
+    "translate": "幽閉恐懼症"
+  },
+  {
+    "word": "nomophobia",
+    "part_of_speech": "n.",
+    "translate": "無手機恐慌症"
+  },
+  {
+    "word": "photophobia",
+    "part_of_speech": "n.",
+    "translate": "畏光症"
+  },
+  {
+    "word": "technophobe",
+    "part_of_speech": "n.",
+    "translate": "有科技恐懼症者"
+  },
+  {
+    "word": "xenophobe",
+    "part_of_speech": "n.",
+    "translate": "畏懼或仇視外國(人)者"
+  },
+  {
+    "word": "psyche",
+    "part_of_speech": "n.",
+    "translate": "心靈;精神"
+  },
+  {
+    "word": "psychedelic",
+    "part_of_speech": "n.",
+    "translate": "迷幻藥"
+  },
+  {
+    "word": "psychedelic",
+    "part_of_speech": "adj.",
+    "translate": "引起幻覺的"
+  },
+  {
+    "word": "psychiatry",
+    "part_of_speech": "n.",
+    "translate": "精神病學;精神病治療"
+  },
+  {
+    "word": "psychic",
+    "part_of_speech": "n.",
+    "translate": "靈媒"
+  },
+  {
+    "word": "psychic",
+    "part_of_speech": "adj.",
+    "translate": "精神的;靈魂的"
+  },
+  {
+    "word": "psychogenic",
+    "part_of_speech": "adj.",
+    "translate": "心理所引起的"
+  },
+  {
+    "word": "psychologize",
+    "part_of_speech": "v.",
+    "translate": "做心理學上的說明、推論、研究"
+  },
+  {
+    "word": "psychopath",
+    "part_of_speech": "n.",
+    "translate": "精神病患者"
+  },
+  {
+    "word": "psychosis",
+    "part_of_speech": "n.",
+    "translate": "精神病;精神錯亂"
+  },
+  {
+    "word": "quest",
+    "part_of_speech": "v.",
+    "translate": "尋找;追求"
+  },
+  {
+    "word": "questionable",
+    "part_of_speech": "adj.",
+    "translate": "不可靠的;可疑的"
+  },
+  {
+    "word": "prequisite",
+    "part_of_speech": "n.",
+    "translate": "臨時津貼;額外補貼"
+  },
+  {
+    "word": "prerequisite",
+    "part_of_speech": "n.",
+    "translate": "先決條件"
+  },
+  {
+    "word": "prerequisite",
+    "part_of_speech": "adj.",
+    "translate": "事先需要的"
+  },
+  {
+    "word": "Scientology",
+    "part_of_speech": "n.",
+    "translate": "科學神教"
+  },
+  {
+    "word": "consciousness",
+    "part_of_speech": "n.",
+    "translate": "意識;知覺"
+  },
+  {
+    "word": "nescient",
+    "part_of_speech": "adj.",
+    "translate": "不可知的;無知的"
+  },
+  {
+    "word": "prescience",
+    "part_of_speech": "n.",
+    "translate": "先見;預知"
+  },
+  {
+    "word": "pseudoscience",
+    "part_of_speech": "n.",
+    "translate": "假科學;偽科學"
+  },
+  {
+    "word": "subconscious",
+    "part_of_speech": "adj.",
+    "translate": "下意識的;潛意識的"
   }
 ]
