@@ -1402,7 +1402,7 @@
   {
     "word": "memorial",
     "part_of_speech": "n.",
-    "translate": "紀念碑"
+    "translate": "紀念物;紀念碑"
   },
   {
     "word": "sophisticated",
@@ -9077,7 +9077,7 @@
   {
     "word": "memorial",
     "part_of_speech": "adj.",
-    "translate": "記憶的;追悼的"
+    "translate": "紀念的;記憶的;追悼的"
   },
   {
     "word": "endurance",
@@ -25062,7 +25062,7 @@
   {
     "word": "mentality",
     "part_of_speech": "n.",
-    "translate": "心理狀態;智力;精神性"
+    "translate": "心態;心智;心理狀態;思維方式;智力;精神性"
   },
   {
     "word": "ideal",
@@ -36042,7 +36042,7 @@
   {
     "word": "reminder",
     "part_of_speech": "n.",
-    "translate": "催函;提醒者,提醒物"
+    "translate": "催函;提醒者,提醒物;提醒記憶之物"
   },
   {
     "word": "pirate",
@@ -39287,7 +39287,7 @@
   {
     "word": "ignorance",
     "part_of_speech": "n.",
-    "translate": "愚昧;無知,不學無術"
+    "translate": "愚昧;無知;無知,不學無術"
   },
   {
     "word": "triple",
@@ -49383,5 +49383,140 @@
     "word": "ignoramus",
     "part_of_speech": "n.",
     "translate": "不學無術之人;笨蛋;蠢人"
+  },
+  {
+    "word": "cognitive",
+    "part_of_speech": "adj.",
+    "translate": "認知的"
+  },
+  {
+    "word": "incognito",
+    "part_of_speech": "adj.",
+    "translate": "微行的;隱姓埋名的"
+  },
+  {
+    "word": "incognito",
+    "part_of_speech": "adv.",
+    "translate": "微行地;隱姓埋名地"
+  },
+  {
+    "word": "mania",
+    "part_of_speech": "n.",
+    "translate": "狂熱;狂躁"
+  },
+  {
+    "word": "maniac",
+    "part_of_speech": "n.",
+    "translate": "狂人;瘋子"
+  },
+  {
+    "word": "maniac",
+    "part_of_speech": "adj.",
+    "translate": "瘋狂的;發狂的"
+  },
+  {
+    "word": "dipsomania",
+    "part_of_speech": "n.",
+    "translate": "嗜酒狂"
+  },
+  {
+    "word": "egomaniac",
+    "part_of_speech": "n.",
+    "translate": "極端利己主義者;自大狂"
+  },
+  {
+    "word": "erotomania",
+    "part_of_speech": "n.",
+    "translate": "色情狂"
+  },
+  {
+    "word": "kleptomania",
+    "part_of_speech": "n.",
+    "translate": "竊盜癖"
+  },
+  {
+    "word": "pyromaniac",
+    "part_of_speech": "n.",
+    "translate": "縱火狂症患者"
+  },
+  {
+    "word": "memento",
+    "part_of_speech": "n.",
+    "translate": "令人回憶的東西;紀念物"
+  },
+  {
+    "word": "memorandum",
+    "part_of_speech": "n.",
+    "translate": "便條;備忘錄"
+  },
+  {
+    "word": "memoire",
+    "part_of_speech": "n.",
+    "translate": "傳記;回憶錄"
+  },
+  {
+    "word": "immemorial",
+    "part_of_speech": "adj.",
+    "translate": "古老得不能記憶的;極古老的"
+  },
+  {
+    "word": "amnesty",
+    "part_of_speech": "n.",
+    "translate": "大赦;特赦"
+  },
+  {
+    "word": "mnemonic",
+    "part_of_speech": "adj.",
+    "translate": "記憶(術)的"
+  },
+  {
+    "word": "reminisce",
+    "part_of_speech": "v.",
+    "translate": "追憶"
+  },
+  {
+    "word": "mentally",
+    "part_of_speech": "adv.",
+    "translate": "心智上;心理上;精神上"
+  },
+  {
+    "word": "demented",
+    "part_of_speech": "adj.",
+    "translate": "發瘋的;精神錯亂的"
+  },
+  {
+    "word": "feebleminded",
+    "part_of_speech": "adj.",
+    "translate": "低能的;弱智的"
+  },
+  {
+    "word": "philander",
+    "part_of_speech": "v.",
+    "translate": "玩弄女性;與女人調情"
+  },
+  {
+    "word": "philanthropist",
+    "part_of_speech": "n.",
+    "translate": "博愛的人;慈善家"
+  },
+  {
+    "word": "philately",
+    "part_of_speech": "n.",
+    "translate": "集郵"
+  },
+  {
+    "word": "philharmonic",
+    "part_of_speech": "n.",
+    "translate": "愛樂團體"
+  },
+  {
+    "word": "philharmonic",
+    "part_of_speech": "adj.",
+    "translate": "愛好音樂的"
+  },
+  {
+    "word": "philosophize",
+    "part_of_speech": "v.",
+    "translate": "用哲理推究;膚淺地講大道理"
   }
 ]
