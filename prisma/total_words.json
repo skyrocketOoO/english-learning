@@ -307,7 +307,7 @@
   {
     "word": "vocational",
     "part_of_speech": "adj.",
-    "translate": "職業的"
+    "translate": "為職業做準備的;職業的"
   },
   {
     "word": "disregard",
@@ -1727,7 +1727,7 @@
   {
     "word": "vocal",
     "part_of_speech": "adj.",
-    "translate": "用言語表達的;聲音的"
+    "translate": "用言語表達的;發音的;聲音的"
   },
   {
     "word": "notable",
@@ -3857,7 +3857,7 @@
   {
     "word": "provoke",
     "part_of_speech": "v.",
-    "translate": "對...挑釁;挑釁;激怒;煽動"
+    "translate": "對...挑釁;挑釁;激怒;激起;煽動"
   },
   {
     "word": "low",
@@ -10082,7 +10082,7 @@
   {
     "word": "vocal",
     "part_of_speech": "n.",
-    "translate": "母音;濁音;聲樂作品"
+    "translate": "(歌曲中的)演唱部分;母音;濁音;聲樂作品"
   },
   {
     "word": "gown",
@@ -10867,7 +10867,7 @@
   {
     "word": "evident",
     "part_of_speech": "adj.",
-    "translate": "明白的;明顯的"
+    "translate": "明白的;明顯的;有目共睹的"
   },
   {
     "word": "deed",
@@ -14552,7 +14552,7 @@
   {
     "word": "visual",
     "part_of_speech": "adj.",
-    "translate": "光學的;視力的"
+    "translate": "光學的;幻覺的;視力的"
   },
   {
     "word": "mike",
@@ -21887,7 +21887,7 @@
   {
     "word": "supervisor",
     "part_of_speech": "n.",
-    "translate": "指導者;管理人"
+    "translate": "指導者;監督者;管理人;管理者"
   },
   {
     "word": "wing",
@@ -26202,7 +26202,7 @@
   {
     "word": "videotape",
     "part_of_speech": "v.",
-    "translate": "將(節目)錄到帶子上"
+    "translate": "將(節目)錄到帶子上;錄在錄影帶上"
   },
   {
     "word": "disaster",
@@ -28762,7 +28762,7 @@
   {
     "word": "vocation",
     "part_of_speech": "n.",
-    "translate": "天職;行業"
+    "translate": "天職;工作;志業;職業;行業"
   },
   {
     "word": "critical",
@@ -30477,7 +30477,7 @@
   {
     "word": "evidence",
     "part_of_speech": "n.",
-    "translate": " 物證; 證人; 證據;證詞"
+    "translate": " 物證; 證人; 證據;證據;證詞;跡象"
   },
   {
     "word": "deserve",
@@ -30832,7 +30832,7 @@
   {
     "word": "revision",
     "part_of_speech": "n.",
-    "translate": "修正;修訂;校訂"
+    "translate": "修正;修正(版);修訂;校訂;校訂(本)"
   },
   {
     "word": "comb",
@@ -42632,7 +42632,7 @@
   {
     "word": "vision",
     "part_of_speech": "n.",
-    "translate": "洞察力;視力;視覺"
+    "translate": "幻像;洞察力;視力;視覺;遠見"
   },
   {
     "word": "in",
@@ -49188,5 +49188,160 @@
     "word": "paramour",
     "part_of_speech": "n.",
     "translate": "情人"
+  },
+  {
+    "word": "tangible",
+    "part_of_speech": "adj.",
+    "translate": "可觸知的;實體的"
+  },
+  {
+    "word": "contagion",
+    "part_of_speech": "n.",
+    "translate": "傳染病;接觸傳染;蔓延"
+  },
+  {
+    "word": "contingent",
+    "part_of_speech": "adj.",
+    "translate": "偶發的;視情況而變的"
+  },
+  {
+    "word": "contingent",
+    "part_of_speech": "n.",
+    "translate": "代表團;分遣隊"
+  },
+  {
+    "word": "contiguous",
+    "part_of_speech": "adj.",
+    "translate": "接觸著的;鄰近的"
+  },
+  {
+    "word": "videoconference",
+    "part_of_speech": "n.",
+    "translate": "視訊會議"
+  },
+  {
+    "word": "provident",
+    "part_of_speech": "adj.",
+    "translate": "有先見之的;有遠慮的"
+  },
+  {
+    "word": "visibility",
+    "part_of_speech": "n.",
+    "translate": "可見度;能見度"
+  },
+  {
+    "word": "audiovisual",
+    "part_of_speech": "adj.",
+    "translate": "視聽(教學)的"
+  },
+  {
+    "word": "envision",
+    "part_of_speech": "v.",
+    "translate": "想像(未來的事);擬思"
+  },
+  {
+    "word": "invisible",
+    "part_of_speech": "adj.",
+    "translate": "眼睛看不見的;隱形的"
+  },
+  {
+    "word": "improvise",
+    "part_of_speech": "v.",
+    "translate": "即席而作;臨時湊成"
+  },
+  {
+    "word": "vocalist",
+    "part_of_speech": "n.",
+    "translate": "(樂團的)主唱"
+  },
+  {
+    "word": "advocacy",
+    "part_of_speech": "n.",
+    "translate": "主張;提倡;鼓吹"
+  },
+  {
+    "word": "equivocate",
+    "part_of_speech": "v.",
+    "translate": "含糊其詞;說模稜兩可的話"
+  },
+  {
+    "word": "irrevocable",
+    "part_of_speech": "adj.",
+    "translate": "不可取消的;不能變更的"
+  },
+  {
+    "word": "provocative",
+    "part_of_speech": "adj.",
+    "translate": "挑逗的;挑釁的"
+  },
+  {
+    "word": "invoke",
+    "part_of_speech": "v.",
+    "translate": "以法術咒語召喚(鬼怪等);祈求(神助、屁護等);訴諸(法律等)"
+  },
+  {
+    "word": "revoke",
+    "part_of_speech": "v.",
+    "translate": "取消;廢除;撤銷"
+  },
+  {
+    "word": "voiced",
+    "part_of_speech": "adj.",
+    "translate": "有聲的;濁音的"
+  },
+  {
+    "word": "voiceless",
+    "part_of_speech": "adj.",
+    "translate": "清音的;無聲的"
+  },
+  {
+    "word": "credo",
+    "part_of_speech": "n.",
+    "translate": "信條"
+  },
+  {
+    "word": "credential",
+    "part_of_speech": "n.",
+    "translate": "(大使、公使等的)國書;憑證;證件"
+  },
+  {
+    "word": "creditor",
+    "part_of_speech": "n.",
+    "translate": "債主;債權人"
+  },
+  {
+    "word": "credulous",
+    "part_of_speech": "adj.",
+    "translate": "易受騙的;輕信的"
+  },
+  {
+    "word": "discredit",
+    "part_of_speech": "v.",
+    "translate": "不信任;使不相信;使喪失信譽"
+  },
+  {
+    "word": "discredit",
+    "part_of_speech": "n.",
+    "translate": "不名譽;恥辱"
+  },
+  {
+    "word": "incredible",
+    "part_of_speech": "adj.",
+    "translate": "令人難以置信的"
+  },
+  {
+    "word": "incredulous",
+    "part_of_speech": "adj.",
+    "translate": "不輕信的;懷疑的"
+  },
+  {
+    "word": "docent",
+    "part_of_speech": "n.",
+    "translate": "(博物館等的)導遊;講師;講解者"
+  },
+  {
+    "word": "docile",
+    "part_of_speech": "adj.",
+    "translate": "易控制的;溫順的;聽話的"
   }
 ]
