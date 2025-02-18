@@ -672,7 +672,7 @@
   {
     "word": "documentary",
     "part_of_speech": "n.",
-    "translate": "記錄影片"
+    "translate": "紀錄片;記錄影片"
   },
   {
     "word": "cello",
@@ -4512,7 +4512,7 @@
   {
     "word": "documentary",
     "part_of_speech": "adj.",
-    "translate": "(電影、電視等)記錄的;文件的"
+    "translate": "(電影、電視等)記錄的;文件的;紀錄性的"
   },
   {
     "word": "December",
@@ -8767,7 +8767,7 @@
   {
     "word": "doctrine",
     "part_of_speech": "n.",
-    "translate": "信條;教義"
+    "translate": "信條;學說;教條;教義"
   },
   {
     "word": "alternate",
@@ -11517,7 +11517,7 @@
   {
     "word": "document",
     "part_of_speech": "v.",
-    "translate": "用文件證明"
+    "translate": "用文件或影片紀錄;用文件證明"
   },
   {
     "word": "armor",
@@ -49343,5 +49343,45 @@
     "word": "docile",
     "part_of_speech": "adj.",
     "translate": "易控制的;溫順的;聽話的"
+  },
+  {
+    "word": "indoctrinate",
+    "part_of_speech": "v.",
+    "translate": "灌輸(思想、信仰)"
+  },
+  {
+    "word": "dogma",
+    "part_of_speech": "n.",
+    "translate": "信條;教條"
+  },
+  {
+    "word": "dogmatic",
+    "part_of_speech": "adj.",
+    "translate": "教條的;武斷的"
+  },
+  {
+    "word": "heterodox",
+    "part_of_speech": "adj.",
+    "translate": "異端的;非正統的"
+  },
+  {
+    "word": "orthodox",
+    "part_of_speech": "adj.",
+    "translate": "正統的;規範的"
+  },
+  {
+    "word": "agnostic",
+    "part_of_speech": "n.",
+    "translate": "不可知論者"
+  },
+  {
+    "word": "agnostic",
+    "part_of_speech": "adj.",
+    "translate": "不可知論者的"
+  },
+  {
+    "word": "ignoramus",
+    "part_of_speech": "n.",
+    "translate": "不學無術之人;笨蛋;蠢人"
   }
 ]
