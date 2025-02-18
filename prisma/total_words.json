@@ -22137,7 +22137,7 @@
   {
     "word": "airtight",
     "part_of_speech": "adj.",
-    "translate": "密閉的;無懈可擊的"
+    "translate": "不透氣的;密閉的;氣密的;無懈可擊的"
   },
   {
     "word": "flower",
@@ -31387,7 +31387,7 @@
   {
     "word": "aircraft",
     "part_of_speech": "n.",
-    "translate": "航空器;飛機"
+    "translate": "航空器;飛機;飛行器"
   },
   {
     "word": "colony",
@@ -49683,5 +49683,45 @@
     "word": "subconscious",
     "part_of_speech": "adj.",
     "translate": "下意識的;潛意識的"
+  },
+  {
+    "word": "aerial",
+    "part_of_speech": "n.",
+    "translate": "天線"
+  },
+  {
+    "word": "aerial",
+    "part_of_speech": "adj.",
+    "translate": "空中的;空氣的"
+  },
+  {
+    "word": "aerobic",
+    "part_of_speech": "adj.",
+    "translate": "有氧的;需氧的"
+  },
+  {
+    "word": "aerodynamics",
+    "part_of_speech": "n.",
+    "translate": "空氣動力學"
+  },
+  {
+    "word": "aeronautics",
+    "part_of_speech": "n.",
+    "translate": "航空學;飛行術"
+  },
+  {
+    "word": "airbag",
+    "part_of_speech": "n.",
+    "translate": "氣囊"
+  },
+  {
+    "word": "airship",
+    "part_of_speech": "n.",
+    "translate": "飛船"
+  },
+  {
+    "word": "animadvert",
+    "part_of_speech": "n.",
+    "translate": "批評;責難"
   }
 ]
