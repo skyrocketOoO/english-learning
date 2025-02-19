@@ -4987,7 +4987,7 @@
   {
     "word": "grill",
     "part_of_speech": "v.",
-    "translate": "(用烤架)烤(魚、肉等);拷問"
+    "translate": "(用烤架)烤(魚、肉等);拷問;炙烤"
   },
   {
     "word": "filter",
@@ -40517,7 +40517,7 @@
   {
     "word": "pledge",
     "part_of_speech": "v.",
-    "translate": "保證給予;發誓;許諾"
+    "translate": "保證給予;宣示;承諾;發誓;許諾"
   },
   {
     "word": "candidate",
@@ -49723,5 +49723,10 @@
     "word": "animadvert",
     "part_of_speech": "n.",
     "translate": "批評;責難"
+  },
+  {
+    "word": "infidel",
+    "part_of_speech": "n.",
+    "translate": "異教徒"
   }
 ]
