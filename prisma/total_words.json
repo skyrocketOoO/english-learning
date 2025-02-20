@@ -4182,7 +4182,7 @@
   {
     "word": "illuminate",
     "part_of_speech": "v.",
-    "translate": "啟發;照亮;用燈裝飾;闡明"
+    "translate": "啓發;啟發;照亮;用燈裝飾;闡明"
   },
   {
     "word": "madam",
@@ -5227,7 +5227,7 @@
   {
     "word": "photographic",
     "part_of_speech": "adj.",
-    "translate": "攝影(術)的;攝影用的"
+    "translate": "(如照相般)極精確的;攝影(術)的;攝影用的;攝影的;照相的"
   },
   {
     "word": "thrill",
@@ -21867,7 +21867,7 @@
   {
     "word": "mortal",
     "part_of_speech": "adj.",
-    "translate": " 凡人的; 會死的; 極度的;致命的"
+    "translate": " 凡人的; 會死的; 極度的;會死的;致命的"
   },
   {
     "word": "saleswoman",
@@ -41352,7 +41352,7 @@
   {
     "word": "pregnant",
     "part_of_speech": "adj.",
-    "translate": "懷孕的"
+    "translate": "意味深長的;懷孕的"
   },
   {
     "word": "whole",
@@ -41522,7 +41522,7 @@
   {
     "word": "illustrate",
     "part_of_speech": "v.",
-    "translate": "(用圖,實例等)說明"
+    "translate": "(用圖,實例等)說明;(用圖、實例等)說明;插畫於(書籍等)"
   },
   {
     "word": "straw",
@@ -49963,5 +49963,135 @@
     "word": "luminous",
     "part_of_speech": "adj.",
     "translate": "有見識的;清楚的;發光的"
+  },
+  {
+    "word": "lustrous",
+    "part_of_speech": "adj.",
+    "translate": "光輝的;有光澤的"
+  },
+  {
+    "word": "mortality",
+    "part_of_speech": "n.",
+    "translate": "死亡率;致命性"
+  },
+  {
+    "word": "mortgage",
+    "part_of_speech": "n.",
+    "translate": "抵押(借貸)"
+  },
+  {
+    "word": "mortgage",
+    "part_of_speech": "v.",
+    "translate": "抵押"
+  },
+  {
+    "word": "mortician",
+    "part_of_speech": "n.",
+    "translate": "殯葬業者"
+  },
+  {
+    "word": "mortify",
+    "part_of_speech": "v.",
+    "translate": "使感屈辱;使羞愧;克制(情慾等)"
+  },
+  {
+    "word": "mortuary",
+    "part_of_speech": "n.",
+    "translate": "(喪葬前的)停屍間"
+  },
+  {
+    "word": "amortize",
+    "part_of_speech": "v.",
+    "translate": "分期償還;攤還"
+  },
+  {
+    "word": "immortal",
+    "part_of_speech": "adj.",
+    "translate": "不朽的;不死的"
+  },
+  {
+    "word": "morgue",
+    "part_of_speech": "n.",
+    "translate": "停屍間;太平間"
+  },
+  {
+    "word": "morbid",
+    "part_of_speech": "adj.",
+    "translate": "不健全的;病態的"
+  },
+  {
+    "word": "moribund",
+    "part_of_speech": "adj.",
+    "translate": "垂死的"
+  },
+  {
+    "word": "nativity",
+    "part_of_speech": "n.",
+    "translate": "出生;出生時的星位"
+  },
+  {
+    "word": "naturalize",
+    "part_of_speech": "v.",
+    "translate": "(使)歸化;自然化"
+  },
+  {
+    "word": "cognate",
+    "part_of_speech": "n.",
+    "translate": "同源物"
+  },
+  {
+    "word": "cognate",
+    "part_of_speech": "adj.",
+    "translate": "同源的"
+  },
+  {
+    "word": "innate",
+    "part_of_speech": "adj.",
+    "translate": "固有的;與生俱來的"
+  },
+  {
+    "word": "supernatural",
+    "part_of_speech": "adj.",
+    "translate": "超自然的"
+  },
+  {
+    "word": "nascence",
+    "part_of_speech": "n.",
+    "translate": "開始發生或發展"
+  },
+  {
+    "word": "renascent",
+    "part_of_speech": "adj.",
+    "translate": "再生的;復活的;復興的"
+  },
+  {
+    "word": "photocopy",
+    "part_of_speech": "n.",
+    "translate": "影印本;複印本"
+  },
+  {
+    "word": "photocopy",
+    "part_of_speech": "v.",
+    "translate": "影印;複印"
+  },
+  {
+    "word": "photogenic",
+    "part_of_speech": "adj.",
+    "translate": "上鏡頭的"
+  },
+  {
+    "word": "photon",
+    "part_of_speech": "n.",
+    "translate": "光子"
+  },
+  {
+    "word": "photosynthesis",
+    "part_of_speech": "n.",
+    "translate": "光合作用"
+  },
+  {
+    "word": "phototropism",
+    "part_of_speech": "n.",
+    "translate": "向光性;趨光性"
   }
 ]
