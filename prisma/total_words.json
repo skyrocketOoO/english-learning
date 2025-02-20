@@ -9412,7 +9412,7 @@
   {
     "word": "agricultural",
     "part_of_speech": "adj.",
-    "translate": "農業的"
+    "translate": "耕作的;農業的"
   },
   {
     "word": "nail",
@@ -16657,7 +16657,7 @@
   {
     "word": "chronic",
     "part_of_speech": "adj.",
-    "translate": "(人)久病的;(病)慢性的;長期的"
+    "translate": "(人)久病的;(病)慢性的;慢性的;習慣性的;長期的"
   },
   {
     "word": "narrate",
@@ -20077,7 +20077,7 @@
   {
     "word": "cultivate",
     "part_of_speech": "v.",
-    "translate": "培育;栽培(作物等);養殖(魚等)"
+    "translate": "培育;教化;栽培;栽培(作物等);耕種;養成;養殖(魚等)"
   },
   {
     "word": "monopoly",
@@ -49808,5 +49808,55 @@
     "word": "biosphere",
     "part_of_speech": "n.",
     "translate": "生物圈"
+  },
+  {
+    "word": "symbiosis",
+    "part_of_speech": "n.",
+    "translate": "互依、互利關係;共生"
+  },
+  {
+    "word": "chronology",
+    "part_of_speech": "n.",
+    "translate": "依時間前後順序排列;年代學;年表"
+  },
+  {
+    "word": "anachronism",
+    "part_of_speech": "n.",
+    "translate": "時代錯誤"
+  },
+  {
+    "word": "synchronous",
+    "part_of_speech": "adj.",
+    "translate": "同時的;同步的"
+  },
+  {
+    "word": "cult",
+    "part_of_speech": "n.",
+    "translate": "教派;狂熱崇拜;膜拜(儀式)"
+  },
+  {
+    "word": "cultured",
+    "part_of_speech": "adj.",
+    "translate": "人工養殖的;有教養的;有知識的"
+  },
+  {
+    "word": "apiculture",
+    "part_of_speech": "n.",
+    "translate": "養蜂(業)"
+  },
+  {
+    "word": "floriculturist",
+    "part_of_speech": "n.",
+    "translate": "花匠;花卉栽培家"
+  },
+  {
+    "word": "horticulturist",
+    "part_of_speech": "n.",
+    "translate": "園藝家"
+  },
+  {
+    "word": "pisciculturist",
+    "part_of_speech": "n.",
+    "translate": "養魚家"
   }
 ]
