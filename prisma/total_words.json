@@ -3267,7 +3267,7 @@
   {
     "word": "economy",
     "part_of_speech": "n.",
-    "translate": "節約,節省"
+    "translate": "節省;節約;節約,節省;經濟情況;經濟體制"
   },
   {
     "word": "mouthpiece",
@@ -4182,7 +4182,7 @@
   {
     "word": "illuminate",
     "part_of_speech": "v.",
-    "translate": "啟發;照亮;用燈裝飾"
+    "translate": "啟發;照亮;用燈裝飾;闡明"
   },
   {
     "word": "madam",
@@ -10507,7 +10507,7 @@
   {
     "word": "ingenious",
     "part_of_speech": "adj.",
-    "translate": "心靈手巧的;足智多謀的"
+    "translate": "巧妙的;心靈手巧的;有獨創性的;足智多謀的"
   },
   {
     "word": "out",
@@ -15072,7 +15072,7 @@
   {
     "word": "gene",
     "part_of_speech": "n.",
-    "translate": "基因,遺傳因子"
+    "translate": "基因;基因,遺傳因子"
   },
   {
     "word": "pace",
@@ -27952,7 +27952,7 @@
   {
     "word": "genuine",
     "part_of_speech": "adj.",
-    "translate": "真的;非偽造的"
+    "translate": "真正的;真的;真誠的;純正的;非偽造的"
   },
   {
     "word": "serene",
@@ -30442,7 +30442,7 @@
   {
     "word": "carbohydrate",
     "part_of_speech": "n.",
-    "translate": "含醣食物;碳水化合物"
+    "translate": "含醣食物;碳水化合物;醣"
   },
   {
     "word": "hormone",
@@ -37532,7 +37532,7 @@
   {
     "word": "generosity",
     "part_of_speech": "n.",
-    "translate": "寬宏大量;慷慨"
+    "translate": "大方;寬宏大量;慷慨"
   },
   {
     "word": "ordinary",
@@ -39257,7 +39257,7 @@
   {
     "word": "ingenuity",
     "part_of_speech": "n.",
-    "translate": "心靈手巧;獨創性;足智多謀"
+    "translate": "心靈手巧;獨創性;發明才能;精巧;足智多謀;靈敏"
   },
   {
     "word": "hour",
@@ -49858,5 +49858,110 @@
     "word": "pisciculturist",
     "part_of_speech": "n.",
     "translate": "養魚家"
+  },
+  {
+    "word": "economize",
+    "part_of_speech": "v.",
+    "translate": "有益地利用;節約"
+  },
+  {
+    "word": "ecosystem",
+    "part_of_speech": "n.",
+    "translate": "生態系統"
+  },
+  {
+    "word": "ecotourism",
+    "part_of_speech": "n.",
+    "translate": "生態旅遊"
+  },
+  {
+    "word": "genealogy",
+    "part_of_speech": "n.",
+    "translate": "宗譜(圖/學);家系;血統"
+  },
+  {
+    "word": "genesis",
+    "part_of_speech": "n.",
+    "translate": "創世紀;創始;起源"
+  },
+  {
+    "word": "genetically",
+    "part_of_speech": "adv.",
+    "translate": "在基因方面;從遺傳學角度"
+  },
+  {
+    "word": "hydrant",
+    "part_of_speech": "n.",
+    "translate": "消防栓;給水栓"
+  },
+  {
+    "word": "hydraulic",
+    "part_of_speech": "adj.",
+    "translate": "水力學的;水力的;液壓的"
+  },
+  {
+    "word": "hydrophobia",
+    "part_of_speech": "n.",
+    "translate": "恐水症;狂犬病"
+  },
+  {
+    "word": "hydroplane",
+    "part_of_speech": "n.",
+    "translate": "水上飛機"
+  },
+  {
+    "word": "hydropsy",
+    "part_of_speech": "n.",
+    "translate": "水腫"
+  },
+  {
+    "word": "hydrosphere",
+    "part_of_speech": "n.",
+    "translate": "水圈"
+  },
+  {
+    "word": "hydrotherapy",
+    "part_of_speech": "n.",
+    "translate": "水療法"
+  },
+  {
+    "word": "dehydrate",
+    "part_of_speech": "v.",
+    "translate": "(使)脫水"
+  },
+  {
+    "word": "lucid",
+    "part_of_speech": "adj.",
+    "translate": "明晰的;清楚易懂的;清澈的"
+  },
+  {
+    "word": "lucubrate",
+    "part_of_speech": "v.",
+    "translate": "(挑燈)苦讀;詳細論述"
+  },
+  {
+    "word": "elucidate",
+    "part_of_speech": "v.",
+    "translate": "說明;闡釋"
+  },
+  {
+    "word": "translucense",
+    "part_of_speech": "n.",
+    "translate": "半透明"
+  },
+  {
+    "word": "lumen",
+    "part_of_speech": "n.",
+    "translate": "流明(光速的能量單位)"
+  },
+  {
+    "word": "luminary",
+    "part_of_speech": "n.",
+    "translate": "傑出人物;發光體"
+  },
+  {
+    "word": "luminous",
+    "part_of_speech": "adj.",
+    "translate": "有見識的;清楚的;發光的"
   }
 ]
