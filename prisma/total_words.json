@@ -5847,7 +5847,7 @@
   {
     "word": "accord",
     "part_of_speech": "v.",
-    "translate": "(與...)一致;調解"
+    "translate": "(與...)一致;使一致;給予;調解"
   },
   {
     "word": "film",
@@ -12932,7 +12932,7 @@
   {
     "word": "accordance",
     "part_of_speech": "n.",
-    "translate": "一致;和諧;符合"
+    "translate": "一致;和諧;符合;調和"
   },
   {
     "word": "initiative",
@@ -14477,7 +14477,7 @@
   {
     "word": "carnival",
     "part_of_speech": "n.",
-    "translate": "嘉年華會;狂歡節"
+    "translate": "嘉年華會;流動遊藝團;狂歡節"
   },
   {
     "word": "cassette",
@@ -15642,7 +15642,7 @@
   {
     "word": "accord",
     "part_of_speech": "n.",
-    "translate": "一致;符合"
+    "translate": "一致;協定;意向;符合"
   },
   {
     "word": "tax",
@@ -15727,7 +15727,7 @@
   {
     "word": "cordial",
     "part_of_speech": "adj.",
-    "translate": "熱忱的;衷心的"
+    "translate": "熱忱的;熱誠的;衷心的;誠摯的"
   },
   {
     "word": "unity",
@@ -25492,7 +25492,7 @@
   {
     "word": "corporate",
     "part_of_speech": "adj.",
-    "translate": "共同的;團體的;法人(組織)的"
+    "translate": "全體的;公民的;共同的;團體的;法人(組織)的"
   },
   {
     "word": "realistic",
@@ -27367,7 +27367,7 @@
   {
     "word": "corps",
     "part_of_speech": "n.",
-    "translate": "兵團;團;部隊"
+    "translate": "(從事特定工作的)團體;兵團;團;特種部隊;軍團;部隊"
   },
   {
     "word": "score",
@@ -32192,7 +32192,7 @@
   {
     "word": "carnation",
     "part_of_speech": "n.",
-    "translate": "康乃馨;淡紅色"
+    "translate": "康乃馨;淡紅色;肉色"
   },
   {
     "word": "child",
@@ -50163,5 +50163,220 @@
     "word": "carnage",
     "part_of_speech": "n.",
     "translate": "屠殺;殘殺"
+  },
+  {
+    "word": "carnal",
+    "part_of_speech": "adj.",
+    "translate": "肉慾的;肉體的"
+  },
+  {
+    "word": "carnivore",
+    "part_of_speech": "n.",
+    "translate": "肉食動物;食蟲植物"
+  },
+  {
+    "word": "incarnate",
+    "part_of_speech": "adj.",
+    "translate": "具人形的;具體化的"
+  },
+  {
+    "word": "incarnate",
+    "part_of_speech": "v.",
+    "translate": "使具肉體;具體化"
+  },
+  {
+    "word": "reincarnation",
+    "part_of_speech": "n.",
+    "translate": "再具肉體;輪迴;轉世"
+  },
+  {
+    "word": "cephalic",
+    "part_of_speech": "adj.",
+    "translate": "頭(部)的"
+  },
+  {
+    "word": "encephalitis",
+    "part_of_speech": "n.",
+    "translate": "腦炎"
+  },
+  {
+    "word": "hydrocephalus",
+    "part_of_speech": "n.",
+    "translate": "腦水腫"
+  },
+  {
+    "word": "macrocephalic",
+    "part_of_speech": "adj.",
+    "translate": "大頭的;巨頭的"
+  },
+  {
+    "word": "microcephaly",
+    "part_of_speech": "n.",
+    "translate": "小頭症"
+  },
+  {
+    "word": "concord",
+    "part_of_speech": "n.",
+    "translate": "一致;協調;友好協定;和睦"
+  },
+  {
+    "word": "discord",
+    "part_of_speech": "n.",
+    "translate": "不一致;不調和"
+  },
+  {
+    "word": "encouraging",
+    "part_of_speech": "adj.",
+    "translate": "促進的;激勵的;鼓勵的"
+  },
+  {
+    "word": "discouraged",
+    "part_of_speech": "adj.",
+    "translate": "氣餒的;沮喪的;灰心的"
+  },
+  {
+    "word": "cardiac",
+    "part_of_speech": "adj.",
+    "translate": "心臟(病)的"
+  },
+  {
+    "word": "cardiology",
+    "part_of_speech": "n.",
+    "translate": "心臟學"
+  },
+  {
+    "word": "cardiopulmonary",
+    "part_of_speech": "adj.",
+    "translate": "心肺的"
+  },
+  {
+    "word": "cardiovascular",
+    "part_of_speech": "adj.",
+    "translate": "心臟血管的"
+  },
+  {
+    "word": "electrocardiogram",
+    "part_of_speech": "n.",
+    "translate": "心電圖"
+  },
+  {
+    "word": "corporal",
+    "part_of_speech": "adj.",
+    "translate": "肉體的;身體的"
+  },
+  {
+    "word": "corporeal",
+    "part_of_speech": "adj.",
+    "translate": "有形的;物質的;肉體的"
+  },
+  {
+    "word": "corpuscle",
+    "part_of_speech": "n.",
+    "translate": "微粒子;血球"
+  },
+  {
+    "word": "incorporated",
+    "part_of_speech": "adj.",
+    "translate": "(公司)股份有限的"
+  },
+  {
+    "word": "derma",
+    "part_of_speech": "n.",
+    "translate": "真皮"
+  },
+  {
+    "word": "dermatology",
+    "part_of_speech": "n.",
+    "translate": "皮膚(病)學"
+  },
+  {
+    "word": "dermatosis",
+    "part_of_speech": "n.",
+    "translate": "皮膚病"
+  },
+  {
+    "word": "pachyderm",
+    "part_of_speech": "n.",
+    "translate": "厚皮動物"
+  },
+  {
+    "word": "epidermis",
+    "part_of_speech": "n.",
+    "translate": "上皮;表皮"
+  },
+  {
+    "word": "gastralgia",
+    "part_of_speech": "n.",
+    "translate": "胃痛"
+  },
+  {
+    "word": "gastric",
+    "part_of_speech": "adj.",
+    "translate": "胃的"
+  },
+  {
+    "word": "gastroenteritis",
+    "part_of_speech": "n.",
+    "translate": "腸胃炎"
+  },
+  {
+    "word": "gastronomy",
+    "part_of_speech": "n.",
+    "translate": "烹飪法;美食法"
+  },
+  {
+    "word": "gastroptosis",
+    "part_of_speech": "n.",
+    "translate": "胃下垂"
+  },
+  {
+    "word": "hemoglobin",
+    "part_of_speech": "n.",
+    "translate": "血紅素"
+  },
+  {
+    "word": "hemophilia",
+    "part_of_speech": "n.",
+    "translate": "血友病"
+  },
+  {
+    "word": "hemorrhage",
+    "part_of_speech": "n.",
+    "translate": "出血"
+  },
+  {
+    "word": "hemorrhoid",
+    "part_of_speech": "n.",
+    "translate": "痔瘡(一般用複數型)"
+  },
+  {
+    "word": "leukemia",
+    "part_of_speech": "n.",
+    "translate": "白血球過多症;血癌"
+  },
+  {
+    "word": "septicemia",
+    "part_of_speech": "n.",
+    "translate": "敗血症"
+  },
+  {
+    "word": "manacle",
+    "part_of_speech": "n.",
+    "translate": "手銬(一般用複數型)"
+  },
+  {
+    "word": "manacle",
+    "part_of_speech": "v.",
+    "translate": "上手銬"
+  },
+  {
+    "word": "mandate",
+    "part_of_speech": "n.",
+    "translate": "命令;委任;要求"
+  },
+  {
+    "word": "mandatory",
+    "part_of_speech": "adj.",
+    "translate": "命令的;強制性的"
   }
 ]
