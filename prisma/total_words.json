@@ -1682,7 +1682,7 @@
   {
     "word": "pedestrian",
     "part_of_speech": "adj.",
-    "translate": "徒步的;行人的"
+    "translate": "徒步的;步行的;行人的"
   },
   {
     "word": "scene",
@@ -2422,7 +2422,7 @@
   {
     "word": "manifest",
     "part_of_speech": "adj.",
-    "translate": "清楚的;顯然的"
+    "translate": "明白的;明顯的;清楚的;顯然的"
   },
   {
     "word": "packet",
@@ -17832,7 +17832,7 @@
   {
     "word": "manifest",
     "part_of_speech": "v.",
-    "translate": "表明;顯示"
+    "translate": "流露(感情等);表明;顯示;顯示(能力等)"
   },
   {
     "word": "doubtful",
@@ -19857,7 +19857,7 @@
   {
     "word": "manual",
     "part_of_speech": "adj.",
-    "translate": "用手操作的"
+    "translate": "手工的;用手操作的;用手的"
   },
   {
     "word": "location",
@@ -23112,7 +23112,7 @@
   {
     "word": "manual",
     "part_of_speech": "n.",
-    "translate": "手冊"
+    "translate": "手冊;操作指南"
   },
   {
     "word": "look",
@@ -33562,7 +33562,7 @@
   {
     "word": "manipulate",
     "part_of_speech": "v.",
-    "translate": " 對...做手腳; 操作; 操縱;運用"
+    "translate": " 對...做手腳; 操作; 操縱;操作;操縱;運用"
   },
   {
     "word": "stunt",
@@ -50378,5 +50378,90 @@
     "word": "mandatory",
     "part_of_speech": "adj.",
     "translate": "命令的;強制性的"
+  },
+  {
+    "word": "maneuver",
+    "part_of_speech": "v.",
+    "translate": "小心、靈巧地移動;調動;謀得"
+  },
+  {
+    "word": "maneuver",
+    "part_of_speech": "n.",
+    "translate": "(軍隊的)調動;佈置;演習"
+  },
+  {
+    "word": "emancipate",
+    "part_of_speech": "v.",
+    "translate": "使不受束縛;解放"
+  },
+  {
+    "word": "manicure",
+    "part_of_speech": "v.",
+    "translate": "修指甲"
+  },
+  {
+    "word": "manicure",
+    "part_of_speech": "n.",
+    "translate": "修指甲"
+  },
+  {
+    "word": "centipede",
+    "part_of_speech": "n.",
+    "translate": "蜈蚣"
+  },
+  {
+    "word": "expedite",
+    "part_of_speech": "v.",
+    "translate": "促成;加快"
+  },
+  {
+    "word": "millipede",
+    "part_of_speech": "n.",
+    "translate": "馬陸"
+  },
+  {
+    "word": "pedicure",
+    "part_of_speech": "n.",
+    "translate": "修腳指甲;足部治療"
+  },
+  {
+    "word": "expedient",
+    "part_of_speech": "n.",
+    "translate": "權宜之計"
+  },
+  {
+    "word": "expedient",
+    "part_of_speech": "adj.",
+    "translate": "方便的;權宜的"
+  },
+  {
+    "word": "arthropod",
+    "part_of_speech": "n.",
+    "translate": "節肢動物"
+  },
+  {
+    "word": "tripod",
+    "part_of_speech": "n.",
+    "translate": "三腳架"
+  },
+  {
+    "word": "platypus",
+    "part_of_speech": "n.",
+    "translate": "鴨嘴獸"
+  },
+  {
+    "word": "sangfroid",
+    "part_of_speech": "n.",
+    "translate": "冷靜;沉著"
+  },
+  {
+    "word": "sanguinary",
+    "part_of_speech": "adj.",
+    "translate": "流血的;血腥的"
+  },
+  {
+    "word": "sanguine",
+    "part_of_speech": "adj.",
+    "translate": "樂觀的;氣色好的;血的"
   }
 ]
