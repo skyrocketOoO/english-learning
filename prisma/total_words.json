@@ -8007,7 +8007,7 @@
   {
     "word": "revive",
     "part_of_speech": "v.",
-    "translate": "使甦醒;復甦;恢復生機"
+    "translate": "使甦醒;復活;復甦;復興;恢復生機"
   },
   {
     "word": "marginal",
@@ -15097,7 +15097,7 @@
   {
     "word": "chapter",
     "part_of_speech": "n.",
-    "translate": "(書籍的)章,回"
+    "translate": "(人生、歷史的)階段;(書籍的)章;(書籍的)章,回"
   },
   {
     "word": "quack",
@@ -27117,7 +27117,7 @@
   {
     "word": "survival",
     "part_of_speech": "n.",
-    "translate": "倖存;殘存"
+    "translate": "倖存;存活;殘存"
   },
   {
     "word": "store",
@@ -30517,7 +30517,7 @@
   {
     "word": "capital",
     "part_of_speech": "n.",
-    "translate": "資本;首府;首都"
+    "translate": "大寫;資本;首府;首都"
   },
   {
     "word": "chew",
@@ -32547,7 +32547,7 @@
   {
     "word": "capital",
     "part_of_speech": "adj.",
-    "translate": "可處死刑的"
+    "translate": "主要的;可處死刑的;大寫的;應處死刑的;首位的"
   },
   {
     "word": "symbol",
@@ -37007,7 +37007,7 @@
   {
     "word": "vivid",
     "part_of_speech": "adj.",
-    "translate": "生動的;鮮豔的"
+    "translate": "栩栩如生的;生動的;鮮活的;鮮豔的"
   },
   {
     "word": "museum",
@@ -40952,7 +40952,7 @@
   {
     "word": "vital",
     "part_of_speech": "adj.",
-    "translate": "充滿活力的;致命的"
+    "translate": "充滿活力的;極其重要的;維持生命所需的;致命的"
   },
   {
     "word": "pass",
@@ -50113,5 +50113,55 @@
     "word": "squirm",
     "part_of_speech": "v.",
     "translate": "蠕動"
+  },
+  {
+    "word": "vivacious",
+    "part_of_speech": "adj.",
+    "translate": "活潑的;爽朗的"
+  },
+  {
+    "word": "viviparous",
+    "part_of_speech": "adj.",
+    "translate": "母體發芽的;胎生的"
+  },
+  {
+    "word": "convivial",
+    "part_of_speech": "adj.",
+    "translate": "友好的;歡樂的;酒宴的"
+  },
+  {
+    "word": "revitalize",
+    "part_of_speech": "v.",
+    "translate": "使復興;使恢復元氣"
+  },
+  {
+    "word": "capitalize",
+    "part_of_speech": "v.",
+    "translate": "提供資金;用大寫書寫;資本化"
+  },
+  {
+    "word": "capitulate",
+    "part_of_speech": "v.",
+    "translate": "(有條件)投降;屈服"
+  },
+  {
+    "word": "decapitate",
+    "part_of_speech": "v.",
+    "translate": "斬首;殺頭"
+  },
+  {
+    "word": "percapita",
+    "part_of_speech": "adj.",
+    "translate": "按人計算的"
+  },
+  {
+    "word": "recapitulate",
+    "part_of_speech": "v.",
+    "translate": "概括;重述要點"
+  },
+  {
+    "word": "carnage",
+    "part_of_speech": "n.",
+    "translate": "屠殺;殘殺"
   }
 ]
